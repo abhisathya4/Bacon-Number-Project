@@ -1,0 +1,2307 @@
+titleId,ordering,title,region,language,types,attributes,isOriginalTitle
+tt0000001,1,Карменсіта,UA,\N,imdbDisplay,\N,0
+tt0000001,2,Carmencita,DE,\N,\N,literal title,0
+tt0000001,3,Carmencita - spanyol tánc,HU,\N,imdbDisplay,\N,0
+tt0000001,4,Καρμενσίτα,GR,\N,imdbDisplay,\N,0
+tt0000001,5,Карменсита,RU,\N,imdbDisplay,\N,0
+tt0000001,6,Carmencita,US,\N,imdbDisplay,\N,0
+tt0000001,7,Carmencita,\N,\N,original,\N,1
+tt0000001,8,カルメンチータ,JP,ja,imdbDisplay,\N,0
+tt0000002,1,Le clown et ses chiens,\N,\N,original,\N,1
+tt0000002,2,Le clown et ses chiens,FR,\N,imdbDisplay,\N,0
+tt0000002,3,A bohóc és kutyái,HU,\N,imdbDisplay,\N,0
+tt0000002,4,Der Clown und seine Hunde,DE,\N,\N,literal title,0
+tt0000002,5,Clovnul si cainii sai,RO,\N,imdbDisplay,\N,0
+tt0000002,6,Клоун и его собаки,RU,\N,imdbDisplay,\N,0
+tt0000002,7,The Clown and His Dogs,US,\N,\N,literal English title,0
+tt0000002,8,道化師と犬,JP,ja,imdbDisplay,\N,0
+tt0000003,1,Sarmanul Pierrot,RO,\N,imdbDisplay,\N,0
+tt0000003,2,Szegény Pierrot,HU,\N,imdbDisplay,\N,0
+tt0000003,3,哀れなピエロ,JP,ja,imdbDisplay,\N,0
+tt0000003,4,Бідний П'єро,UA,\N,imdbDisplay,\N,0
+tt0000003,5,Бедный Пьеро,RU,\N,imdbDisplay,\N,0
+tt0000003,6,Pauvre Pierrot,\N,\N,original,\N,1
+tt0000003,7,Poor Pierrot,GB,\N,imdbDisplay,\N,0
+tt0000003,8,Pauvre Pierrot,FR,\N,imdbDisplay,\N,0
+tt0000003,9,Armer Pierrot,DE,\N,\N,literal title,0
+tt0000004,1,Un bon bock,\N,\N,original,\N,1
+tt0000004,2,Un bon bock,FR,\N,imdbDisplay,\N,0
+tt0000004,3,Ein gutes Glas Bier,DE,\N,\N,literal title,0
+tt0000004,4,Un ţap de bere,RO,\N,imdbDisplay,\N,0
+tt0000004,5,Полная кружка пива,RU,\N,imdbDisplay,\N,0
+tt0000004,6,一杯のビール,JP,ja,imdbDisplay,\N,0
+tt0000004,7,A Good Beer,\N,\N,\N,\N,0
+tt0000004,8,Egy jó pohár sör,HU,\N,imdbDisplay,\N,0
+tt0000005,10,Blacksmith Scene,\N,\N,original,\N,1
+tt0000005,11,The Blacksmith's Forge,GB,\N,\N,informal alternative title,0
+tt0000005,1,Blacksmithing Scene,US,\N,alternative,\N,0
+tt0000005,2,Ковальська сцена,UA,\N,imdbDisplay,\N,0
+tt0000005,3,Сцена в кузне,RU,\N,imdbDisplay,\N,0
+tt0000005,4,Blacksmith Shop,GB,\N,\N,informal alternative title,0
+tt0000005,5,Blacksmith Scene #1,US,\N,alternative,\N,0
+tt0000005,6,Blacksmithing,US,\N,\N,informal alternative title,0
+tt0000005,7,Schmiedszene,DE,\N,\N,literal title,0
+tt0000005,8,A patkolókovács,HU,\N,imdbDisplay,\N,0
+tt0000005,9,Blacksmith Scene,US,\N,imdbDisplay,\N,0
+tt0000006,1,Китайский опиумный притон,RU,\N,imdbDisplay,\N,0
+tt0000006,2,Chinezes Fumadores de Ópio,PT,\N,\N,promotional title,0
+tt0000006,3,Chinese Opium Den,US,\N,imdbDisplay,\N,0
+tt0000006,4,Kínai ópiumbarlang,HU,\N,imdbDisplay,\N,0
+tt0000006,5,Chinese Opium Den,\N,\N,original,\N,1
+tt0000006,6,Chinesische Opiumhöhle,DE,\N,\N,literal title,0
+tt0000007,1,Corbett and Courtney Before the Kinetograph,US,\N,imdbDisplay,\N,0
+tt0000007,2,Corbett and Courtney Before the Kinetograph,\N,\N,original,\N,1
+tt0000007,3,A Corbett-Courtney bokszmeccs,HU,\N,imdbDisplay,\N,0
+tt0000007,4,キネトグラフの前のコーベットとコートニー,JP,ja,imdbDisplay,\N,0
+tt0000007,5,The Corbett-Courtney Fight,US,\N,alternative,\N,0
+tt0000007,6,Jim Corbett vs. Peter Courtney,US,\N,alternative,\N,0
+tt0000007,7,Edison Kinetoscopic Record of Boxers,\N,\N,\N,\N,0
+tt0000007,8,Корбетт и Кортни перед кинематографом,RU,\N,imdbDisplay,\N,0
+tt0000007,9,Corbett und Courtney vor dem Kinetographen,DE,\N,\N,literal title,0
+tt0000008,10,Edison kinetoskopische Aufnahme eines Niesens,DE,\N,\N,literal title,0
+tt0000008,1,Edison asszisztense tüsszent,HU,\N,imdbDisplay,\N,0
+tt0000008,2,フレッド・オット－のくしゃみ,JP,ja,imdbDisplay,\N,0
+tt0000008,3,Edison Kinetoscopic Record of a Sneeze, January 7, 1894,US,\N,\N,complete title,0
+tt0000008,4,Edison Kinetoscopic Record of a Sneeze,US,\N,imdbDisplay,\N,0
+tt0000008,5,Edison Kinetoscopic Record of a Sneeze,\N,\N,original,\N,1
+tt0000008,6,Fred Otts Niesen,DE,\N,\N,literal title,0
+tt0000008,7,Чих, записанный на кинетоскоп Эдисона,RU,\N,imdbDisplay,\N,0
+tt0000008,8,Чхання Фреда Отта,UA,\N,imdbDisplay,\N,0
+tt0000008,9,Fred Ott's Sneeze,\N,\N,\N,\N,0
+tt0000009,1,Miss Jerry,\N,\N,original,\N,1
+tt0000009,2,Fräulein Jerry,DE,\N,\N,literal title,0
+tt0000009,3,Miss Jerry,HU,\N,imdbDisplay,\N,0
+tt0000009,4,Miss Jerry,US,\N,imdbDisplay,\N,0
+tt0000010,10,La sortie des usines Lumière,FR,\N,alternative,\N,0
+tt0000010,11,Радници напуштају фабрику Лимијер,RS,\N,imdbDisplay,\N,0
+tt0000010,12,La Salida De Los Obreros De La Fábrica Lumière,ES,\N,\N,literal translation of working title,0
+tt0000010,13,Leaving the Factory,US,\N,imdbDisplay,\N,0
+tt0000010,14,Salida de obreros de la fábrica Lumiere,UY,\N,\N,premiere title,0
+tt0000010,15,La sortie des ouvriers de l'usine Lumière,FR,\N,\N,informal alternative title,0
+tt0000010,16,Arbeiter verlassen die Lumière-Werke,DE,\N,imdbDisplay,\N,0
+tt0000010,17,L'uscita dalle fabbriche Lumière,IT,\N,imdbDisplay,\N,0
+tt0000010,18,Workers Leaving the Lumière Factory,US,\N,imdbDisplay,\N,0
+tt0000010,19,工場の出口,JP,ja,imdbDisplay,\N,0
+tt0000010,1,La salida de los obreros de la fábrica Lumière,AR,\N,\N,\N,0
+tt0000010,20,Вихід робітників із фабрики,UA,\N,imdbDisplay,\N,0
+tt0000010,21,Выход рабочих с фабрики 'Люмьер',RU,\N,imdbDisplay,\N,0
+tt0000010,22,Työntekijät poistuvat Lumière-tehtaalta,FI,\N,\N,informal title,0
+tt0000010,23,A munkaidő vége,HU,\N,imdbDisplay,\N,0
+tt0000010,24,Wyjście robotników z fabryki,PL,\N,imdbDisplay,\N,0
+tt0000010,2,Lumière-fabrikens arbetare,FI,sv,\N,informal title,0
+tt0000010,3,Exiting the Factory,US,\N,imdbDisplay,\N,0
+tt0000010,4,A Saída dos Operários da Fábrica Lumière,BR,\N,\N,\N,0
+tt0000010,5,Employees Leaving the Lumière Factory,US,\N,alternative,\N,0
+tt0000010,6,Sortie d'usine,FR,\N,\N,short title,0
+tt0000010,7,La sortie de l'usine Lumière,FR,\N,alternative,\N,0
+tt0000010,8,La sortie de l'usine Lumière à Lyon,FR,\N,imdbDisplay,\N,0
+tt0000010,9,La sortie de l'usine Lumière à Lyon,\N,\N,original,\N,1
+tt0000011,1,Akrobatisches Potpourri,DE,\N,imdbDisplay,\N,0
+tt0000011,2,Akrobatisches Potpourri,\N,\N,original,\N,1
+tt0000011,3,Акробатическая смесь,RU,\N,imdbDisplay,\N,0
+tt0000012,10,Juna saapuu asemalle,FI,\N,\N,informal title,0
+tt0000012,11,Ankunft eines Zuges in La Ciotat,DE,\N,imdbDisplay,\N,0
+tt0000012,12,A vonat érkezése,HU,\N,imdbDisplay,\N,0
+tt0000012,13,Прибытие поезда на вокзал города Ла-Сьота,RU,\N,imdbDisplay,\N,0
+tt0000012,14,La llegada de un tren a la estación de la ciotat,ES,\N,\N,informal title,0
+tt0000012,15,Toget kører ind på Le Ciotat,DK,\N,\N,\N,0
+tt0000012,16,Bir trenin La Ciotat garına varışı,TR,tr,imdbDisplay,\N,0
+tt0000012,17,The Arrival of a Train,GB,\N,imdbDisplay,\N,0
+tt0000012,18,Train Pulling into a Station,GB,\N,alternative,\N,0
+tt0000012,19,L'arrivée d'un train à La Ciotat,FR,\N,imdbDisplay,\N,0
+tt0000012,1,The Arrival of a Train,US,\N,imdbDisplay,\N,0
+tt0000012,20,L'arrivo di un treno nella stazione di La Ciotat,IT,\N,\N,\N,0
+tt0000012,21,L'arrivée d'un train en gare de La Ciotat,FR,\N,alternative,\N,0
+tt0000012,22,Przyjazd pociągu na stację,PL,\N,imdbDisplay,\N,0
+tt0000012,23,The Arrival of a Train,XWW,en,imdbDisplay,\N,0
+tt0000012,24,ラ・シオタ駅への列車の到着,JP,ja,imdbDisplay,\N,0
+tt0000012,25,Прибуття потяга на вокзал Ла-Сьота,UA,\N,imdbDisplay,\N,0
+tt0000012,26,The Arrival of a Train,XEU,en,imdbDisplay,\N,0
+tt0000012,27,L'arrivo di un treno alla stazione di La Ciotat,IT,\N,\N,\N,0
+tt0000012,2,The Arrival of a Train,XWW,\N,imdbDisplay,\N,0
+tt0000012,3,The Arrival of the Mail Train,US,\N,alternative,\N,0
+tt0000012,4,L'arrivée d'un train à La Ciotat,\N,\N,original,\N,1
+tt0000012,5,Príchod vlaku do stanice La Ciotat,SK,\N,imdbDisplay,\N,0
+tt0000012,6,Долазак воза на станицу,RS,\N,imdbDisplay,\N,0
+tt0000012,7,A Chegada de um Trem à Estação,BR,\N,imdbDisplay,\N,0
+tt0000012,8,Tåget anländer till stationen,FI,sv,\N,informal title,0
+tt0000012,9,The Arrival of a Train at La Ciotat,XWW,en,alternative,\N,0
+tt0000013,10,The Photographical Congress Arrives in Lyon,XWW,en,imdbDisplay,\N,0
+tt0000013,11,Arrivée des congressistes à Neuville-sur-Saône,FR,\N,alternative,\N,0
+tt0000013,12,Прибуття делегатів на фотоконгрес у Ліоні,UA,\N,imdbDisplay,\N,0
+tt0000013,13,Fotografi napuštaju palubu u Lionu,RS,\N,imdbDisplay,\N,0
+tt0000013,1,The Photographical Congress Arrives in Lyon,GB,\N,imdbDisplay,\N,0
+tt0000013,2,Le débarquement du congrès de photographie à Lyon,\N,\N,original,\N,1
+tt0000013,3,Le débarquement du congrès de photographie à Lyon,FR,\N,imdbDisplay,\N,0
+tt0000013,4,Прибытие делегатов на фотоконгресс в Лионе,RU,\N,imdbDisplay,\N,0
+tt0000013,5,Le débarquement des congressistes à Neuville,FR,\N,alternative,\N,0
+tt0000013,6,The Photographical Congress Arrives in Lyon,US,\N,imdbDisplay,\N,0
+tt0000013,7,Neuville-sur-Saône: Débarquement du congrès des photographes à Lyon,FR,\N,imdbDisplay,\N,0
+tt0000013,8,Przybycie delegatów na kongres fotograficzny w Lyonie,PL,\N,imdbDisplay,\N,0
+tt0000013,9,A kongresszus tagjainak partraszállása,HU,\N,imdbDisplay,\N,0
+tt0000014,10,水をかけられた散水夫,JP,ja,imdbDisplay,\N,0
+tt0000014,11,O Regador Regado,BR,\N,imdbDisplay,\N,0
+tt0000014,12,The Sprayer Sprayed,US,\N,alternative,\N,0
+tt0000014,13,L'arroseur arrosé,FR,\N,imdbDisplay,\N,0
+tt0000014,14,L'arroseur arrosé,\N,\N,original,\N,1
+tt0000014,15,Заливена вода,RS,\N,imdbDisplay,\N,0
+tt0000014,16,The Waterer Watered,US,\N,imdbDisplay,\N,0
+tt0000014,17,Arroseur et arrosé,FR,\N,alternative,\N,0
+tt0000014,18,Puutarhuri,FI,\N,\N,\N,0
+tt0000014,19,Pokropený kropic,CZ,\N,imdbDisplay,\N,0
+tt0000014,1,The Sprinkler Sprinkled,US,\N,imdbDisplay,\N,0
+tt0000014,20,Политий поливальник,UA,\N,imdbDisplay,\N,0
+tt0000014,21,Der begossene Gärtner,DE,\N,imdbDisplay,\N,0
+tt0000014,22,Trädgårsmästarn,FI,sv,\N,\N,0
+tt0000014,23,Le jardinier et le petit espiègle,FR,\N,alternative,\N,0
+tt0000014,24,Политый поливальщик,RU,\N,imdbDisplay,\N,0
+tt0000014,2,Tables Turned on the Gardener,US,\N,alternative,\N,0
+tt0000014,3,Gartneren vandes,DK,\N,\N,\N,0
+tt0000014,4,El Regador Regado,ES,\N,\N,complete title,0
+tt0000014,5,A megöntözött öntöző,HU,\N,imdbDisplay,\N,0
+tt0000014,6,Vattnaren bevattnad,SE,\N,\N,\N,0
+tt0000014,7,Le jardinier,FR,\N,\N,première title,0
+tt0000014,8,Oblany ogrodnik,PL,\N,\N,\N,0
+tt0000014,9,L'innaffiatore annaffiato,IT,\N,\N,\N,0
+tt0000015,1,Вoкруг кабинки,RU,\N,imdbDisplay,\N,0
+tt0000015,2,Egy kabin körül,HU,\N,imdbDisplay,\N,0
+tt0000015,3,Around a Bathing Hut,US,\N,\N,literal English title,0
+tt0000015,4,Autour d'une cabine,FR,\N,imdbDisplay,\N,0
+tt0000015,5,Autour d'une cabine,\N,\N,original,\N,1
+tt0000015,6,Навколо кабінки,UA,\N,imdbDisplay,\N,0
+tt0000016,10,Båten lämnar hamnet,FI,sv,\N,informal title,0
+tt0000016,11,Łódź wypływająca z portu,PL,\N,imdbDisplay,\N,0
+tt0000016,12,Brod napušta luku,RS,\N,imdbDisplay,\N,0
+tt0000016,1,Boat Leaving the Port,XWW,en,imdbDisplay,\N,0
+tt0000016,2,La sortie du port,FR,\N,alternative,\N,0
+tt0000016,3,Лодка выходит из порта,RU,\N,imdbDisplay,\N,0
+tt0000016,4,Kikötőből távozó bárka,HU,\N,imdbDisplay,\N,0
+tt0000016,5,Boat Leaving the Port,GB,\N,imdbDisplay,\N,0
+tt0000016,6,Vene lähtee satamasta,FI,\N,\N,informal title,0
+tt0000016,7,Barque sortant du port,FR,\N,imdbDisplay,\N,0
+tt0000016,8,Boat Leaving the Port,US,\N,imdbDisplay,\N,0
+tt0000016,9,Barque sortant du port,\N,\N,original,\N,1
+tt0000017,1,Italienischer Bauerntanz,\N,\N,original,\N,1
+tt0000017,2,Bauerntanz zweier Kinder,DE,\N,\N,bowdlerized title,0
+tt0000017,3,Italienischer Bauerntanz,DE,\N,imdbDisplay,\N,0
+tt0000017,4,Итальянский крестьянский танец,RU,\N,imdbDisplay,\N,0
+tt0000018,1,Das boxende Känguruh,DE,\N,imdbDisplay,\N,0
+tt0000018,2,Cangurul boxer,RO,\N,imdbDisplay,\N,0
+tt0000018,3,Das boxende Känguruh,\N,\N,original,\N,1
+tt0000018,4,Бокс с кенгуру,RU,\N,imdbDisplay,\N,0
+tt0000018,5,Mr. Delaware and the Boxing Kangaroo,GB,\N,\N,reissue title,0
+tt0000019,1,The Clown Barber,GB,\N,imdbDisplay,\N,0
+tt0000019,2,The Clown Barber,\N,\N,original,\N,1
+tt0000020,1,The Derby 1895,\N,\N,original,\N,1
+tt0000020,2,Дерби 1895,RU,\N,imdbDisplay,\N,0
+tt0000020,3,The Derby 1895,GB,\N,imdbDisplay,\N,0
+tt0000022,1,The Blacksmiths,US,\N,\N,literal English title,0
+tt0000022,2,Kowale,PL,\N,imdbDisplay,\N,0
+tt0000022,3,Кузнецы,RU,\N,imdbDisplay,\N,0
+tt0000022,4,Ковалі,UA,\N,imdbDisplay,\N,0
+tt0000022,5,Les forgerons,FR,\N,imdbDisplay,\N,0
+tt0000022,6,Blacksmith Scene,US,\N,\N,\N,0
+tt0000022,7,Les forgerons,\N,\N,original,\N,1
+tt0000022,8,Blacksmiths at Work,GB,\N,\N,informal English title,0
+tt0000023,10,Море,RU,\N,imdbDisplay,\N,0
+tt0000023,11,A Dip in the Sea,XWW,en,alternative,\N,0
+tt0000023,12,Meri,FI,\N,\N,informal title,0
+tt0000023,13,La Mer,FR,\N,alternative,\N,0
+tt0000023,14,Kapiel w morzu,PL,\N,imdbDisplay,\N,0
+tt0000023,15,Hafvet,FI,sv,\N,\N,0
+tt0000023,1,Plivanje u moru,RS,\N,imdbDisplay,\N,0
+tt0000023,2,Морське купання,UA,\N,imdbDisplay,\N,0
+tt0000023,3,Sea Bathing,GB,\N,\N,informal title,0
+tt0000023,4,The Sea,XWW,en,imdbDisplay,\N,0
+tt0000023,5,The Sea,US,\N,imdbDisplay,\N,0
+tt0000023,6,The Sea,GB,\N,imdbDisplay,\N,0
+tt0000023,7,Meri ihmeellisine kylpykuvauksineen,FI,\N,\N,\N,0
+tt0000023,8,Baignade en mer,\N,\N,original,\N,1
+tt0000023,9,Baignade en mer,FR,\N,imdbDisplay,\N,0
+tt0000024,1,Opening of the Kiel Canal,\N,\N,original,\N,1
+tt0000024,2,Eroffnung des Nordostsee Kanals,DE,\N,imdbDisplay,\N,0
+tt0000024,3,Inauguration of the Kiel Canal by Kaiser Wilhelm II,GB,\N,alternative,\N,0
+tt0000024,4,A Kieli-csatorna megnyitása,HU,\N,imdbDisplay,\N,0
+tt0000024,5,Opening of the Kiel Canal,GB,\N,imdbDisplay,\N,0
+tt0000025,1,The Oxford and Cambridge University Boat Race,GB,\N,imdbDisplay,\N,0
+tt0000025,2,The Oxford and Cambridge University Boat Race,\N,\N,original,\N,1
+tt0000026,10,Et spil kort,DK,\N,\N,\N,0
+tt0000026,11,Kortspelet,FI,sv,\N,informal title,0
+tt0000026,12,Партія в карти,UA,\N,imdbDisplay,\N,0
+tt0000026,13,Ett parti ecarté,FI,sv,\N,\N,0
+tt0000026,14,Партия в карты,RU,\N,imdbDisplay,\N,0
+tt0000026,1,Partia kart,PL,\N,imdbDisplay,\N,0
+tt0000026,2,Card Game,\N,\N,\N,\N,0
+tt0000026,3,Korttipeli,FI,\N,\N,informal title,0
+tt0000026,4,Game of Cards,GB,\N,\N,informal English title,0
+tt0000026,5,The Messers. Lumière at Cards,US,\N,\N,\N,0
+tt0000026,6,Kártyaparti,HU,\N,imdbDisplay,\N,0
+tt0000026,7,Ecarté peliä,FI,\N,\N,\N,0
+tt0000026,8,Partie d'écarté,\N,\N,original,\N,1
+tt0000026,9,Partie d'écarté,FR,\N,\N,alternative spelling,0
+tt0000027,1,Площа Кордельє в Ліоні,UA,\N,imdbDisplay,\N,0
+tt0000027,2,Cordeliers' Square in Lyon,GB,\N,imdbDisplay,\N,0
+tt0000027,3,Cordeliers' Square in Lyon,US,\N,imdbDisplay,\N,0
+tt0000027,4,Place des Cordeliers à Lyon,FR,\N,imdbDisplay,\N,0
+tt0000027,5,Площадь Корделье в Лионе,RU,\N,imdbDisplay,\N,0
+tt0000027,6,Place des Cordeliers à Lyon,\N,\N,original,\N,1
+tt0000027,7,Cordeliers Square, Lyons, France,GB,\N,\N,informal English title,0
+tt0000027,8,Cordeliers' Square in Lyon,XWW,en,imdbDisplay,\N,0
+tt0000028,1,A Pesca do Peixe Dourado,BR,\N,imdbDisplay,\N,0
+tt0000028,2,La pêche aux poissons rouges,\N,\N,original,\N,1
+tt0000028,3,La pêche aux poissons rouges,FR,\N,imdbDisplay,\N,0
+tt0000028,4,Виловлювання червоних рибок,UA,\N,imdbDisplay,\N,0
+tt0000028,5,Fishing for Goldfish,XWW,en,imdbDisplay,\N,0
+tt0000028,6,Zabawa z rybka,PL,\N,imdbDisplay,\N,0
+tt0000028,7,Fishing for Goldfish,GB,\N,imdbDisplay,\N,0
+tt0000028,8,Вылaвливание красных рыбок,RU,\N,imdbDisplay,\N,0
+tt0000028,9,Fishing for Goldfish,US,\N,imdbDisplay,\N,0
+tt0000029,10,Karmienie dziecka,PL,\N,imdbDisplay,\N,0
+tt0000029,11,Repas de bébé,\N,\N,original,\N,1
+tt0000029,12,Repas de bébé,DE,\N,imdbDisplay,\N,0
+tt0000029,13,Baby's Meal,GB,\N,imdbDisplay,\N,0
+tt0000029,14,Le goûter de bébé,FR,\N,alternative,\N,0
+tt0000029,15,Сніданок немовляти,UA,\N,imdbDisplay,\N,0
+tt0000029,16,Lapsen ateria,FI,\N,\N,informal title,0
+tt0000029,17,Baby mades,DK,\N,\N,\N,0
+tt0000029,18,A kisbaba reggelije,HU,\N,imdbDisplay,\N,0
+tt0000029,19,La colazione del bimbo,IT,\N,imdbDisplay,\N,0
+tt0000029,1,Baby's Dinner,US,\N,\N,\N,0
+tt0000029,20,Вечера за бебу,RS,\N,imdbDisplay,\N,0
+tt0000029,21,Barnets måltid,FI,sv,\N,informal title,0
+tt0000029,22,Baby's Lunch,US,\N,\N,original script title,0
+tt0000029,2,Feeding the Baby,US,\N,\N,\N,0
+tt0000029,3,La comida del bebé,UY,\N,\N,premiere title,0
+tt0000029,4,Le déjeuner de bébé,FR,\N,alternative,\N,0
+tt0000029,5,Baby's Meal,XWW,en,imdbDisplay,\N,0
+tt0000029,6,O Almoço do Bebê,BR,\N,imdbDisplay,\N,0
+tt0000029,7,Завтрак младенца,RU,\N,imdbDisplay,\N,0
+tt0000029,8,Baby's Meal,US,\N,imdbDisplay,\N,0
+tt0000029,9,Repas de bébé,FR,\N,imdbDisplay,\N,0
+tt0000030,1,Бушующее море, вызвавшее наводнение в Дувре,RU,\N,imdbDisplay,\N,0
+tt0000030,2,Rough Sea at Dover,\N,\N,original,\N,1
+tt0000030,3,A hullámzó tenger Dovernél,HU,\N,imdbDisplay,\N,0
+tt0000030,4,Sea Waves at Dover,GB,\N,alternative,\N,0
+tt0000030,5,Rough Sea at Dover,GB,\N,imdbDisplay,\N,0
+tt0000030,6,A South-West Storm in Dover,GB,\N,alternative,\N,0
+tt0000030,7,A South-Wester,GB,\N,alternative,\N,0
+tt0000031,10,Le saut à la couverture,FR,\N,imdbDisplay,\N,0
+tt0000031,11,Jumping the Blanket,GB,\N,imdbDisplay,\N,0
+tt0000031,1,Sotilaskuva,FI,\N,\N,\N,0
+tt0000031,2,Jumping the Blanket,XWW,en,imdbDisplay,\N,0
+tt0000031,3,En soldatscen,FI,sv,\N,\N,0
+tt0000031,4,Прыжок на брезент,RU,\N,imdbDisplay,\N,0
+tt0000031,5,Saut à la couverture,FR,\N,\N,reissue title,0
+tt0000031,6,Brimade dans une caserne,FR,\N,alternative,\N,0
+tt0000031,7,Jumping the Blanket,US,\N,imdbDisplay,\N,0
+tt0000031,8,Стрибок через брезент,UA,\N,imdbDisplay,\N,0
+tt0000031,9,Le saut à la couverture,\N,\N,original,\N,1
+tt0000032,1,Dans serpentin,RO,\N,imdbDisplay,\N,0
+tt0000032,2,Serpentinen Tanz,DE,\N,alternative,\N,0
+tt0000032,3,Die Serpentintänzerin,\N,\N,original,\N,1
+tt0000032,4,Serpentintanz Mlle. Ancion,DE,\N,\N,\N,0
+tt0000032,5,Серпантин,RU,\N,imdbDisplay,\N,0
+tt0000033,10,Вольтижування,UA,\N,imdbDisplay,\N,0
+tt0000033,1,A Acrobacia,BR,\N,imdbDisplay,\N,0
+tt0000033,2,Horse Trick Riders,GB,\N,imdbDisplay,\N,0
+tt0000033,3,Hyppyjä,FI,\N,\N,\N,0
+tt0000033,4,Horse Trick Riders,XWW,en,imdbDisplay,\N,0
+tt0000033,5,La voltige,\N,\N,original,\N,1
+tt0000033,6,Вoльтижировка,RU,\N,imdbDisplay,\N,0
+tt0000033,7,Horse Trick Riders,US,\N,imdbDisplay,\N,0
+tt0000033,8,La voltige,FR,\N,imdbDisplay,\N,0
+tt0000033,9,Trick Riding,US,\N,\N,\N,0
+tt0000034,1,Arrivée d'un train gare de Vincennes,\N,\N,original,\N,1
+tt0000034,2,Arrivée d'un train gare de Vincennes,FR,\N,imdbDisplay,\N,0
+tt0000034,3,Arrival of a Train at Vincennes Station,XWW,en,alternative,\N,0
+tt0000035,1,L'arroseur,FR,\N,imdbDisplay,\N,0
+tt0000035,2,L'arroseur,\N,\N,original,\N,1
+tt0000035,3,The Sprinkler Sprinkled,XWW,en,alternative,\N,0
+tt0000035,4,Watering the Flowers,US,\N,\N,\N,0
+tt0000036,1,Awakening of Rip,US,\N,imdbDisplay,\N,0
+tt0000036,2,Awakening of Rip,\N,\N,original,\N,1
+tt0000036,3,Пробуждение Рипа,RU,\N,imdbDisplay,\N,0
+tt0000037,1,Sea Bathing,US,\N,imdbDisplay,\N,0
+tt0000037,2,Плавание в море,RU,\N,imdbDisplay,\N,0
+tt0000037,3,Baignade en mer,\N,\N,original,\N,1
+tt0000037,4,Baignade en mer,FR,\N,imdbDisplay,\N,0
+tt0000038,1,The Ball Game,\N,\N,original,\N,1
+tt0000038,2,The Ball Game,US,\N,imdbDisplay,\N,0
+tt0000039,1,Barnet Horse Fair,\N,\N,original,\N,1
+tt0000039,2,Barnet Horse Fair,GB,\N,imdbDisplay,\N,0
+tt0000040,1,Boat Leaving the Harbor at Trouville,US,\N,\N,literal English title,0
+tt0000040,2,Barque sortant du port de Trouville,FR,\N,imdbDisplay,\N,0
+tt0000040,3,Barque sortant du port de Trouville,\N,\N,original,\N,1
+tt0000041,10,Snowball Fight,GB,\N,imdbDisplay,\N,0
+tt0000041,1,Snowball Fight,US,\N,\N,informal English title,0
+tt0000041,2,Bataille de neige,\N,\N,original,\N,1
+tt0000041,3,A Batalha de Neve,BR,\N,imdbDisplay,\N,0
+tt0000041,4,Игра в снежки,RU,\N,imdbDisplay,\N,0
+tt0000041,5,Гра в сніжки,UA,\N,imdbDisplay,\N,0
+tt0000041,6,Bataille de boules de neige,FR,\N,imdbDisplay,\N,0
+tt0000041,7,Hógolyó csata,HU,\N,imdbDisplay,\N,0
+tt0000041,8,Die Schneeballschlacht,DE,\N,imdbDisplay,\N,0
+tt0000041,9,Bitwa na sniezki,PL,\N,imdbDisplay,\N,0
+tt0000042,1,Seine nehrindeki gemiler,TR,tr,\N,\N,0
+tt0000042,2,Bateau-mouche sur la Seine,\N,\N,original,\N,1
+tt0000042,3,Bateau-mouche sur la Seine,FR,\N,imdbDisplay,\N,0
+tt0000043,1,Batteuse à vapeur,\N,\N,original,\N,1
+tt0000043,2,Batteuse à vapeur,FR,\N,imdbDisplay,\N,0
+tt0000044,1,Le bivouac,\N,\N,original,\N,1
+tt0000044,2,Le bivouac,FR,\N,imdbDisplay,\N,0
+tt0000045,1,Les blanchisseuses,\N,\N,original,\N,1
+tt0000045,2,Les blanchisseuses,FR,\N,imdbDisplay,\N,0
+tt0000045,3,Mosónők,HU,\N,imdbDisplay,\N,0
+tt0000045,4,The Washerwomen,US,\N,\N,literal English title,0
+tt0000046,1,Bois de Boulogne,FR,\N,imdbDisplay,\N,0
+tt0000046,2,Bois de Boulogne,\N,\N,original,\N,1
+tt0000046,3,Bois de Boulogne (Porte de Madrid),FR,\N,alternative,\N,0
+tt0000047,1,Boulevard des Italiens,\N,\N,original,\N,1
+tt0000047,2,Boulevard des Italiens,FR,\N,imdbDisplay,\N,0
+tt0000048,1,The Boxing Kangaroo,GB,\N,imdbDisplay,\N,0
+tt0000048,2,The Boxing Kangaroo,\N,\N,original,\N,1
+tt0000049,1,Boxing Match; or, Glove Contest,\N,\N,original,\N,1
+tt0000049,2,Boxing Match; or, Glove Contest,GB,\N,imdbDisplay,\N,0
+tt0000050,1,Bébé et fillettes,\N,\N,original,\N,1
+tt0000050,2,Bébé et fillettes,FR,\N,imdbDisplay,\N,0
+tt0000050,3,Baby and Young Girls,US,\N,\N,literal English title,0
+tt0000051,1,The Bohemian Encampment,US,\N,\N,\N,0
+tt0000051,2,Gypsies at Home,US,\N,\N,literal English title,0
+tt0000051,3,El campamento bohemio,XWW,es,\N,\N,0
+tt0000051,4,Campement de bohémiens,FR,\N,imdbDisplay,\N,0
+tt0000051,5,Campement de bohémiens,\N,\N,original,\N,1
+tt0000052,1,Carga de rurales,MX,\N,imdbDisplay,\N,0
+tt0000052,2,Carga de rurales,\N,\N,original,\N,1
+tt0000052,3,Rurales Mexicanos al galope,MX,\N,\N,alternative spelling,0
+tt0000052,4,Verpflichtung der Landpolizei,DE,\N,\N,\N,0
+tt0000052,5,Desfile de rurales al galope el 16 de septiembre,\N,\N,\N,\N,0
+tt0000053,1,A Chegada do Comboio Inaugural à Estação Central do Porto,PT,\N,imdbDisplay,\N,0
+tt0000053,2,A Chegada do Comboio Inaugural à Estação Central do Porto,\N,\N,original,\N,1
+tt0000054,1,A Merry-Go-Round,US,\N,\N,\N,0
+tt0000054,2,Les chevaux de bois,\N,\N,original,\N,1
+tt0000054,3,Les chevaux de bois,FR,\N,imdbDisplay,\N,0
+tt0000055,1,Le chiffonnier,\N,\N,original,\N,1
+tt0000055,2,Le chiffonnier,FR,\N,imdbDisplay,\N,0
+tt0000056,1,Uma Corrida de Touros no Campo Pequeno,\N,\N,original,\N,1
+tt0000056,2,Uma Corrida de Touros no Campo Pequeno,GB,\N,imdbDisplay,\N,0
+tt0000057,1,Cortège de tzar allant à Versailles,\N,\N,original,\N,1
+tt0000057,2,Cortège de tzar allant à Versailles,FR,\N,imdbDisplay,\N,0
+tt0000057,3,The Czar and His Cortege Going to Versailles,GB,\N,imdbDisplay,\N,0
+tt0000058,1,The Czar's Cortege in the Bois de Boulogne,GB,\N,imdbDisplay,\N,0
+tt0000058,2,Cortège de tzar au Bois de Boulogne,\N,\N,original,\N,1
+tt0000058,3,Cortège de tzar au Bois de Boulogne,FR,\N,imdbDisplay,\N,0
+tt0000059,1,Coronation of a Village Maiden,US,\N,\N,\N,0
+tt0000059,2,Couronnement de la rosière,\N,\N,original,\N,1
+tt0000059,3,Couronnement de la rosière,FR,\N,imdbDisplay,\N,0
+tt0000060,1,Dancing Darkies,\N,\N,original,\N,1
+tt0000060,2,Dancing Darkies,US,\N,imdbDisplay,\N,0
+tt0000061,1,Dancing Girls,GB,\N,imdbDisplay,\N,0
+tt0000061,2,Dancing Girls,\N,\N,original,\N,1
+tt0000062,1,Danse serpentine,\N,\N,original,\N,1
+tt0000062,2,Danse serpentine,FR,\N,imdbDisplay,\N,0
+tt0000063,1,Dessinateur express,\N,\N,original,\N,1
+tt0000063,2,Dessinateur express (M. Thiers),FR,\N,alternative,\N,0
+tt0000063,3,Dessinateur express,FR,\N,imdbDisplay,\N,0
+tt0000064,1,Dessinateur: Chamberlain,\N,\N,original,\N,1
+tt0000064,2,Dessinateur: Chamberlain,FR,\N,imdbDisplay,\N,0
+tt0000065,1,Dessinateur: Reine Victoria,\N,\N,original,\N,1
+tt0000065,2,Dessinateur: Reine Victoria,FR,\N,imdbDisplay,\N,0
+tt0000066,1,Dessinateur: Von Bismark,FR,\N,imdbDisplay,\N,0
+tt0000066,2,Dessinateur: Von Bismark,\N,\N,original,\N,1
+tt0000067,1,Dix chapeaux en 60 secondes,\N,\N,original,\N,1
+tt0000067,2,Conjurer Making Ten Hats in Sixty Seconds,US,\N,\N,\N,0
+tt0000067,3,Dix chapeaux en 60 secondes,FR,\N,imdbDisplay,\N,0
+tt0000068,1,Unloading the Boat,US,\N,\N,\N,0
+tt0000068,2,Déchargement de bateaux au Havre,FR,\N,alternative,\N,0
+tt0000068,3,Déchargement de bateaux,FR,\N,imdbDisplay,\N,0
+tt0000068,4,Déchargement de bateaux,\N,\N,original,\N,1
+tt0000069,1,Post No Bills,US,\N,\N,\N,0
+tt0000069,2,Защита,RU,\N,imdbDisplay,\N,0
+tt0000069,3,Defense Show,US,\N,\N,literal English title,0
+tt0000069,4,Απαγορεύεται η Αφισοκόλληση,GR,\N,imdbDisplay,\N,0
+tt0000069,5,Défense d'afficher,\N,\N,original,\N,1
+tt0000069,6,Défense d'afficher,FR,\N,imdbDisplay,\N,0
+tt0000070,10,Разрушение стены,RU,\N,imdbDisplay,\N,0
+tt0000070,11,Zburzenie muru,PL,\N,imdbDisplay,\N,0
+tt0000070,12,Démolition d'un mur,\N,\N,original,\N,1
+tt0000070,13,En vägg rivs,FI,sv,\N,informal title,0
+tt0000070,14,Démolition d'un mur,FR,\N,imdbDisplay,\N,0
+tt0000070,15,Зруйнування муру,UA,\N,imdbDisplay,\N,0
+tt0000070,1,Falbontás,HU,\N,imdbDisplay,\N,0
+tt0000070,2,Miten seinä hajotetaan,FI,\N,\N,informal title,0
+tt0000070,3,Demolition of a Wall,US,\N,imdbDisplay,\N,0
+tt0000070,4,Demolizione di un muro,IT,\N,imdbDisplay,\N,0
+tt0000070,5,Demolition of a Wall,GB,\N,imdbDisplay,\N,0
+tt0000070,6,Seinän kaataminen,FI,\N,\N,informal title,0
+tt0000070,7,Demolición de un muro,UY,\N,\N,premiere title,0
+tt0000070,8,Demolition of a Wall,XWW,en,imdbDisplay,\N,0
+tt0000070,9,Demolição de um Muro,BR,\N,imdbDisplay,\N,0
+tt0000071,1,Automobiles Starting a Race,US,\N,imdbDisplay,\N,0
+tt0000071,2,Départ des automobiles,FR,\N,imdbDisplay,\N,0
+tt0000071,3,Départ des automobiles,\N,\N,original,\N,1
+tt0000072,1,Officers of French Army Leaving Service,US,\N,imdbDisplay,\N,0
+tt0000072,2,Départ des officiers,\N,\N,original,\N,1
+tt0000072,3,Départ des officiers,FR,\N,imdbDisplay,\N,0
+tt0000073,1,Effets de mer sur les rochers,\N,\N,original,\N,1
+tt0000073,2,Effets de mer sur les rochers,FR,\N,imdbDisplay,\N,0
+tt0000073,3,Sea Breaking on the Rocks,GB,\N,imdbDisplay,\N,0
+tt0000074,1,Children Playing on the Beach,GB,\N,imdbDisplay,\N,0
+tt0000074,2,Enfants jouant sur la plage,\N,\N,original,\N,1
+tt0000074,3,Enfants jouant sur la plage,FR,\N,imdbDisplay,\N,0
+tt0000075,10,Escamotage d'une dame au théâtre Robert Houdin,\N,\N,original,\N,1
+tt0000075,1,Escamotage d'une dame chez Robert-Houdin,FR,\N,alternative,\N,0
+tt0000075,2,Egy hölgy eltűnése,HU,\N,imdbDisplay,\N,0
+tt0000075,3,Исчезновение дамы в театре Робера Удена,RU,\N,imdbDisplay,\N,0
+tt0000075,4,The Vanishing Lady,\N,\N,\N,\N,0
+tt0000075,5,Znikająca kobieta,PL,\N,imdbDisplay,\N,0
+tt0000075,6,ロベール＝ウーダン劇場における婦人の雲隠れ,JP,ja,imdbDisplay,\N,0
+tt0000075,7,The Conjuring of a Woman at the House of Robert Houdin,US,\N,\N,\N,0
+tt0000075,8,Escamotage d'une dame au théâtre Robert Houdin,FR,\N,imdbDisplay,\N,0
+tt0000075,9,O Desaparecimento de uma Dama no Teatro Robert Houdin,BR,\N,imdbDisplay,\N,0
+tt0000076,1,Выход Рипа и гнома,RU,\N,imdbDisplay,\N,0
+tt0000076,2,Rip and the Dwarf,US,\N,\N,copyright title,0
+tt0000076,3,Exit of Rip and the Dwarf,US,\N,imdbDisplay,\N,0
+tt0000076,4,Exit of Rip and the Dwarf,\N,\N,original,\N,1
+tt0000077,1,Le fakir, mystère indien,\N,\N,original,\N,1
+tt0000077,2,Le fakir, mystère indien,FR,\N,imdbDisplay,\N,0
+tt0000078,1,Feira de Gado na Corujeira,PT,\N,imdbDisplay,\N,0
+tt0000078,2,Feira de Gado na Corujeira,\N,\N,original,\N,1
+tt0000078,3,A Feira da Corujeira,PT,\N,\N,short title,0
+tt0000078,4,O Mercado da Corujeira,PT,\N,\N,informal alternative title,0
+tt0000079,1,La gare Saint-Lazare,\N,\N,original,\N,1
+tt0000079,2,La gare Saint-Lazare,FR,\N,imdbDisplay,\N,0
+tt0000080,1,Manoeuvres of the French Army,GB,\N,imdbDisplay,\N,0
+tt0000080,2,Grandes manoeuvres,FR,\N,imdbDisplay,\N,0
+tt0000080,3,Grandes manoeuvres,\N,\N,original,\N,1
+tt0000081,1,Les haleurs de bateaux,FR,\N,imdbDisplay,\N,0
+tt0000081,2,Les haleurs de bateaux,\N,\N,original,\N,1
+tt0000081,3,Towing a Boat on the River,US,\N,imdbDisplay,\N,0
+tt0000082,1,A Hard Wash,US,\N,imdbDisplay,\N,0
+tt0000082,2,A Hard Wash,\N,\N,original,\N,1
+tt0000082,3,A Pickaninny's Battle,US,\N,alternative,\N,0
+tt0000083,1,Die Indiskreten,DE,\N,\N,\N,0
+tt0000083,2,Les indiscrets,\N,\N,original,\N,1
+tt0000083,3,Les indiscrets,FR,\N,imdbDisplay,\N,0
+tt0000083,4,The Peeping Toms,GB,\N,imdbDisplay,\N,0
+tt0000084,1,The Drunkards,GB,\N,imdbDisplay,\N,0
+tt0000084,2,Les ivrognes,\N,\N,original,\N,1
+tt0000084,3,Les ivrognes,FR,\N,imdbDisplay,\N,0
+tt0000085,1,Gardener Burning Weeds,US,\N,\N,\N,0
+tt0000085,2,Jardinier brûlant des herbes,FR,\N,imdbDisplay,\N,0
+tt0000085,3,Jardinier brûlant des herbes,\N,\N,original,\N,1
+tt0000086,1,Beach and Pier at Trouville, 1st part,US,\N,\N,\N,0
+tt0000086,2,Jetée et plage de Trouville (1er partie),FR,\N,imdbDisplay,\N,0
+tt0000086,3,Jetée et plage de Trouville (1er partie),\N,\N,original,\N,1
+tt0000087,1,Jetée et plage de Trouville (2e partie),FR,\N,imdbDisplay,\N,0
+tt0000087,2,Jetée et plage de Trouville (2e partie),\N,\N,original,\N,1
+tt0000087,3,Beach and Pier at Trouville, 2nd part,US,\N,\N,\N,0
+tt0000088,1,Jour de marché à Trouville,\N,\N,original,\N,1
+tt0000088,2,Jour de marché à Trouville,FR,\N,imdbDisplay,\N,0
+tt0000088,3,Market Day,US,\N,\N,\N,0
+tt0000089,1,Vonattal Jeruzsálemböl,HU,\N,imdbDisplay,\N,0
+tt0000089,2,Départ de Jérusalem en chemin de fer,\N,\N,original,\N,1
+tt0000089,3,Départ de Jérusalem en chemin de fer,FR,\N,imdbDisplay,\N,0
+tt0000089,4,Отъезд из Иерусалима по железной дороге,RU,\N,imdbDisplay,\N,0
+tt0000089,5,Juna lähtee Jerusalemista,FI,\N,\N,informal title,0
+tt0000089,6,Tåget avgår från Jerusalem,FI,sv,\N,informal title,0
+tt0000089,7,Leaving Jerusalem by Railway,XWW,en,\N,\N,0
+tt0000089,8,Wyjezdzajac z Jerozolimy koleja zelazna,PL,\N,imdbDisplay,\N,0
+tt0000090,1,Breaking Up of the Territorial Army,GB,\N,imdbDisplay,\N,0
+tt0000090,2,Libération des territoriaux,\N,\N,original,\N,1
+tt0000090,3,Libération des territoriaux,FR,\N,imdbDisplay,\N,0
+tt0000091,10,Замок дьявола,RU,\N,imdbDisplay,\N,0
+tt0000091,11,The Haunted Castle,NO,\N,imdbDisplay,\N,0
+tt0000091,12,Le manoir du diable,FR,\N,imdbDisplay,\N,0
+tt0000091,13,Az ördög kastélya,HU,\N,imdbDisplay,\N,0
+tt0000091,14,The Devil's Castle,XEU,en,\N,\N,0
+tt0000091,15,The House of the Devil,US,\N,\N,\N,0
+tt0000091,16,The Manor of the Devil,\N,\N,\N,\N,0
+tt0000091,17,Rezydencja diabla,PL,\N,\N,\N,0
+tt0000091,1,Manor of the Devil,\N,\N,\N,\N,0
+tt0000091,2,Rezydencja diabła,PL,\N,imdbDisplay,\N,0
+tt0000091,3,O Solar do Diabo,BR,\N,imdbDisplay,\N,0
+tt0000091,4,Уклети замак,RS,\N,imdbDisplay,\N,0
+tt0000091,5,Замок диявола,UA,\N,imdbDisplay,\N,0
+tt0000091,6,The Devil's Manor,\N,\N,\N,\N,0
+tt0000091,7,悪魔の館,JP,ja,imdbDisplay,\N,0
+tt0000091,8,The Haunted Castle,US,\N,dvd,\N,0
+tt0000091,9,Le manoir du diable,\N,\N,original,\N,1
+tt0000092,1,Marée montante sur Brise-Larmes,FR,\N,imdbDisplay,\N,0
+tt0000092,2,Tide Rising Over the Breakwater,GB,\N,imdbDisplay,\N,0
+tt0000092,3,Marée montante sur Brise-Larmes,\N,\N,original,\N,1
+tt0000093,1,Melbourne,\N,\N,original,\N,1
+tt0000093,2,Melbourne,FR,\N,imdbDisplay,\N,0
+tt0000094,1,Miss de Vere,FR,\N,imdbDisplay,\N,0
+tt0000094,2,Miss de Vere,\N,\N,original,\N,1
+tt0000094,3,Miss de Vere (gigue anglaise),FR,\N,alternative,\N,0
+tt0000095,1,Le papier protée,FR,\N,imdbDisplay,\N,0
+tt0000095,2,The Mysterious Paper,US,\N,\N,\N,0
+tt0000095,3,Le papier protée,\N,\N,original,\N,1
+tt0000096,1,Place Saint-Augustin,FR,\N,imdbDisplay,\N,0
+tt0000096,2,Place Saint-Augustin,\N,\N,original,\N,1
+tt0000097,1,Place de l'Opéra, First View,US,\N,\N,\N,0
+tt0000097,2,Place de l'Opéra, 1er aspect,\N,\N,original,\N,1
+tt0000097,3,Place de l'Opéra, 1er aspect,FR,\N,imdbDisplay,\N,0
+tt0000098,1,Place de l'Opéra, Second View,US,\N,\N,\N,0
+tt0000098,2,Place de l'Opéra, 2e aspect,FR,\N,imdbDisplay,\N,0
+tt0000098,3,Place de l'Opéra, 2e aspect,\N,\N,original,\N,1
+tt0000099,1,Place de la Bastille,\N,\N,original,\N,1
+tt0000099,2,Place de la Bastille,FR,\N,imdbDisplay,\N,0
+tt0000100,1,Place de la Concorde,\N,\N,original,\N,1
+tt0000100,2,Place de la Concorde,FR,\N,imdbDisplay,\N,0
+tt0000100,3,A párizsi Concorde tér,HU,\N,imdbDisplay,\N,0
+tt0000101,1,Place du théâtre français,\N,\N,original,\N,1
+tt0000101,2,Place du théâtre français,FR,\N,imdbDisplay,\N,0
+tt0000102,1,The Beach at Villiers in a Gale,US,\N,\N,\N,0
+tt0000102,2,Plage de Villiers par gros temps,FR,\N,imdbDisplay,\N,0
+tt0000102,3,Plage de Villiers par gros temps,\N,\N,original,\N,1
+tt0000103,1,Plus fort que le maître,\N,\N,original,\N,1
+tt0000103,2,Plus fort que le maître,FR,\N,imdbDisplay,\N,0
+tt0000103,3,Smarter than the Teacher,US,\N,\N,\N,0
+tt0000104,1,Pompiers à Lyon,FR,\N,imdbDisplay,\N,0
+tt0000104,2,Passage des pompes,FR,\N,alternative,\N,0
+tt0000104,3,Paris: les pompiers, I. Passage des pompes,FR,\N,\N,long title,0
+tt0000104,4,Pompiers à Lyon,\N,\N,original,\N,1
+tt0000105,1,Les quais à Marseille,FR,\N,imdbDisplay,\N,0
+tt0000105,2,The Docks at Marseilles,US,\N,\N,\N,0
+tt0000105,3,Les quais à Marseille,\N,\N,original,\N,1
+tt0000106,1,Retour au cantonnement,FR,\N,imdbDisplay,\N,0
+tt0000106,2,Retour au cantonnement,\N,\N,original,\N,1
+tt0000107,1,Revue navale à Cherbourg,FR,\N,imdbDisplay,\N,0
+tt0000107,2,Revue navale à Cherbourg,\N,\N,original,\N,1
+tt0000107,3,Naval Review at Cherburg,US,\N,\N,\N,0
+tt0000108,1,Rip Leaving Sleepy Hollow,US,\N,imdbDisplay,\N,0
+tt0000108,2,Рип покидает Сонную лощину,RU,\N,imdbDisplay,\N,0
+tt0000108,3,Rip Leaving Sleepy Hollow,\N,\N,original,\N,1
+tt0000109,1,Rip Meeting the Dwarf,\N,\N,original,\N,1
+tt0000109,2,Rip Meeting the Dwarf,US,\N,imdbDisplay,\N,0
+tt0000109,3,Рип встречает гнома,RU,\N,imdbDisplay,\N,0
+tt0000110,1,Rip Passing Over the Mountain,\N,\N,original,\N,1
+tt0000110,2,Rip Passing Over Hill,US,\N,\N,copyright title,0
+tt0000110,3,Rip Passing Over the Mountain,US,\N,imdbDisplay,\N,0
+tt0000110,4,Рип переходит через холм,RU,\N,imdbDisplay,\N,0
+tt0000111,1,Rip's Toast,\N,\N,original,\N,1
+tt0000111,2,Rip's Toast,US,\N,imdbDisplay,\N,0
+tt0000111,3,Тост Рипа,RU,\N,imdbDisplay,\N,0
+tt0000112,1,Rip's Toast to Hudson and Crew,US,\N,alternative,\N,0
+tt0000112,2,Rip's Toast to Hudson,\N,\N,original,\N,1
+tt0000112,3,Тост Рипа за Хадсона,RU,\N,imdbDisplay,\N,0
+tt0000112,4,Rip's Toast to Hudson,US,\N,imdbDisplay,\N,0
+tt0000113,1,20 лет сна Рипа,RU,\N,imdbDisplay,\N,0
+tt0000113,2,Rip's Twenty Years' Sleep,\N,\N,original,\N,1
+tt0000113,3,Rip's Twenty Years' Sleep,DE,\N,imdbDisplay,\N,0
+tt0000113,4,Rip's Twenty Years' Sleep,US,\N,imdbDisplay,\N,0
+tt0000114,1,Le régiment,\N,\N,original,\N,1
+tt0000114,2,Le régiment,FR,\N,imdbDisplay,\N,0
+tt0000114,3,French Regiment Going to the Parade,US,\N,\N,\N,0
+tt0000115,1,Réunion d'officiers,\N,\N,original,\N,1
+tt0000115,2,Réunion d'officiers,FR,\N,imdbDisplay,\N,0
+tt0000115,3,French Officers' Meeting,GB,\N,imdbDisplay,\N,0
+tt0000116,1,Sac au dos,\N,\N,original,\N,1
+tt0000116,2,Sac au dos,FR,\N,imdbDisplay,\N,0
+tt0000117,1,Saída do Pessoal Operário da Fábrica Confiança,\N,\N,original,\N,1
+tt0000117,2,Workers Exit from the Confianca Shirt Factory,XWW,en,\N,literal English title,0
+tt0000117,3,Saída do Pessoal Operário da Fábrica Confiança,PT,\N,imdbDisplay,\N,0
+tt0000117,4,Saída do Pessoal Operário da Camisaria Confiança,\N,\N,\N,\N,0
+tt0000118,1,Salut malencontreux d'un déserteur,FR,\N,imdbDisplay,\N,0
+tt0000118,2,Salut malencontreux d'un déserteur,\N,\N,original,\N,1
+tt0000119,1,Sauvetage en rivière, 1er,FR,\N,imdbDisplay,\N,0
+tt0000119,2,Rescue on the River, Pt. 2,US,\N,\N,\N,0
+tt0000119,3,Sauvetage en rivière, 1er,\N,\N,original,\N,1
+tt0000120,1,Sauvetage en rivière, 2e,\N,\N,original,\N,1
+tt0000120,2,Sauvetage en rivière, 2e,FR,\N,imdbDisplay,\N,0
+tt0000120,3,Rescue on the River, Pt. 1,US,\N,\N,\N,0
+tt0000121,1,Le piou-piou galant,FR,\N,imdbDisplay,\N,0
+tt0000121,2,The Soldier's Courtship,\N,\N,original,\N,1
+tt0000121,3,Vojnikovo udvaranje,XYU,sr,\N,literal title,0
+tt0000121,4,The Soldier's Courtship,GB,\N,imdbDisplay,\N,0
+tt0000122,1,Closing Hours at Vibert's Perfume Factory,US,\N,imdbDisplay,\N,0
+tt0000122,2,Sortie des ateliers Vibert,FR,\N,imdbDisplay,\N,0
+tt0000122,3,Sortie des ateliers Vibert,\N,\N,original,\N,1
+tt0000123,1,Séance de prestidigitation,FR,\N,imdbDisplay,\N,0
+tt0000123,2,Conjuring,US,\N,\N,\N,0
+tt0000123,3,Séance de prestidigitation,\N,\N,original,\N,1
+tt0000124,1,Tempête sur la jetée du treport,\N,\N,original,\N,1
+tt0000124,2,Tempête sur la jetée du treport,FR,\N,imdbDisplay,\N,0
+tt0000124,3,The Pier at Treport During a Storm,GB,\N,imdbDisplay,\N,0
+tt0000125,1,The Terrible Railway Accident,GB,\N,imdbDisplay,\N,0
+tt0000125,2,The Terrible Railway Accident,\N,\N,original,\N,1
+tt0000126,1,Tom Old Boot,\N,\N,original,\N,1
+tt0000126,2,Tom Old Boot, nain grotesque,FR,\N,alternative,\N,0
+tt0000126,3,Nain grotesque,FR,\N,\N,\N,0
+tt0000127,1,Les tribulations d'un concierge,FR,\N,imdbDisplay,\N,0
+tt0000127,2,Les tribulations d'un concierge,\N,\N,original,\N,1
+tt0000128,1,Academy for Young Ladies,US,\N,\N,\N,0
+tt0000128,2,Un lycée de jeunes filles,FR,\N,imdbDisplay,\N,0
+tt0000128,3,Un lycée de jeunes filles,\N,\N,original,\N,1
+tt0000129,1,A Little Rascal,US,\N,\N,informal English title,0
+tt0000129,2,Un petit diable,FR,\N,imdbDisplay,\N,0
+tt0000129,3,Un petit diable,\N,\N,original,\N,1
+tt0000129,4,A Little Devil,US,\N,\N,informal English title,0
+tt0000130,1,Une altercation au café,FR,\N,imdbDisplay,\N,0
+tt0000130,2,Une altercation au café,\N,\N,original,\N,1
+tt0000131,10,A Terrible Night,XWW,en,\N,\N,0
+tt0000131,11,困った一夜,JP,ja,imdbDisplay,\N,0
+tt0000131,1,Une nuit terrible,\N,\N,original,\N,1
+tt0000131,2,Užasna noć,RS,\N,imdbDisplay,\N,0
+tt0000131,3,Ужасная ночь,RU,\N,imdbDisplay,\N,0
+tt0000131,4,Une nuit terrible,FR,\N,imdbDisplay,\N,0
+tt0000131,5,Μία Τρομερή Νύχτα,GR,\N,imdbDisplay,\N,0
+tt0000131,6,Жахлива ніч,UA,\N,imdbDisplay,\N,0
+tt0000131,7,Przerażająca noc,PL,\N,imdbDisplay,\N,0
+tt0000131,8,Mia Tromeri Nichta,GR,\N,\N,transliterated title,0
+tt0000131,9,Uma Noite Terrível,BR,\N,imdbDisplay,\N,0
+tt0000132,10,Une partie de cartes,FR,\N,imdbDisplay,\N,0
+tt0000132,1,Playing Cards,\N,\N,\N,\N,0
+tt0000132,2,Une partie de cartes,\N,\N,original,\N,1
+tt0000132,3,Partia kart,PL,\N,imdbDisplay,\N,0
+tt0000132,4,Card Party,XWW,en,imdbDisplay,\N,0
+tt0000132,5,Card Party,GB,\N,imdbDisplay,\N,0
+tt0000132,6,カード遊び,JP,ja,imdbDisplay,\N,0
+tt0000132,7,Játékkártyák,HU,\N,imdbDisplay,\N,0
+tt0000132,8,Партия в карты,RU,\N,imdbDisplay,\N,0
+tt0000132,9,Card Party,US,\N,imdbDisplay,\N,0
+tt0000133,1,La voiture du potier,FR,\N,imdbDisplay,\N,0
+tt0000133,2,La voiture du potier,\N,\N,original,\N,1
+tt0000134,1,The Wandering Negro Minstrels,\N,\N,original,\N,1
+tt0000134,2,The Wandering Negro Minstrels,GB,\N,imdbDisplay,\N,0
+tt0000135,1,Oh, That Watermelon!,US,\N,alternative,\N,0
+tt0000135,2,A Watermelon Feast,\N,\N,original,\N,1
+tt0000135,3,A Watermelon Feast,US,\N,imdbDisplay,\N,0
+tt0000137,1,Au réfectoire,FR,\N,imdbDisplay,\N,0
+tt0000137,2,Au réfectoire,\N,\N,original,\N,1
+tt0000138,1,Το Μαγεμένο Πανδοχείο,GR,\N,imdbDisplay,\N,0
+tt0000138,2,Заколдованная гостиница,RU,\N,imdbDisplay,\N,0
+tt0000138,3,The Bewitched Inn,US,\N,\N,\N,0
+tt0000138,4,To Magemeno Pandochio,GR,\N,\N,transliterated title,0
+tt0000138,5,L'auberge ensorcelée,\N,\N,original,\N,1
+tt0000138,6,L'auberge ensorcelée,FR,\N,imdbDisplay,\N,0
+tt0000138,7,Zaczarowana gospoda,PL,\N,imdbDisplay,\N,0
+tt0000139,1,L'aveugle,FR,\N,imdbDisplay,\N,0
+tt0000139,2,L'aveugle,\N,\N,original,\N,1
+tt0000140,1,Baignade dans le torrent,FR,\N,imdbDisplay,\N,0
+tt0000140,2,Купание в реке,RU,\N,imdbDisplay,\N,0
+tt0000140,3,Baignade dans le torrent,\N,\N,original,\N,1
+tt0000140,4,Bathing in a Stream,XWW,en,dvd,\N,0
+tt0000141,1,Ballet libella,\N,\N,original,\N,1
+tt0000141,2,Ballet libella,FR,\N,imdbDisplay,\N,0
+tt0000142,1,Buffalo Bill and Escort,\N,\N,original,\N,1
+tt0000142,2,Buffalo Bill and Escort,US,\N,imdbDisplay,\N,0
+tt0000143,1,The Burglars,XWW,en,dvd,\N,0
+tt0000143,2,Les cambrioleurs,FR,\N,imdbDisplay,\N,0
+tt0000143,3,Грабители,RU,\N,imdbDisplay,\N,0
+tt0000143,4,Les cambrioleurs,\N,\N,original,\N,1
+tt0000144,1,У гипнотизера,RU,\N,imdbDisplay,\N,0
+tt0000144,2,Chez le magnétiseur,\N,\N,original,\N,1
+tt0000144,3,At the Hypnotist's,XWW,en,dvd,\N,0
+tt0000144,4,Chez le magnétiseur,FR,\N,imdbDisplay,\N,0
+tt0000145,1,En classe,\N,\N,original,\N,1
+tt0000145,2,En classe,FR,\N,imdbDisplay,\N,0
+tt0000146,1,Le cocher de fiacre endormi,FR,\N,imdbDisplay,\N,0
+tt0000146,2,Alvó taxisoför,HU,\N,imdbDisplay,\N,0
+tt0000146,3,Le cocher de fiacre endormi,\N,\N,original,\N,1
+tt0000147,1,The Corbett-Fitzsimmons Fight,US,\N,imdbDisplay,\N,0
+tt0000147,2,Бой Корбетта и Фитцсиммонса,RU,\N,imdbDisplay,\N,0
+tt0000147,3,The Corbett-Fitzsimmons Fight,\N,\N,original,\N,1
+tt0000148,1,Coucher d'Yvette et Pierreuse,FR,\N,\N,long title,0
+tt0000148,2,Le Coucher d'Yvette,\N,\N,original,\N,1
+tt0000148,3,Le Coucher d'Yvette,FR,\N,imdbDisplay,\N,0
+tt0000149,1,Dans les coulisses,FR,\N,imdbDisplay,\N,0
+tt0000149,2,Dans les coulisses,\N,\N,original,\N,1
+tt0000149,3,Behind the Scenes,US,\N,imdbDisplay,\N,0
+tt0000150,1,Danse fleur de lotus,\N,\N,original,\N,1
+tt0000150,2,Danse fleur de lotus,FR,\N,imdbDisplay,\N,0
+tt0000151,1,Faust és Margit,HU,\N,imdbDisplay,\N,0
+tt0000151,2,Faust and Marguerite,\N,\N,\N,\N,0
+tt0000151,3,Faust et Marguerite,FR,\N,imdbDisplay,\N,0
+tt0000151,4,Faust et Marguerite,\N,\N,original,\N,1
+tt0000152,1,L'hallucination de l'alchimiste,FR,\N,imdbDisplay,\N,0
+tt0000152,2,L'hallucination de l'alchimiste,\N,\N,original,\N,1
+tt0000152,3,The Hallucinated Alchemist,US,\N,\N,\N,0
+tt0000152,4,Η Παραίσθηση του Αλχημιστή,GR,\N,imdbDisplay,\N,0
+tt0000152,5,The Alchemist's Hallucination,US,\N,\N,literal title,0
+tt0000153,1,Το Στοιχειωμένο Κάστρο,GR,\N,imdbDisplay,\N,0
+tt0000153,2,The Haunted Castle,GB,\N,imdbDisplay,\N,0
+tt0000153,3,Az elvarázsolt kastély,HU,\N,imdbDisplay,\N,0
+tt0000153,4,The Haunted Castle,\N,\N,original,\N,1
+tt0000154,1,Henley Regatta,GB,\N,imdbDisplay,\N,0
+tt0000154,2,Henley Regatta,\N,\N,original,\N,1
+tt0000155,1,Le magnétiseur,FR,\N,imdbDisplay,\N,0
+tt0000155,2,While Under a Hypnotist's Influence,GB,\N,\N,\N,0
+tt0000155,3,Le magnétiseur,\N,\N,original,\N,1
+tt0000155,4,The Hypnotist at Work,US,\N,\N,\N,0
+tt0000156,1,L'hôtel empoisonné,\N,\N,original,\N,1
+tt0000156,2,L'hôtel empoisonné,FR,\N,imdbDisplay,\N,0
+tt0000156,3,A Badly Managed Hotel,XWW,en,imdbDisplay,\N,0
+tt0000156,4,A Badly Managed Hotel,GB,\N,imdbDisplay,\N,0
+tt0000156,5,A Badly Managed Hotel,US,\N,imdbDisplay,\N,0
+tt0000157,1,Idylle,FR,\N,imdbDisplay,\N,0
+tt0000157,2,Idylle,\N,\N,original,\N,1
+tt0000158,1,Idylle interrompue,FR,\N,imdbDisplay,\N,0
+tt0000158,2,Idylle interrompue,\N,\N,original,\N,1
+tt0000159,1,Le cabinet de Méphistophélès,\N,\N,original,\N,1
+tt0000159,2,Le cabinet de Méphistophélès,FR,\N,imdbDisplay,\N,0
+tt0000159,3,The Devil's Laboratory,US,\N,\N,\N,0
+tt0000159,4,The Cabinet of Mephistopheles,XWW,en,\N,\N,0
+tt0000159,5,The Laboratory of Mephistopheles,US,\N,\N,\N,0
+tt0000160,1,The Last Days of Pompeii,GB,\N,imdbDisplay,\N,0
+tt0000160,2,The Last Days of Pompeii,\N,\N,original,\N,1
+tt0000161,1,Leçon de danse,\N,\N,original,\N,1
+tt0000161,2,Leçon de danse,FR,\N,imdbDisplay,\N,0
+tt0000162,1,Niagara,FR,\N,alternative,\N,0
+tt0000162,2,Les chutes,FR,\N,imdbDisplay,\N,0
+tt0000162,3,A Niagara-vízesés,HU,\N,imdbDisplay,\N,0
+tt0000162,4,Ніагарський водоспад,UA,\N,imdbDisplay,\N,0
+tt0000162,5,Les chutes,\N,\N,original,\N,1
+tt0000162,6,Niagara Falls,XWW,en,\N,\N,0
+tt0000162,7,The Niagara Waterfall,XWW,en,\N,\N,0
+tt0000162,8,Niagara-fallet,FI,sv,\N,informal title,0
+tt0000162,9,Niagaran putoukset,FI,\N,\N,informal title,0
+tt0000163,1,Le planton du colonel,\N,\N,original,\N,1
+tt0000163,2,Le planton du colonel,FR,\N,imdbDisplay,\N,0
+tt0000164,1,The Fisherman at the Stream,XWW,en,dvd,\N,0
+tt0000164,2,Le pêcheur dans le torrent,\N,\N,original,\N,1
+tt0000164,3,Le pêcheur dans le torrent,FR,\N,imdbDisplay,\N,0
+tt0000164,4,Рыбак в речке,RU,\N,imdbDisplay,\N,0
+tt0000165,1,Riña en un café,ES,\N,imdbDisplay,\N,0
+tt0000165,2,Riña en un café,\N,\N,original,\N,1
+tt0000166,1,Salida de los trabajadores de la fábrica España Industrial,ES,\N,imdbDisplay,\N,0
+tt0000166,2,Salida de los trabajadores de la fábrica España Industrial,\N,\N,original,\N,1
+tt0000167,1,Salida de misa de doce del Pilar de Zaragoza,\N,\N,original,\N,1
+tt0000167,2,Salida de misa de doce del Pilar de Zaragoza,ES,\N,imdbDisplay,\N,0
+tt0000168,1,Salida del público de la iglesia parroquial de Santa María de Sans,\N,\N,original,\N,1
+tt0000168,2,Salida del público de la iglesia parroquial de Santa María de Sans,ES,\N,imdbDisplay,\N,0
+tt0000169,1,Slagsmål i gamla Stockholm,SE,\N,imdbDisplay,\N,0
+tt0000169,2,Une bataille dans le vieux Stockholm,FR,\N,\N,\N,0
+tt0000169,3,Slagsmål i gamla Stockholm,\N,\N,original,\N,1
+tt0000170,1,The Twins' Tea Party,\N,\N,original,\N,1
+tt0000170,2,The Twins' Tea Party,GB,\N,imdbDisplay,\N,0
+tt0000171,1,Une nuit agitée,\N,\N,original,\N,1
+tt0000171,2,Une nuit agitée,FR,\N,imdbDisplay,\N,0
+tt0000172,1,The X-Ray Fiend,GB,\N,imdbDisplay,\N,0
+tt0000172,2,The X-Ray Fiend,\N,\N,original,\N,1
+tt0000172,3,Рентгеновский бес,RU,\N,imdbDisplay,\N,0
+tt0000172,4,The X-Rays,GB,\N,alternative,\N,0
+tt0000173,1,Battle of Santiago Bay,\N,\N,original,\N,1
+tt0000173,2,Battle of Santiago Bay,US,\N,imdbDisplay,\N,0
+tt0000174,1,Výstavní párkar a lepic plakátù,\N,\N,original,\N,1
+tt0000174,2,The Exhibition Sausage Seller and the Billposter,XWW,en,\N,literal English title,0
+tt0000174,3,Výstavní párkar a lepic plakátù,AT,\N,imdbDisplay,\N,0
+tt0000174,4,The Bill Sticker and the Sausage Vendor,\N,\N,\N,\N,0
+tt0000175,1,A Boca do Inferno,PT,\N,\N,\N,0
+tt0000175,2,A Sea Cave Near Lisbon,GB,\N,imdbDisplay,\N,0
+tt0000175,3,A Sea Cave Near Lisbon,\N,\N,original,\N,1
+tt0000175,4,A Boca do Inferno em Cascais,PT,\N,\N,\N,0
+tt0000176,1,Brittania,GB,\N,imdbDisplay,\N,0
+tt0000176,2,Brittania,\N,\N,original,\N,1
+tt0000177,1,The Burglar on the Roof,US,\N,imdbDisplay,\N,0
+tt0000177,2,The Burglar on the Roof,\N,\N,original,\N,1
+tt0000178,1,The Cavalier's Dream,US,\N,imdbDisplay,\N,0
+tt0000178,2,The Cavalier's Dream,\N,\N,original,\N,1
+tt0000179,1,The Cave of the Demons,US,\N,\N,\N,0
+tt0000179,2,La caverne maudite,FR,\N,imdbDisplay,\N,0
+tt0000179,3,La caverne maudite,\N,\N,original,\N,1
+tt0000180,1,Le chemin de croix,\N,\N,original,\N,1
+tt0000180,2,Le chemin de croix,FR,\N,imdbDisplay,\N,0
+tt0000181,1,Cenicienta,VE,\N,\N,\N,0
+tt0000181,2,Cinderella,\N,\N,original,\N,1
+tt0000181,3,Cinderella,GB,\N,imdbDisplay,\N,0
+tt0000181,4,Cinderella and the Fairy Godmother,\N,\N,\N,\N,0
+tt0000182,1,Пошли скорее, давай!,RU,\N,imdbDisplay,\N,0
+tt0000182,2,Come Along, Do!,\N,\N,original,\N,1
+tt0000182,3,Come Along, Do!,GB,\N,imdbDisplay,\N,0
+tt0000182,4,Viens donc, je t'en prie,FR,\N,imdbDisplay,\N,0
+tt0000182,5,Exhibition,GB,\N,alternative,\N,0
+tt0000182,6,Bemutató,HU,\N,imdbDisplay,\N,0
+tt0000183,1,The Corsican Brothers,GB,\N,imdbDisplay,\N,0
+tt0000183,2,The Corsican Brothers,\N,\N,original,\N,1
+tt0000183,3,The Corsican Brothers,DE,\N,imdbDisplay,\N,0
+tt0000184,1,Cripple Creek Bar-Room Scene,US,\N,imdbDisplay,\N,0
+tt0000184,2,Бар в Криппл-Крике,RU,\N,imdbDisplay,\N,0
+tt0000184,3,Cripple Creek Bar-Room Scene,\N,\N,original,\N,1
+tt0000185,1,La crèche à Bethléem,\N,\N,original,\N,1
+tt0000185,2,La crèche à Bethléem,FR,\N,imdbDisplay,\N,0
+tt0000186,1,Le cuirassé Maine,\N,\N,original,\N,1
+tt0000186,2,Le cuirassé Maine,FR,\N,imdbDisplay,\N,0
+tt0000187,1,La cène,FR,\N,imdbDisplay,\N,0
+tt0000187,2,La cène,\N,\N,original,\N,1
+tt0000188,1,The Deserter,\N,\N,original,\N,1
+tt0000188,2,The Deserter,GB,\N,imdbDisplay,\N,0
+tt0000189,1,Dorotea,ES,\N,imdbDisplay,\N,0
+tt0000189,2,Dorotea,\N,\N,original,\N,1
+tt0000190,1,Appointment at the Mill,\N,\N,\N,\N,0
+tt0000190,2,Dostavenícko ve mlýnici,\N,\N,original,\N,1
+tt0000190,3,Svábovo zmarené dostavenícko,CSHH,cs,\N,\N,0
+tt0000190,4,Свидание у мукомольни,RU,\N,imdbDisplay,\N,0
+tt0000191,1,Déménagement à la cloche de bois,\N,\N,original,\N,1
+tt0000191,2,Déménagement à la cloche de bois,FR,\N,imdbDisplay,\N,0
+tt0000192,1,Ella Lola, a la Trilby,\N,\N,original,\N,1
+tt0000192,2,Ella Lola, a la Trilby,US,\N,imdbDisplay,\N,0
+tt0000193,1,L'entrée à Jérusalem,\N,\N,original,\N,1
+tt0000193,2,L'entrée à Jérusalem,FR,\N,imdbDisplay,\N,0
+tt0000194,1,Express Train on a Railway Cutting,\N,\N,original,\N,1
+tt0000194,2,Express Train on a Railway Cutting,GB,\N,imdbDisplay,\N,0
+tt0000195,1,Les farces de Jocko,\N,\N,original,\N,1
+tt0000195,2,Les farces de Jocko,FR,\N,imdbDisplay,\N,0
+tt0000196,1,Faust and Mephistopheles,GB,\N,imdbDisplay,\N,0
+tt0000196,2,Faust and Mephistopheles,\N,\N,original,\N,1
+tt0000197,1,La flagellation,\N,\N,original,\N,1
+tt0000197,2,La flagellation,FR,\N,imdbDisplay,\N,0
+tt0000198,1,La fuite en Égypte,FR,\N,imdbDisplay,\N,0
+tt0000198,2,La fuite en Égypte,\N,\N,original,\N,1
+tt0000199,1,Glasgow Fire Engine,GB,\N,imdbDisplay,\N,0
+tt0000199,2,Glasgow Fire Engine,\N,\N,original,\N,1
+tt0000200,1,Gran corrida de toros,ES,\N,imdbDisplay,\N,0
+tt0000200,2,Gran corrida de toros,\N,\N,original,\N,1
+tt0000201,1,Indian War Council,US,\N,imdbDisplay,\N,0
+tt0000201,2,Indian War Council,\N,\N,original,\N,1
+tt0000202,1,Le jardin des oliviers,FR,\N,imdbDisplay,\N,0
+tt0000202,2,Le jardin des oliviers,\N,\N,original,\N,1
+tt0000203,1,Je vous y prrrrends!,\N,\N,original,\N,1
+tt0000203,2,Je vous y prrrrends!,FR,\N,imdbDisplay,\N,0
+tt0000203,3,Je vous y prends...,\N,\N,alternative,\N,0
+tt0000204,1,Jésus devant Pilate,FR,\N,imdbDisplay,\N,0
+tt0000204,2,Jésus devant Pilate,\N,\N,original,\N,1
+tt0000205,1,Leçons de boxe,FR,\N,imdbDisplay,\N,0
+tt0000205,2,Leçons de boxe,\N,\N,original,\N,1
+tt0000206,1,Llegada de un tren a la estación de ferrocarril del Norte, de Barcelona,ES,\N,imdbDisplay,\N,0
+tt0000206,2,Llegada de un tren a la estación de ferrocarril del Norte, de Barcelona,\N,\N,original,\N,1
+tt0000207,1,London Express,GB,\N,imdbDisplay,\N,0
+tt0000207,2,London Express,\N,\N,original,\N,1
+tt0000208,1,A molnár és a kéményseprő,HU,\N,imdbDisplay,\N,0
+tt0000208,2,The Miller and the Sweep,\N,\N,original,\N,1
+tt0000208,3,Мельник и трубочист,RU,\N,imdbDisplay,\N,0
+tt0000208,4,The Miller and Sweep,GB,\N,\N,informal short title,0
+tt0000208,5,The Miller and the Sweep,GB,\N,imdbDisplay,\N,0
+tt0000208,6,The Miller and Chimney Sweep,US,\N,\N,\N,0
+tt0000209,1,Photographing a Ghost,GB,\N,imdbDisplay,\N,0
+tt0000209,2,Photographing a Ghost,\N,\N,original,\N,1
+tt0000210,1,A Novice at X-rays,US,\N,\N,\N,0
+tt0000210,2,Les rayons Röntgen,FR,\N,imdbDisplay,\N,0
+tt0000210,3,Les rayons Röntgen,\N,\N,original,\N,1
+tt0000211,10,O Sonho do Astrônomo,BR,\N,imdbDisplay,\N,0
+tt0000211,11,La lune à un mètre. L'observatoire, la lune, Phoebé,FR,\N,\N,\N,0
+tt0000211,12,A Trip to the Moon,US,en,\N,\N,0
+tt0000211,13,The Moon at One Meter,XWW,en,imdbDisplay,\N,0
+tt0000211,14,To Oniro tou Astronomou,GR,\N,\N,transliterated title,0
+tt0000211,15,Астрономов сан,RS,\N,imdbDisplay,\N,0
+tt0000211,16,Луна всего лишь в метре,RU,\N,imdbDisplay,\N,0
+tt0000211,17,The Astronomer's Dream,\N,\N,\N,new title,0
+tt0000211,18,The Astronomer's Dream; or, the Man in the Moon,US,\N,imdbDisplay,\N,0
+tt0000211,1,Το Όνειρο του Αστρονόμου,GR,\N,imdbDisplay,\N,0
+tt0000211,2,Sueños de un astrónomo,ES,\N,\N,\N,0
+tt0000211,3,The Moon at Arm's Length,XWW,en,\N,\N,0
+tt0000211,4,La lune à un mètre,\N,\N,original,\N,1
+tt0000211,5,Le rêve d'un astronome,FR,\N,alternative,\N,0
+tt0000211,6,La lune à un mètre,FR,\N,imdbDisplay,\N,0
+tt0000211,7,Egy méterre a Hold,HU,\N,imdbDisplay,\N,0
+tt0000211,8,La luna a un metro,ES,\N,\N,\N,0
+tt0000211,9,The Astronomer's Dream,GB,\N,imdbDisplay,\N,0
+tt0000212,1,Saida do Paquete Duque de Braganca,GB,\N,imdbDisplay,\N,0
+tt0000212,2,Saida do Paquete Duque de Braganca,\N,\N,original,\N,1
+tt0000213,1,Scène d'escamotage,\N,\N,original,\N,1
+tt0000213,2,Scène d'escamotage,FR,\N,imdbDisplay,\N,0
+tt0000213,3,Disappearing Act,XWW,en,\N,literal English title,0
+tt0000213,4,Сцена исчезновения,RU,\N,imdbDisplay,\N,0
+tt0000214,1,Tearing Down the Spanish Flag,\N,\N,original,\N,1
+tt0000214,2,Tearing Down the Spanish Flag,US,\N,imdbDisplay,\N,0
+tt0000215,1,Smích a plác,\N,\N,original,\N,1
+tt0000215,2,Smích a plác,CSHH,\N,imdbDisplay,\N,0
+tt0000215,3,Tears and Laughter,\N,\N,\N,\N,0
+tt0000216,1,Visita de Doña María Cristina y Alfonso XIII a Barcelona,ES,\N,imdbDisplay,\N,0
+tt0000216,2,Visita de Doña María Cristina y Alfonso XIII a Barcelona,\N,\N,original,\N,1
+tt0000217,1,Waves and Spray,GB,\N,imdbDisplay,\N,0
+tt0000217,2,Waves and Spray,\N,\N,original,\N,1
+tt0000218,1,Die Affäre Dreyfus,DE,\N,\N,\N,0
+tt0000218,2,O Caso Dreyfus,BR,\N,imdbDisplay,\N,0
+tt0000218,3,Sprawa Dreyfusa,PL,\N,\N,\N,0
+tt0000218,4,Dreyfusova aféra,CZ,\N,imdbDisplay,\N,0
+tt0000218,5,The Dreyfus Affair,\N,\N,\N,\N,0
+tt0000218,6,L'affaire Dreyfus,FR,\N,imdbDisplay,\N,0
+tt0000218,7,Дело Дрейфуса,RU,\N,imdbDisplay,\N,0
+tt0000218,8,A Dreyfus-ügy,HU,\N,imdbDisplay,\N,0
+tt0000218,9,L'affaire Dreyfus,\N,\N,original,\N,1
+tt0000219,1,Aladdin and the Wonderful Lamp,GB,\N,imdbDisplay,\N,0
+tt0000219,2,Aladdin and the Wonderful Lamp,\N,\N,original,\N,1
+tt0000220,1,The Artist and the Flower Girl,GB,\N,imdbDisplay,\N,0
+tt0000220,2,The Artist and the Flower Girl,\N,\N,original,\N,1
+tt0000221,1,Aspectos da Praia de Cascais,PT,\N,imdbDisplay,\N,0
+tt0000221,2,Aspectos da Praia de Cascais,\N,\N,original,\N,1
+tt0000222,1,At the Club,XWW,en,alternative,\N,0
+tt0000222,2,Au cabaret,\N,\N,original,\N,1
+tt0000222,3,Au cabaret,FR,\N,imdbDisplay,\N,0
+tt0000222,4,В кафе,RU,\N,imdbDisplay,\N,0
+tt0000223,1,L'aveugle,FR,\N,imdbDisplay,\N,0
+tt0000223,2,L'aveugle,\N,\N,original,\N,1
+tt0000224,1,Battlefield,GB,\N,imdbDisplay,\N,0
+tt0000224,2,Battlefield,\N,\N,original,\N,1
+tt0000225,1,La belle et la bête,\N,\N,original,\N,1
+tt0000225,2,La belle et la bête,FR,\N,imdbDisplay,\N,0
+tt0000225,3,Beauty and the Beast,US,\N,\N,\N,0
+tt0000226,1,Boat Race,GB,\N,imdbDisplay,\N,0
+tt0000226,2,Boat Race,\N,\N,original,\N,1
+tt0000227,1,Bombardment of Mafeking,\N,\N,original,\N,1
+tt0000227,2,Bombardment of Mafeking,GB,\N,imdbDisplay,\N,0
+tt0000228,1,O Bom Absinto,BR,\N,imdbDisplay,\N,0
+tt0000228,2,La bonne absinthe,\N,\N,original,\N,1
+tt0000228,3,La bonne absinthe,FR,\N,imdbDisplay,\N,0
+tt0000228,4,Wonderful Absinthe,US,\N,dvd,\N,0
+tt0000228,5,Отличный абсент,RU,\N,imdbDisplay,\N,0
+tt0000229,1,Casey at the Bat, or, The Fate of a Rotten Umpire,US,\N,dvd,\N,0
+tt0000229,2,Casey at the Bat,US,\N,imdbDisplay,\N,0
+tt0000229,3,Casey at the Bat,\N,\N,original,\N,1
+tt0000230,10,Hamupipőke,HU,\N,imdbDisplay,\N,0
+tt0000230,11,Золушка,RU,\N,imdbDisplay,\N,0
+tt0000230,12,Cinderella,US,\N,imdbDisplay,\N,0
+tt0000230,13,Cinderella and the Glass Slipper,GB,\N,imdbDisplay,\N,0
+tt0000230,1,Cendrillon,\N,\N,original,\N,1
+tt0000230,2,Cendrillon,FR,\N,imdbDisplay,\N,0
+tt0000230,3,Cenicienta,VE,\N,\N,\N,0
+tt0000230,4,Baile Até à Meia-Noite,PT,\N,\N,\N,0
+tt0000230,5,シンデレラ,JP,ja,imdbDisplay,\N,0
+tt0000230,6,Cinderella,\N,\N,\N,\N,0
+tt0000230,7,Σταχτοπούτα,GR,\N,imdbDisplay,\N,0
+tt0000230,8,Cinderela,BR,\N,imdbDisplay,\N,0
+tt0000230,9,Stachtopouta,GR,\N,\N,transliterated title,0
+tt0000231,1,Chegada ao Cais do Sodré do Primeiro Combóio em Cascais,PT,\N,\N,review title,0
+tt0000231,2,Chegada de Um Comboio a Cascais,PT,\N,imdbDisplay,\N,0
+tt0000231,3,Portuguese Railway Train,XWW,en,\N,review title,0
+tt0000231,4,Portuguese Railway Train,\N,\N,original,\N,1
+tt0000231,5,A Tour in Spain and Portugal,GB,\N,alternative,\N,0
+tt0000231,6,Portuguese Railway Train,GB,\N,imdbDisplay,\N,0
+tt0000232,1,Le chiffonnier,\N,\N,original,\N,1
+tt0000232,2,Le chiffonnier,FR,\N,imdbDisplay,\N,0
+tt0000233,1,Choque de dos transatlánticos,\N,\N,original,\N,1
+tt0000233,2,Choque de dos transatlánticos,ES,\N,imdbDisplay,\N,0
+tt0000234,1,Cléopâtre,\N,\N,original,\N,1
+tt0000234,2,Cléopâtre,FR,\N,imdbDisplay,\N,0
+tt0000234,3,Cleopatra's Tomb,US,\N,\N,\N,0
+tt0000234,4,Robbing Cleopatra's Tomb,US,\N,\N,\N,0
+tt0000235,1,La colonne de feu,\N,\N,original,\N,1
+tt0000235,2,Haggard's She: The Pillar of Fire,US,\N,\N,\N,0
+tt0000235,3,The Pillar of Fire,XWW,en,\N,\N,0
+tt0000235,4,La danse du feu,FR,\N,\N,\N,0
+tt0000235,5,La columna de fuego,ES,\N,\N,\N,0
+tt0000235,6,Η Στήλη της Φωτιάς,GR,\N,imdbDisplay,\N,0
+tt0000235,7,I Stili tis Fotias,GR,\N,\N,transliterated title,0
+tt0000235,8,Танец огня,RU,\N,imdbDisplay,\N,0
+tt0000236,1,Courte échelle,FR,\N,imdbDisplay,\N,0
+tt0000236,2,Courte échelle,\N,\N,original,\N,1
+tt0000237,1,Le crucifiement,FR,\N,imdbDisplay,\N,0
+tt0000237,2,Le crucifiement,\N,\N,original,\N,1
+tt0000238,1,Les dangers de l'alcoolisme,FR,\N,imdbDisplay,\N,0
+tt0000238,2,Les dangers de l'alcoolisme,\N,\N,original,\N,1
+tt0000239,1,Danse serpentine par Mme. Bob Walter,FR,\N,imdbDisplay,\N,0
+tt0000239,2,Танец серпантин исполняет мадам Боб Уолтер,RU,\N,imdbDisplay,\N,0
+tt0000239,3,Danse serpentine par Mme. Bob Walter,\N,\N,original,\N,1
+tt0000240,1,Delivering Newspapers,US,\N,\N,copyright title,0
+tt0000240,2,Distributing a War Extra on Union Square,US,\N,alternative,\N,0
+tt0000240,3,World News Wagon,US,\N,alternative,\N,0
+tt0000240,4,Distributing a War Extra,\N,\N,original,\N,1
+tt0000240,5,Distributing a War Extra,US,\N,imdbDisplay,\N,0
+tt0000241,1,La descente de croix,\N,\N,original,\N,1
+tt0000241,2,La descente de croix,FR,\N,imdbDisplay,\N,0
+tt0000242,1,The Sign of the Cross,US,\N,\N,\N,0
+tt0000242,2,The Devil in a Convent,US,\N,\N,literal English title,0
+tt0000242,3,Le diable au couvent,\N,\N,original,\N,1
+tt0000242,4,Le diable au couvent,FR,\N,imdbDisplay,\N,0
+tt0000242,5,El diablo en el convento,ES,\N,imdbDisplay,\N,0
+tt0000242,6,Diabeł w klasztorze,PL,\N,imdbDisplay,\N,0
+tt0000242,7,Дьявол в монастыре,RU,\N,imdbDisplay,\N,0
+tt0000242,8,O Diabo no Convento,BR,\N,imdbDisplay,\N,0
+tt0000243,1,Le déjeuner des enfants,FR,\N,imdbDisplay,\N,0
+tt0000243,2,Le déjeuner des enfants,\N,\N,original,\N,1
+tt0000244,1,Erreur judiciaire,\N,\N,original,\N,1
+tt0000244,2,Erreur judiciaire,FR,\N,imdbDisplay,\N,0
+tt0000245,1,The Haunted House,\N,\N,original,\N,1
+tt0000245,2,The Haunted House,US,\N,imdbDisplay,\N,0
+tt0000246,10,L'impressionniste fin de siècle,FR,\N,imdbDisplay,\N,0
+tt0000246,11,L'impressionniste fin de siècle,\N,\N,original,\N,1
+tt0000246,1,Ілюзіоніст кінця століття,UA,\N,imdbDisplay,\N,0
+tt0000246,2,L'Illusionniste fin de siècle,US,\N,dvd,\N,0
+tt0000246,3,Импрессионист конца века,RU,\N,imdbDisplay,\N,0
+tt0000246,4,A századforduló bűvésze,HU,\N,imdbDisplay,\N,0
+tt0000246,5,An Up-to-Date Conjuror,GB,\N,alternative,\N,0
+tt0000246,6,L'Impressionniste fin de siècle,FR,\N,alternative,\N,0
+tt0000246,7,A Turn of the Century Illusionist,US,\N,\N,\N,0
+tt0000246,8,An Up-to-Date Conjuror,US,\N,\N,\N,0
+tt0000246,9,The Conjurer,US,\N,dvd,\N,0
+tt0000247,1,The King's Death at Winstead,US,\N,alternative,\N,0
+tt0000247,2,Король Джон,RU,\N,imdbDisplay,\N,0
+tt0000247,3,King John,GB,\N,imdbDisplay,\N,0
+tt0000247,4,Beerbohm Tree, the Great English Actor,US,\N,alternative,\N,0
+tt0000247,5,Kralj Janez,SI,\N,imdbDisplay,\N,0
+tt0000247,6,King John,\N,\N,original,\N,1
+tt0000248,1,The Kiss in the Tunnel,\N,\N,original,\N,1
+tt0000248,2,The Kiss in the Tunnel,GB,\N,imdbDisplay,\N,0
+tt0000248,3,Ένα Φιλί στο Τούνελ,GR,\N,imdbDisplay,\N,0
+tt0000248,4,Tunnel Kiss,GB,\N,alternative,\N,0
+tt0000248,5,O Beijo no Túnel,BR,\N,imdbDisplay,\N,0
+tt0000248,6,Csók az alagútban,HU,\N,imdbDisplay,\N,0
+tt0000248,7,Поцелуй в тоннеле,RU,\N,imdbDisplay,\N,0
+tt0000248,8,A Kiss in the Tunnel,US,\N,\N,\N,0
+tt0000248,9,Ena Fili sto Tounel,GR,\N,\N,transliterated title,0
+tt0000249,1,The Legacy,GB,\N,imdbDisplay,\N,0
+tt0000249,2,The Legacy,\N,\N,original,\N,1
+tt0000250,1,Llegada del vapor Bellver a Mallorca,ES,\N,imdbDisplay,\N,0
+tt0000250,2,Llegada del vapor Bellver a Mallorca,\N,\N,original,\N,1
+tt0000251,1,Matches: An Appeal,GB,\N,\N,\N,0
+tt0000252,1,La mauvaise soupe,FR,\N,imdbDisplay,\N,0
+tt0000252,2,La mauvaise soupe,\N,\N,original,\N,1
+tt0000253,1,The Miser's Doom,GB,\N,imdbDisplay,\N,0
+tt0000253,2,The Miser's Doom,\N,\N,original,\N,1
+tt0000254,1,Monnaie de lapin,\N,\N,original,\N,1
+tt0000254,2,Monnaie de lapin,FR,\N,imdbDisplay,\N,0
+tt0000255,1,Mésaventure d'un charbonnier,\N,\N,original,\N,1
+tt0000255,2,Mésaventure d'un charbonnier,FR,\N,imdbDisplay,\N,0
+tt0000256,1,Panorama from the Tower of the Brooklyn Bridge,\N,\N,original,\N,1
+tt0000256,2,Panorama from the Tower of the Brooklyn Bridge,US,\N,imdbDisplay,\N,0
+tt0000257,1,La résurrection,\N,\N,original,\N,1
+tt0000257,2,La résurrection,FR,\N,imdbDisplay,\N,0
+tt0000258,1,Le tondeur de chiens,\N,\N,original,\N,1
+tt0000258,2,Le tondeur de chiens,FR,\N,imdbDisplay,\N,0
+tt0000259,1,Le tonnelier,\N,\N,original,\N,1
+tt0000259,2,Le tonnelier,FR,\N,imdbDisplay,\N,0
+tt0000260,1,Transformations,\N,\N,original,\N,1
+tt0000260,2,Transformations,FR,\N,imdbDisplay,\N,0
+tt0000261,1,Un bon lit,FR,\N,imdbDisplay,\N,0
+tt0000261,2,A Midnight Episode,US,\N,\N,\N,0
+tt0000261,3,Avventura a mezzanotte,IT,\N,\N,\N,0
+tt0000261,4,Un bon lit,\N,\N,original,\N,1
+tt0000262,1,Un lunch,FR,\N,imdbDisplay,\N,0
+tt0000262,2,Un lunch,\N,\N,original,\N,1
+tt0000263,1,Vista de la entrada principal de la plaza de toros de Jerez, el segundo día de feria,\N,\N,original,\N,1
+tt0000263,2,Vista de la entrada principal de la plaza de toros de Jerez, el segundo día de feria,ES,\N,imdbDisplay,\N,0
+tt0000264,1,Évocation spirite,FR,\N,imdbDisplay,\N,0
+tt0000264,2,Summoning the Spirits,US,\N,\N,\N,0
+tt0000264,3,Évocation spirite,\N,\N,original,\N,1
+tt0000264,4,Invocação de um Espírito,BR,\N,imdbDisplay,\N,0
+tt0000264,5,Призыв духов,RU,\N,imdbDisplay,\N,0
+tt0000265,1,Chimmie Hicks at the Races,US,\N,\N,copyright title,0
+tt0000265,2,Above the Limit,US,\N,imdbDisplay,\N,0
+tt0000265,3,Jimmie Hicks in Automobile,\N,\N,\N,\N,0
+tt0000265,4,Automobile and Jimmy Hicks,\N,\N,\N,\N,0
+tt0000265,5,Above the Limit,\N,\N,original,\N,1
+tt0000266,1,Above the Speedway,\N,\N,original,\N,1
+tt0000266,2,Above the Speedway,US,\N,imdbDisplay,\N,0
+tt0000267,1,L'angélus,FR,\N,imdbDisplay,\N,0
+tt0000267,2,L'angélus,\N,\N,original,\N,1
+tt0000268,1,L'arléquine,\N,\N,original,\N,1
+tt0000268,2,L'arléquine,FR,\N,imdbDisplay,\N,0
+tt0000269,1,Army Life,\N,\N,original,\N,1
+tt0000269,2,Army Life; or, How Soldiers Are Made: Mounted Infantry,GB,en,\N,\N,0
+tt0000269,3,Army Life; or, How Soldiers Are Made: Mounted Infantry,XWW,en,imdbDisplay,\N,0
+tt0000269,4,Army Life; or, How Soldiers Are Made: Mounted Infantry,US,\N,imdbDisplay,\N,0
+tt0000269,5,Army Life, or How Soldiers Are Made,GB,\N,alternative,\N,0
+tt0000269,6,Army Life,GB,\N,imdbDisplay,\N,0
+tt0000270,1,Arrivée d'Arléquin,\N,\N,original,\N,1
+tt0000270,2,Arrivée d'Arléquin,FR,\N,imdbDisplay,\N,0
+tt0000271,1,Arrivée de Pierette et Pierrot,\N,\N,original,\N,1
+tt0000271,2,Arrivée de Pierette et Pierrot,FR,\N,imdbDisplay,\N,0
+tt0000272,1,As Seen Through a Telescope,\N,\N,original,\N,1
+tt0000272,2,The Professor and His Field Glass,US,\N,alternative,\N,0
+tt0000272,3,L'astronome indiscret,FR,\N,\N,new title,0
+tt0000272,4,Mit látunk a távcsőben,HU,\N,imdbDisplay,\N,0
+tt0000272,5,Что видно в телескоп,RU,\N,imdbDisplay,\N,0
+tt0000272,6,Como Visto Por um Telescópio,BR,\N,alternative,\N,0
+tt0000272,7,望遠鏡でみたもの,JP,ja,imdbDisplay,\N,0
+tt0000272,8,As Seen Through the Telescope,GB,\N,imdbDisplay,\N,0
+tt0000273,1,Attack on a China Mission,GB,\N,imdbDisplay,\N,0
+tt0000273,2,Attack on a China Mission,\N,\N,original,\N,1
+tt0000273,3,Attack on a Chinese Mission,GB,\N,alternative,\N,0
+tt0000273,4,Blue Jackets to the Rescue,GB,\N,\N,subtitle,0
+tt0000273,5,Нападение на миссию в Китае,RU,\N,imdbDisplay,\N,0
+tt0000273,6,Ataque em uma Missão na China,BR,\N,imdbDisplay,\N,0
+tt0000273,7,Ataque a uma Missão na China,PT,\N,imdbDisplay,\N,0
+tt0000274,1,Оперный проспект,RU,\N,imdbDisplay,\N,0
+tt0000274,2,Avenue de l'opéra,FR,\N,imdbDisplay,\N,0
+tt0000274,3,Avenue de l'opéra,\N,\N,original,\N,1
+tt0000275,1,Badinage,FR,\N,imdbDisplay,\N,0
+tt0000275,2,Badinage,\N,\N,original,\N,1
+tt0000276,1,Bataille d'oreillers,\N,\N,original,\N,1
+tt0000276,2,Bataille d'oreillers,FR,\N,imdbDisplay,\N,0
+tt0000277,1,Bataille de boules de neige,\N,\N,original,\N,1
+tt0000277,2,Bataille de boules de neige,FR,\N,imdbDisplay,\N,0
+tt0000278,1,Buffalo Bill's Show Parade,US,\N,imdbDisplay,\N,0
+tt0000278,2,Buffalo Bill's Show Parade,\N,\N,original,\N,1
+tt0000279,1,Buffalo Bill's Wild West Parade,US,\N,imdbDisplay,\N,0
+tt0000279,2,Buffalo Bill's Wild West Parade,\N,\N,original,\N,1
+tt0000280,1,Buffalo Bill's Wild West Parade,US,\N,imdbDisplay,\N,0
+tt0000280,2,Buffalo Bill's Wild West Parade,\N,\N,original,\N,1
+tt0000281,1,Buffalo Bill's Wild West Show,US,\N,imdbDisplay,\N,0
+tt0000281,2,Buffalo Bill's Wild West Show,\N,\N,original,\N,1
+tt0000282,1,Le bébé,\N,\N,original,\N,1
+tt0000282,2,Le bébé,FR,\N,imdbDisplay,\N,0
+tt0000283,1,Chez le Maréchal-Ferrant,\N,\N,original,\N,1
+tt0000283,2,Chez le Maréchal-Ferrant,FR,\N,imdbDisplay,\N,0
+tt0000284,1,At the Photographer's,US,\N,dvd,\N,0
+tt0000284,2,Chez le photographe,\N,\N,original,\N,1
+tt0000284,3,Chez le photographe,FR,\N,imdbDisplay,\N,0
+tt0000284,4,У фотографа,RU,\N,imdbDisplay,\N,0
+tt0000285,1,Yellow Peril,\N,\N,\N,\N,0
+tt0000285,2,Chinese Magic,GB,\N,imdbDisplay,\N,0
+tt0000285,3,Chinese Magic,\N,\N,original,\N,1
+tt0000286,1,Chirurgie fin de siècle,FR,\N,imdbDisplay,\N,0
+tt0000286,2,Turn-of-the-Century Surgery,US,\N,dvd,\N,0
+tt0000286,3,Chirurgie na konci století,CZ,\N,festival,\N,0
+tt0000286,4,Chirurgie fin de siècle,\N,\N,original,\N,1
+tt0000287,1,The Clown and the Alchemist,\N,\N,original,\N,1
+tt0000287,2,The Clown and the Alchemist,US,\N,imdbDisplay,\N,0
+tt0000288,1,La concierge,FR,\N,imdbDisplay,\N,0
+tt0000288,2,La concierge,\N,\N,original,\N,1
+tt0000289,1,Coucher d'une Parisienne,\N,\N,original,\N,1
+tt0000289,2,Coucher d'une Parisienne,FR,\N,imdbDisplay,\N,0
+tt0000290,1,Dance de l'ivresse,\N,\N,original,\N,1
+tt0000290,2,Dance de l'ivresse,FR,\N,imdbDisplay,\N,0
+tt0000291,1,Amor bag Kulisserne,DK,\N,imdbDisplay,\N,0
+tt0000291,2,Dans les coulisses,FR,\N,imdbDisplay,\N,0
+tt0000291,3,Dans les coulisses,\N,\N,original,\N,1
+tt0000292,1,Danse du papillon,\N,\N,original,\N,1
+tt0000292,2,Danse du papillon,FR,\N,imdbDisplay,\N,0
+tt0000293,1,Danse du pas des foulards par des almées,\N,\N,original,\N,1
+tt0000293,2,Danse du pas des foulards par des almées,FR,\N,imdbDisplay,\N,0
+tt0000294,1,La danse du ventre,\N,\N,original,\N,1
+tt0000294,2,La danse du ventre,FR,\N,imdbDisplay,\N,0
+tt0000295,1,Danse du voile,\N,\N,original,\N,1
+tt0000295,2,Danse du voile,FR,\N,imdbDisplay,\N,0
+tt0000296,1,Danse serpentine,\N,\N,original,\N,1
+tt0000296,2,Danse serpentine,FR,\N,imdbDisplay,\N,0
+tt0000297,1,Danses,FR,\N,imdbDisplay,\N,0
+tt0000297,2,Danses,\N,\N,original,\N,1
+tt0000298,1,Déclaration d'amour,FR,\N,imdbDisplay,\N,0
+tt0000298,2,Déclaration d'amour,\N,\N,original,\N,1
+tt0000299,1,Les fredaines de Pierrette,FR,\N,\N,\N,0
+tt0000299,2,Pierrette's Escapades,XWW,en,dvd,\N,0
+tt0000299,3,Le départ d'Arlequin et de Pierrette,\N,\N,original,\N,1
+tt0000300,1,The Enchanted Drawing,\N,\N,original,\N,1
+tt0000300,2,Зачарований малюнок,UA,\N,imdbDisplay,\N,0
+tt0000300,3,The Enchanted Drawing,US,\N,imdbDisplay,\N,0
+tt0000300,4,Το Μαγεμένο Σχέδιο,GR,\N,imdbDisplay,\N,0
+tt0000300,5,Az elvarázsolt rajz,HU,\N,imdbDisplay,\N,0
+tt0000300,6,Очарованный рисунок,RU,\N,imdbDisplay,\N,0
+tt0000300,7,O Desenho Encantado,BR,\N,imdbDisplay,\N,0
+tt0000300,8,To Magemeno Schedio,GR,\N,\N,transliterated title,0
+tt0000301,1,Fausto y Margarita,ES,\N,imdbDisplay,\N,0
+tt0000301,2,Faust and Marguerite,\N,\N,original,\N,1
+tt0000301,3,Faust and Marguerite,US,\N,imdbDisplay,\N,0
+tt0000301,4,Фауст и Маргарита,RU,\N,imdbDisplay,\N,0
+tt0000302,1,The Cabbage-Patch Fairy,US,\N,dvd,\N,0
+tt0000302,2,La fée aux choux, ou la naissance des enfants,\N,\N,original,\N,1
+tt0000302,3,La fée aux choux, ou la naissance des enfants,FR,\N,imdbDisplay,\N,0
+tt0000303,1,Gavotte directoire,FR,\N,imdbDisplay,\N,0
+tt0000303,2,Gavotte directoire,\N,\N,original,\N,1
+tt0000304,1,おばあさんの虫眼鏡,JP,ja,imdbDisplay,\N,0
+tt0000304,2,Бабушкина лупа,RU,\N,imdbDisplay,\N,0
+tt0000304,3,Os Óculos de Leitura da Vovó,BR,\N,imdbDisplay,\N,0
+tt0000304,4,La Loupe de grand-maman,FR,\N,imdbDisplay,\N,0
+tt0000304,5,Grandma's Reading Glass,GB,\N,imdbDisplay,\N,0
+tt0000304,6,Grandma's Reading Glass,\N,\N,original,\N,1
+tt0000304,7,A nagymama nagyítója,HU,\N,imdbDisplay,\N,0
+tt0000304,8,Бабусина лупа,UA,\N,imdbDisplay,\N,0
+tt0000304,9,Büyükannenin Okuma Gözlüğü,TR,tr,imdbDisplay,\N,0
+tt0000305,1,L'Habanera,FR,\N,imdbDisplay,\N,0
+tt0000305,2,L'Habanera,\N,\N,original,\N,1
+tt0000306,1,Le duel d'Hamlet,\N,\N,original,\N,1
+tt0000306,2,Hamlet, Scene de Duel,FR,\N,alternative,\N,0
+tt0000306,3,Le duel d'Hamlet,FR,\N,imdbDisplay,\N,0
+tt0000306,4,Дуель Гамлета,UA,\N,imdbDisplay,\N,0
+tt0000306,5,Hamlet, Duel Scene with Laertes,US,\N,\N,reissue title,0
+tt0000306,6,Hamlet,FR,\N,\N,short title,0
+tt0000307,1,Happy Hooligan,US,\N,imdbDisplay,\N,0
+tt0000307,2,Happy Hooligan,\N,\N,original,\N,1
+tt0000308,1,The House That Jack Built,\N,\N,original,\N,1
+tt0000308,2,The House That Jack Built,GB,\N,imdbDisplay,\N,0
+tt0000308,3,The House That Jack Built,US,\N,imdbDisplay,\N,0
+tt0000309,1,How It Feels to Be Run Over,GB,\N,imdbDisplay,\N,0
+tt0000309,2,Milyen érzés, ha elgázolják az embert,HU,\N,imdbDisplay,\N,0
+tt0000309,3,Каково это, когда тебя переехали,RU,\N,imdbDisplay,\N,0
+tt0000309,4,How It Feels to Be Run Over,\N,\N,original,\N,1
+tt0000310,1,Chimmie Hicks and the Rum Omelet,US,\N,imdbDisplay,\N,0
+tt0000310,2,Chimmie Hicks and the Rum Omelet,\N,\N,original,\N,1
+tt0000312,1,Le lapin,\N,\N,original,\N,1
+tt0000312,2,Le lapin,FR,\N,imdbDisplay,\N,0
+tt0000313,1,Позволь мне снова помечтать,RU,\N,imdbDisplay,\N,0
+tt0000313,2,Let Me Dream Again,GB,\N,imdbDisplay,\N,0
+tt0000313,3,Let Me Dream Again,\N,\N,original,\N,1
+tt0000313,4,Hagyj újra álmodni!,HU,\N,imdbDisplay,\N,0
+tt0000314,1,Leçon de danse,\N,\N,original,\N,1
+tt0000314,2,Leçon de danse,FR,\N,imdbDisplay,\N,0
+tt0000315,1,Le marchand de coco,\N,\N,original,\N,1
+tt0000315,2,Le marchand de coco,FR,\N,imdbDisplay,\N,0
+tt0000316,1,Marché à la volaille,\N,\N,original,\N,1
+tt0000316,2,Marché à la volaille,FR,\N,imdbDisplay,\N,0
+tt0000317,1,Le matelot,\N,\N,original,\N,1
+tt0000317,2,Le matelot,FR,\N,imdbDisplay,\N,0
+tt0000318,1,Die Jungfrau von Orleans,DE,\N,\N,\N,0
+tt0000318,2,Eine moderne Jungfrau von Orleans,\N,\N,original,\N,1
+tt0000319,1,Maple Viewing,XWW,en,\N,\N,0
+tt0000319,2,Momijigari,\N,\N,original,\N,1
+tt0000319,3,紅葉狩,JP,ja,imdbDisplay,\N,0
+tt0000319,4,Maple Leaf Viewing,XWW,en,\N,\N,0
+tt0000320,1,Mort d'Adonis,FR,\N,imdbDisplay,\N,0
+tt0000320,2,Mort d'Adonis,\N,\N,original,\N,1
+tt0000321,1,The Mystic Swing,\N,\N,original,\N,1
+tt0000321,2,The Mystic Swing,US,\N,imdbDisplay,\N,0
+tt0000322,1,Panorama de Barcelona: monumentos y fiestas,\N,\N,original,\N,1
+tt0000322,2,Panorama de Barcelona: monumentos y fiestas,ES,\N,imdbDisplay,\N,0
+tt0000323,1,Pas Japonais,FR,\N,imdbDisplay,\N,0
+tt0000323,2,Pas Japonais,\N,\N,original,\N,1
+tt0000324,1,Pas de grâce,\N,\N,original,\N,1
+tt0000324,2,Pas de grâce,FR,\N,imdbDisplay,\N,0
+tt0000325,1,Pas des éventails,\N,\N,original,\N,1
+tt0000325,2,Pas des éventails,FR,\N,imdbDisplay,\N,0
+tt0000326,1,Pas du poignard,\N,\N,original,\N,1
+tt0000326,2,Pas du poignard,FR,\N,imdbDisplay,\N,0
+tt0000327,1,La paysanne,\N,\N,original,\N,1
+tt0000327,2,La paysanne,FR,\N,imdbDisplay,\N,0
+tt0000328,1,La petite magicienne,\N,\N,original,\N,1
+tt0000328,2,La petite magicienne,FR,\N,imdbDisplay,\N,0
+tt0000329,1,Le Polichinelle,FR,\N,imdbDisplay,\N,0
+tt0000329,2,Le Polichinelle,\N,\N,original,\N,1
+tt0000330,1,La poupée noire,FR,\N,imdbDisplay,\N,0
+tt0000330,2,La poupée noire,\N,\N,original,\N,1
+tt0000331,1,La reine des jouets,FR,\N,imdbDisplay,\N,0
+tt0000331,2,La reine des jouets,\N,\N,original,\N,1
+tt0000332,1,Retour des champs,\N,\N,original,\N,1
+tt0000332,2,Retour des champs,FR,\N,imdbDisplay,\N,0
+tt0000333,1,Le sang d'Adonis donnant naissance à la rose rouge,\N,\N,original,\N,1
+tt0000333,2,Le sang d'Adonis donnant naissance à la rose rouge,FR,\N,imdbDisplay,\N,0
+tt0000334,1,Saut humidifié de M. Plick,\N,\N,original,\N,1
+tt0000334,2,Saut humidifié de M. Plick,FR,\N,imdbDisplay,\N,0
+tt0000335,1,Early Christian Martyrs,AU,\N,working,\N,0
+tt0000335,2,Soldiers of the Cross,AU,\N,imdbDisplay,\N,0
+tt0000335,3,Soldiers of the Cross,\N,\N,original,\N,1
+tt0000335,4,Soldiers of the Cross,GB,\N,imdbDisplay,\N,0
+tt0000336,1,La source,FR,\N,imdbDisplay,\N,0
+tt0000336,2,La source,\N,\N,original,\N,1
+tt0000337,1,Spanish Bullfight,\N,\N,original,\N,1
+tt0000337,2,Spanish Bullfight,FR,\N,imdbDisplay,\N,0
+tt0000338,1,Suite de la danse,\N,\N,original,\N,1
+tt0000338,2,Suite de la danse,FR,\N,imdbDisplay,\N,0
+tt0000339,1,La tarentelle,\N,\N,original,\N,1
+tt0000339,2,La tarentelle,FR,\N,imdbDisplay,\N,0
+tt0000340,1,Uncle Josh in a Spooky Hotel,US,\N,imdbDisplay,\N,0
+tt0000340,2,Uncle Josh in a Spooky Hotel,\N,\N,original,\N,1
+tt0000341,1,Uncle Josh's Nightmare,US,\N,imdbDisplay,\N,0
+tt0000341,2,O Pesadelo de Tio Josh,BR,\N,imdbDisplay,\N,0
+tt0000341,3,Ночной кошмар дяди Джоша,RU,\N,imdbDisplay,\N,0
+tt0000341,4,Uncle Josh's Nightmare,\N,\N,original,\N,1
+tt0000342,1,Une rage de dents,FR,\N,imdbDisplay,\N,0
+tt0000342,2,Une rage de dents,\N,\N,original,\N,1
+tt0000343,1,Valse directoire,\N,\N,original,\N,1
+tt0000343,2,Valse directoire,FR,\N,imdbDisplay,\N,0
+tt0000344,1,Valse lente,FR,\N,imdbDisplay,\N,0
+tt0000344,2,Valse lente,\N,\N,original,\N,1
+tt0000345,1,L'écossaise,\N,\N,original,\N,1
+tt0000345,2,L'écossaise,FR,\N,imdbDisplay,\N,0
+tt0000346,1,Another Job for the Undertaker,US,\N,imdbDisplay,\N,0
+tt0000346,2,Another Job for the Undertaker,\N,\N,original,\N,1
+tt0000346,3,Другая работа для Андертэйкера,RU,\N,imdbDisplay,\N,0
+tt0000347,1,Buffalo Bill's Wild West Parade,US,\N,imdbDisplay,\N,0
+tt0000347,2,Buffalo Bill's Wild West,\N,\N,\N,\N,0
+tt0000347,3,Parade of Buffalo Bill's Wild West,\N,\N,\N,\N,0
+tt0000347,4,Buffalo Bill's Wild West Parade,\N,\N,original,\N,1
+tt0000347,5,Buffalo Bill's Parade,\N,\N,\N,\N,0
+tt0000348,1,Charmant froufrou,\N,\N,original,\N,1
+tt0000348,2,Charmant froufrou,FR,\N,imdbDisplay,\N,0
+tt0000349,1,What Came Out of the Cheese; or, The Lilliputians in a New York Restaurant,US,\N,imdbDisplay,\N,0
+tt0000349,2,The Cheese Mites, or Lilliputians in a London Restaurant,\N,\N,original,\N,1
+tt0000349,3,The Cheese Mites, or Lilliputians in a London Restaurant,GB,\N,imdbDisplay,\N,0
+tt0000349,4,Cheesemites,GB,\N,alternative,\N,0
+tt0000350,1,The Countryman and the Cinematograph,\N,\N,original,\N,1
+tt0000350,2,The Countryman and the Cinematograph,GB,\N,imdbDisplay,\N,0
+tt0000350,3,Соотечественник впервые смотрит движущиеся картинки,RU,\N,imdbDisplay,\N,0
+tt0000350,4,Először találkoznak vidéken a vetítőgéppel,HU,\N,imdbDisplay,\N,0
+tt0000350,5,The Countryman's First Sight of the Animated Pictures,US,\N,\N,\N,0
+tt0000351,1,Danses basques,\N,\N,original,\N,1
+tt0000351,2,Danses basques,FR,\N,imdbDisplay,\N,0
+tt0000352,1,Day at the Circus,US,\N,imdbDisplay,\N,0
+tt0000352,2,Day at the Circus,\N,\N,original,\N,1
+tt0000353,1,Execution of Czolgosz with Panorama of Auburn Prison,US,\N,imdbDisplay,\N,0
+tt0000353,2,Czolgosz kivégzése az auburni börtön látképével,HU,\N,imdbDisplay,\N,0
+tt0000353,3,Execução de Czolgosz com Panorâmica da Prisão de Auburn,BR,\N,imdbDisplay,\N,0
+tt0000353,4,Electrocution of Czolgosz,\N,\N,\N,\N,0
+tt0000353,5,Execution of Czolgosz with Panorama of Auburn Prison,\N,\N,original,\N,1
+tt0000354,1,Exercício de Artilharia no Hipódromo de Belém,\N,\N,original,\N,1
+tt0000354,2,Exercício de Artilharia no Hipódromo de Belém,PT,\N,imdbDisplay,\N,0
+tt0000355,1,Fire!,\N,\N,original,\N,1
+tt0000355,2,Tűz van!,HU,\N,imdbDisplay,\N,0
+tt0000355,3,Fire!,GB,\N,imdbDisplay,\N,0
+tt0000355,4,Fogo!,BR,\N,imdbDisplay,\N,0
+tt0000355,5,Пожар,RU,\N,imdbDisplay,\N,0
+tt0000356,1,Frivolité,FR,\N,imdbDisplay,\N,0
+tt0000356,2,Frivolité,\N,\N,original,\N,1
+tt0000357,1,The Haunted Curiosity Shop,\N,\N,original,\N,1
+tt0000357,2,The Haunted Curiosity Shop,GB,\N,imdbDisplay,\N,0
+tt0000357,3,Лавка с привидениями,RU,\N,imdbDisplay,\N,0
+tt0000358,1,Die Geschichte eines Verbrechens,DE,\N,imdbDisplay,\N,0
+tt0000358,2,História de um Crime,BR,\N,imdbDisplay,\N,0
+tt0000358,3,Story of a Crime,US,\N,\N,\N,0
+tt0000358,4,History of a Crime,US,\N,\N,\N,0
+tt0000358,5,Egy bűntény története,HU,\N,imdbDisplay,\N,0
+tt0000358,6,История одного преступления,RU,\N,imdbDisplay,\N,0
+tt0000358,7,Histoire d'un crime,\N,\N,original,\N,1
+tt0000358,8,Histoire d'un crime,FR,\N,imdbDisplay,\N,0
+tt0000359,10,A gumifejű ember,HU,\N,imdbDisplay,\N,0
+tt0000359,11,The India Rubber Head,XWW,en,\N,\N,0
+tt0000359,12,O Homem com a Cabeça de Borracha,BR,\N,imdbDisplay,\N,0
+tt0000359,13,The Man with the India-Rubber Head,GB,\N,\N,literal English title,0
+tt0000359,14,Ο Άνθρωπος με το Κεφάλι από Καουτσούκ,GR,\N,imdbDisplay,\N,0
+tt0000359,15,ゴム頭の男,JP,ja,imdbDisplay,\N,0
+tt0000359,16,Der Mann mit dem Gummikopf,DE,\N,imdbDisplay,\N,0
+tt0000359,1,Kautsjuk-Hovedet,DK,\N,imdbDisplay,\N,0
+tt0000359,2,Чeловек с резиновой головой,RU,\N,imdbDisplay,\N,0
+tt0000359,3,El hombre con la cabeza de goma,XWW,es,imdbDisplay,\N,0
+tt0000359,4,L'homme à la tête en caoutchouc,\N,\N,original,\N,1
+tt0000359,5,Człowiek z gumową głową,PL,\N,imdbDisplay,\N,0
+tt0000359,6,Людина з гумовою головою,UA,\N,imdbDisplay,\N,0
+tt0000359,7,El hombre de la cabeza de goma,ES,\N,imdbDisplay,\N,0
+tt0000359,8,The Man with the Rubber Head,GB,\N,imdbDisplay,\N,0
+tt0000359,9,L'homme à la tête en caoutchouc,FR,\N,imdbDisplay,\N,0
+tt0000360,1,Hussards et grisettes,\N,\N,original,\N,1
+tt0000360,2,Hussards et grisettes,FR,\N,imdbDisplay,\N,0
+tt0000361,1,Lavatory moderne,FR,\N,imdbDisplay,\N,0
+tt0000361,2,Lavatory moderne,\N,\N,original,\N,1
+tt0000362,1,Lecture quotidienne,\N,\N,original,\N,1
+tt0000362,2,Lecture quotidienne,FR,\N,imdbDisplay,\N,0
+tt0000363,1,The Magic Sword, or A Medieval Mystery,GB,\N,alternative,\N,0
+tt0000363,2,The Magic Sword,\N,\N,original,\N,1
+tt0000363,3,The Magic Sword,GB,\N,imdbDisplay,\N,0
+tt0000363,4,Magical Sword,US,\N,\N,\N,0
+tt0000363,5,Волшебный меч,RU,\N,imdbDisplay,\N,0
+tt0000364,1,Panorama of Esplanade by Night,\N,\N,original,\N,1
+tt0000364,2,Panorama of Esplanade by Night,US,\N,imdbDisplay,\N,0
+tt0000365,1,Parada de Bombeiros,PT,\N,imdbDisplay,\N,0
+tt0000365,2,Parada de Bombeiros,\N,\N,original,\N,1
+tt0000366,1,Uma Parada dos Alunos da Casa Pia de Lisboa,\N,\N,original,\N,1
+tt0000366,2,Uma Parada dos Alunos da Casa Pia de Lisboa,PT,\N,imdbDisplay,\N,0
+tt0000367,1,Pas de colombine,\N,\N,original,\N,1
+tt0000367,2,Pas de colombine,FR,\N,imdbDisplay,\N,0
+tt0000368,1,Den lille Rødhætte,DK,\N,imdbDisplay,\N,0
+tt0000368,2,Le petit chaperon rouge,FR,\N,imdbDisplay,\N,0
+tt0000368,3,Piroska és a farkas,HU,\N,imdbDisplay,\N,0
+tt0000368,4,Le petit chaperon rouge,\N,\N,original,\N,1
+tt0000368,5,Little Red Riding Hood,US,\N,\N,\N,0
+tt0000368,6,Caperucita roja,VE,\N,\N,\N,0
+tt0000369,1,A Road for Children's Bicycles in Barcelona,GB,\N,imdbDisplay,\N,0
+tt0000369,2,Fiestas de bicicletas para niños,ES,\N,\N,\N,0
+tt0000369,3,A Road for Children's Bicycles in Barcelona,US,\N,imdbDisplay,\N,0
+tt0000369,4,A Road for Children's Bicycles in Barcelona,XWW,en,imdbDisplay,\N,0
+tt0000369,5,Pista de bicicletas para niños en Barcelona,\N,\N,original,\N,1
+tt0000370,1,Scrooge; or Marley's Ghost,\N,\N,original,\N,1
+tt0000370,2,Scrooge; or Marley's Ghost,GB,\N,imdbDisplay,\N,0
+tt0000370,3,Scrooge; or Marley's Ghost,US,\N,imdbDisplay,\N,0
+tt0000370,4,Скрудж, или Призрак Марли,RU,\N,imdbDisplay,\N,0
+tt0000370,5,Scrooge, or Marley's Ghost,GB,\N,alternative,\N,0
+tt0000371,1,Scène d'amour,\N,\N,original,\N,1
+tt0000371,2,Scène d'amour,FR,\N,imdbDisplay,\N,0
+tt0000372,1,Scène d'ivresse,FR,\N,imdbDisplay,\N,0
+tt0000372,2,Scène d'ivresse,US,\N,imdbDisplay,\N,0
+tt0000372,3,Scène d'ivresse,\N,\N,original,\N,1
+tt0000373,1,De syv dødssynder,DK,\N,imdbDisplay,\N,0
+tt0000373,2,The Devil's Seven Castles,US,\N,\N,\N,0
+tt0000373,3,Los siete castillos del Diablo,UY,\N,\N,literal title,0
+tt0000373,4,Τα Επτά Κάστρα του Διαβόλου,GR,\N,imdbDisplay,\N,0
+tt0000373,5,The Seven Castles of the Devil,XWW,en,\N,\N,0
+tt0000373,6,Ta Epta Kastra tou Diavolou,GR,\N,\N,transliterated title,0
+tt0000373,7,Les sept châteaux du diable,\N,\N,original,\N,1
+tt0000373,8,Les sept châteaux du diable,FR,\N,imdbDisplay,\N,0
+tt0000374,1,Tel est pris qui croyait prendre,\N,\N,original,\N,1
+tt0000374,2,Tel est pris qui croyait prendre,FR,\N,imdbDisplay,\N,0
+tt0000375,1,Uma Tourada à Antiga Portuguesa,PT,\N,imdbDisplay,\N,0
+tt0000375,2,Uma Tourada à Antiga Portuguesa,\N,\N,original,\N,1
+tt0000376,1,A táncz,\N,\N,original,\N,1
+tt0000376,2,The Dance,\N,\N,\N,\N,0
+tt0000376,3,A tánc,HU,\N,\N,alternative spelling,0
+tt0000376,4,A táncz,HU,\N,imdbDisplay,\N,0
+tt0000377,1,Undressing Extraordinary,\N,\N,original,\N,1
+tt0000377,2,Undressing Extraordinary, or The Troubles of a Tired Traveller,GB,\N,alternative,\N,0
+tt0000377,3,Undressing Extraordinary,GB,\N,imdbDisplay,\N,0
+tt0000378,1,Les vagues,\N,\N,original,\N,1
+tt0000378,2,Les vagues,FR,\N,imdbDisplay,\N,0
+tt0000379,1,Visita de la escuadra inglesa a Barcelona,\N,\N,original,\N,1
+tt0000379,2,Rompeolas,ES,\N,alternative,\N,0
+tt0000379,3,Visit of the British Navy to Barcelona,GB,\N,imdbDisplay,\N,0
+tt0000379,4,Visita de la escuadra inglesa a Barcelona,ES,\N,imdbDisplay,\N,0
+tt0000380,1,La belle au bois dormant,\N,\N,original,\N,1
+tt0000380,2,Tornerose,DK,\N,imdbDisplay,\N,0
+tt0000380,3,La belle au bois dormant,FR,\N,imdbDisplay,\N,0
+tt0000380,4,Sleeping Beauty,US,\N,\N,\N,0
+tt0000381,1,Buffalo Bill's Wild West Show,US,\N,imdbDisplay,\N,0
+tt0000381,2,Buffalo Bill's Wild West Show,\N,\N,original,\N,1
+tt0000382,1,Carnaval en las ramblas,ES,\N,imdbDisplay,\N,0
+tt0000382,2,Carnaval en las ramblas,\N,\N,original,\N,1
+tt0000383,1,Carreras de caballos en el hipódromo de Barcelona,\N,\N,original,\N,1
+tt0000383,2,Carreras de caballos en el hipódromo de Barcelona,ES,\N,imdbDisplay,\N,0
+tt0000384,1,Miss Dundee et les chiens savants,FR,\N,\N,\N,0
+tt0000384,2,Chiens savants,\N,\N,\N,\N,0
+tt0000384,3,Miss Dundee and Her Performing Dogs,US,\N,dvd,\N,0
+tt0000384,4,Мисс Данди и её дрессированные собаки,RU,\N,imdbDisplay,\N,0
+tt0000384,5,Les chiens savants,\N,\N,original,\N,1
+tt0000385,1,Les clowns,\N,\N,original,\N,1
+tt0000385,2,Les clowns,FR,\N,imdbDisplay,\N,0
+tt0000386,1,La cour des miracles,\N,\N,original,\N,1
+tt0000386,2,La cour des miracles,FR,\N,imdbDisplay,\N,0
+tt0000387,1,Le sacre d'Édouard VII,FR,\N,imdbDisplay,\N,0
+tt0000387,2,Reproduction, Coronation Ceremonies: King Edward VII,US,\N,\N,\N,0
+tt0000387,3,The Coronation of Edward VII,\N,\N,original,\N,1
+tt0000387,4,A Coroação do Rei Eduardo VII,BR,\N,imdbDisplay,\N,0
+tt0000387,5,Edward VII's kroning,DK,\N,\N,\N,0
+tt0000387,6,The Coronation of Edward VII,GB,\N,imdbDisplay,\N,0
+tt0000387,7,The Coronation of King Edward VII,US,\N,\N,\N,0
+tt0000387,8,Коронация Эдуарда VII,RU,\N,imdbDisplay,\N,0
+tt0000387,9,Le couronnement du roi Édouard VII,\N,\N,\N,\N,0
+tt0000388,1,Danse excentrique,\N,\N,original,\N,1
+tt0000388,2,Danse excentrique,FR,\N,imdbDisplay,\N,0
+tt0000388,3,Serpentine Dance by Lina Esbrard,US,\N,dvd,\N,0
+tt0000389,1,Danse fantaisiste,\N,\N,original,\N,1
+tt0000389,2,Danse fantaisiste,FR,\N,imdbDisplay,\N,0
+tt0000390,1,Danse mauresque,FR,\N,imdbDisplay,\N,0
+tt0000390,2,Danse mauresque,\N,\N,original,\N,1
+tt0000391,1,La dent récalcitrante,\N,\N,original,\N,1
+tt0000391,2,La dent récalcitrante,FR,\N,imdbDisplay,\N,0
+tt0000392,1,The Enchanted Cup,GB,\N,imdbDisplay,\N,0
+tt0000392,2,The Enchanted Cup,\N,\N,original,\N,1
+tt0000393,1,En faction,\N,\N,original,\N,1
+tt0000393,2,En faction,FR,\N,imdbDisplay,\N,0
+tt0000394,1,Farces de cuisinière,FR,\N,imdbDisplay,\N,0
+tt0000394,2,Farces de cuisinière,\N,\N,original,\N,1
+tt0000395,1,La fiole enchantée,FR,\N,imdbDisplay,\N,0
+tt0000395,2,La fiole enchantée,\N,\N,original,\N,1
+tt0000396,1,Fruits de saison,FR,\N,imdbDisplay,\N,0
+tt0000396,2,Fruits de saison,\N,\N,original,\N,1
+tt0000397,1,La gavotte,\N,\N,original,\N,1
+tt0000397,2,La gavotte,FR,\N,imdbDisplay,\N,0
+tt0000398,1,La gigue,\N,\N,original,\N,1
+tt0000398,2,La gigue,FR,\N,imdbDisplay,\N,0
+tt0000399,1,Jack y la habichuela gigante,VE,\N,\N,\N,0
+tt0000399,2,Джек и стебель фасоли,RU,\N,imdbDisplay,\N,0
+tt0000399,3,Babszem Jankó,HU,\N,imdbDisplay,\N,0
+tt0000399,4,João e o Pé de Feijão,BR,\N,imdbDisplay,\N,0
+tt0000399,5,Jack and the Beanstalk,US,\N,imdbDisplay,\N,0
+tt0000399,6,ジャックと豆の木,JP,ja,imdbDisplay,\N,0
+tt0000399,7,Jack and the Beanstalk,\N,\N,original,\N,1
+tt0000400,1,Le lion savant,FR,\N,imdbDisplay,\N,0
+tt0000400,2,Le lion savant,\N,\N,original,\N,1
+tt0000401,1,Le marchand de ballons,\N,\N,original,\N,1
+tt0000401,2,Le marchand de ballons,FR,\N,imdbDisplay,\N,0
+tt0000402,1,Mother Goose Nursery Rhymes,GB,\N,imdbDisplay,\N,0
+tt0000402,2,Mother Goose Nursery Rhymes,\N,\N,original,\N,1
+tt0000403,1,Le pommier,\N,\N,original,\N,1
+tt0000403,2,Le pommier,FR,\N,imdbDisplay,\N,0
+tt0000404,1,Pour secouer la salade,\N,\N,original,\N,1
+tt0000404,2,Pour secouer la salade,FR,\N,imdbDisplay,\N,0
+tt0000405,1,La première gamelle,\N,\N,original,\N,1
+tt0000405,2,La première gamelle,FR,\N,imdbDisplay,\N,0
+tt0000406,1,The Prince of Darkness,\N,\N,original,\N,1
+tt0000406,2,The Prince of Darkness,US,\N,imdbDisplay,\N,0
+tt0000407,1,Procesión de las hijas de María de la parroquia de Sans,ES,\N,imdbDisplay,\N,0
+tt0000407,2,Procession of the Daughters of the Virgin Mary from the Sants Church,GB,\N,imdbDisplay,\N,0
+tt0000407,3,Procesión de las hijas de María de la parroquia de Sans,\N,\N,original,\N,1
+tt0000408,1,Quadrille réaliste,\N,\N,original,\N,1
+tt0000408,2,Quadrille réaliste,FR,\N,imdbDisplay,\N,0
+tt0000409,1,Первоклассная акушерка,RU,\N,imdbDisplay,\N,0
+tt0000409,2,Naissance des enfants,FR,\N,alternative,\N,0
+tt0000409,3,Sage-femme de première classe,FR,\N,imdbDisplay,\N,0
+tt0000409,4,A Parteira da Classe Média,BR,\N,imdbDisplay,\N,0
+tt0000409,5,Sage-femme de première classe,\N,\N,original,\N,1
+tt0000409,6,Midwife to the Upper Classes,XWW,en,\N,\N,0
+tt0000410,1,Снос и возведение Звездного Театра,RU,\N,imdbDisplay,\N,0
+tt0000410,2,Building Up and Demolishing the Star Theatre,US,\N,dvd,\N,0
+tt0000410,3,Demolishing and Building Up the Star Theatre,\N,\N,original,\N,1
+tt0000410,4,Star Theatre,US,\N,\N,copyright title,0
+tt0000410,5,A Star Theatre lebontása és felépítése,HU,\N,imdbDisplay,\N,0
+tt0000410,6,Demolishing and Building Up the Star Theatre,US,\N,imdbDisplay,\N,0
+tt0000411,1,Trompé mais content,\N,\N,original,\N,1
+tt0000411,2,Trompé mais content,FR,\N,imdbDisplay,\N,0
+tt0000412,1,The Troublesome Fly,US,\N,imdbDisplay,\N,0
+tt0000412,2,The Troublesome Fly,\N,\N,original,\N,1
+tt0000413,1,Les trésors de satan,\N,\N,original,\N,1
+tt0000413,2,Les trésors de satan,FR,\N,imdbDisplay,\N,0
+tt0000413,3,Сокровища сатаны,RU,\N,imdbDisplay,\N,0
+tt0000413,4,Скарби сатани,UA,\N,imdbDisplay,\N,0
+tt0000413,5,Mephistopheles' School of Magic,US,\N,\N,\N,0
+tt0000413,6,The Treasures of Satan,US,\N,\N,\N,0
+tt0000413,7,The Devil's Money Bags,US,\N,\N,\N,0
+tt0000414,1,Uncle Josh at the Moving Picture Show,\N,\N,original,\N,1
+tt0000414,2,Uncle Josh at the Moving Picture Show,US,\N,imdbDisplay,\N,0
+tt0000414,3,Josh bácsi és a mozgókép,HU,\N,imdbDisplay,\N,0
+tt0000414,4,Дядя Джош на киносеансе,RU,\N,imdbDisplay,\N,0
+tt0000415,1,Un cabinet particulier,FR,\N,\N,short title,0
+tt0000415,2,Une scène en cabinet particulier vue à travers le trou de la serrure,\N,\N,original,\N,1
+tt0000415,3,Une scène en cabinet particulier vue à travers le trou de la serrure,FR,\N,imdbDisplay,\N,0
+tt0000415,4,A Peculiar Cabinet,XWW,en,\N,\N,0
+tt0000416,1,Les victimes de l'alcoolisme,FR,\N,imdbDisplay,\N,0
+tt0000416,2,Alkoholismens skadelige Følger,DK,\N,imdbDisplay,\N,0
+tt0000416,3,Les victimes de l'alcoolisme,\N,\N,original,\N,1
+tt0000416,4,Alcohol and Its Victims,US,\N,\N,\N,0
+tt0000417,10,Matka Kuuhun,FI,\N,imdbDisplay,\N,0
+tt0000417,11,Die Reise nach dem Monde,AT,\N,imdbDisplay,\N,0
+tt0000417,12,En Tur til Maanen,DK,\N,imdbDisplay,\N,0
+tt0000417,13,Подорож на Місяць,UA,\N,imdbDisplay,\N,0
+tt0000417,14,Voiajul în lună,RO,\N,imdbDisplay,\N,0
+tt0000417,15,A Trip to the Moon,GB,\N,imdbDisplay,\N,0
+tt0000417,16,Cesta na Mesiac,CSHH,sk,imdbDisplay,\N,0
+tt0000417,17,Viaje a la Luna,MX,\N,imdbDisplay,\N,0
+tt0000417,18,El viaje a la luna,UY,\N,\N,original subtitled version,0
+tt0000417,19,Taxidi sti Selini,GR,\N,\N,transliterated title,0
+tt0000417,1,Le voyage dans la lune,\N,\N,original,\N,1
+tt0000417,20,Viaje a la Luna,ES,\N,imdbDisplay,\N,0
+tt0000417,21,Resan till månen,FI,sv,imdbDisplay,\N,0
+tt0000417,22,月世界旅行,JP,ja,imdbDisplay,\N,0
+tt0000417,23,Пут на месец,RS,\N,imdbDisplay,\N,0
+tt0000417,24,Resan till månen,SE,\N,imdbDisplay,\N,0
+tt0000417,25,A Trip to Mars,US,\N,\N,copyright title,0
+tt0000417,26,Viagem à Lua,BR,\N,\N,\N,0
+tt0000417,27,Cesta na Mesiac,SK,\N,imdbDisplay,\N,0
+tt0000417,28,Viagem à Lua,PT,\N,imdbDisplay,\N,0
+tt0000417,29,月球之旅,TW,\N,imdbDisplay,\N,0
+tt0000417,2,Kelionė į Mėnulį,LT,\N,imdbDisplay,\N,0
+tt0000417,30,A Trip to the Moon,XEU,en,imdbDisplay,\N,0
+tt0000417,31,Utazás a Holdba,HU,\N,imdbDisplay,\N,0
+tt0000417,32,Le Voyage Dans La Lune,IN,en,imdbDisplay,\N,0
+tt0000417,33,A Trip to the Moon,CA,en,imdbDisplay,\N,0
+tt0000417,34,Een avontuur bij de maan,NL,\N,imdbDisplay,\N,0
+tt0000417,35,Путешествие на Луну,RU,\N,imdbDisplay,\N,0
+tt0000417,36,Potovanje na luno,SI,\N,imdbDisplay,\N,0
+tt0000417,37,Ταξίδι στη Σελήνη,GR,\N,imdbDisplay,\N,0
+tt0000417,38,Viaggio nella Luna,IT,\N,\N,\N,0
+tt0000417,39,A Trip to the Moon,XWW,\N,imdbDisplay,\N,0
+tt0000417,3,Călătoria în lună,RO,\N,alternative,\N,0
+tt0000417,40,Die Reise zum Mond,DE,\N,\N,\N,0
+tt0000417,41,A Trip to the Moon,US,\N,imdbDisplay,\N,0
+tt0000417,42,Cesta na Měsíc,CSHH,cs,imdbDisplay,\N,0
+tt0000417,43,A Trip to the Moon,XWW,en,imdbDisplay,\N,0
+tt0000417,44,Voyage to the Moon,US,\N,alternative,\N,0
+tt0000417,4,Reisen til månen,NO,\N,imdbDisplay,\N,0
+tt0000417,5,Gessekai Ryokô,JP,\N,imdbDisplay,\N,0
+tt0000417,6,Cesta na Mesíc,CZ,\N,imdbDisplay,\N,0
+tt0000417,7,Le Voyage dans la Lune,FR,\N,imdbDisplay,\N,0
+tt0000417,8,Op reis naar de maan,NL,\N,alternative,\N,0
+tt0000417,9,Podróż na Księżyc,PL,\N,imdbDisplay,\N,0
+tt0000418,1,The Wild Man of Borneo,GB,\N,imdbDisplay,\N,0
+tt0000418,2,The Wild Man of Borneo,\N,\N,original,\N,1
+tt0000419,1,L'équilibriste,FR,\N,imdbDisplay,\N,0
+tt0000419,2,L'équilibriste,\N,\N,original,\N,1
+tt0000420,10,Алиса в Стране чудес,RU,\N,imdbDisplay,\N,0
+tt0000420,1,Alicja w krainie czarów,PL,\N,\N,\N,0
+tt0000420,2,Alice no País das Maravilhas,BR,\N,imdbDisplay,\N,0
+tt0000420,3,Alice im Wunderland,DE,\N,imdbDisplay,\N,0
+tt0000420,4,Alíz Csodaországban,HU,\N,imdbDisplay,\N,0
+tt0000420,5,Alice in Wonderland,BR,\N,\N,\N,0
+tt0000420,6,Alice's Adventures in Wonderland,GB,\N,alternative,\N,0
+tt0000420,7,Alice in Wonderland,\N,\N,original,\N,1
+tt0000420,8,Alice in Wonderland,GB,\N,imdbDisplay,\N,0
+tt0000420,9,不思議の国のアリス,JP,ja,imdbDisplay,\N,0
+tt0000421,1,Les apaches pas veinards,FR,\N,imdbDisplay,\N,0
+tt0000421,2,Les apaches pas veinards,\N,\N,original,\N,1
+tt0000422,1,Les aventures d'un voyageur trop pressé,\N,\N,original,\N,1
+tt0000422,2,Les aventures d'un voyageur trop pressé,FR,\N,imdbDisplay,\N,0
+tt0000423,1,Фокусы,RU,\N,imdbDisplay,\N,0
+tt0000423,2,The Enchanted Box,US,\N,imdbDisplay,\N,0
+tt0000423,3,La boîte à malice,\N,\N,original,\N,1
+tt0000423,4,La boîte à malice,FR,\N,imdbDisplay,\N,0
+tt0000423,5,The Shallow Box Trick,GB,\N,imdbDisplay,\N,0
+tt0000424,1,Les braconniers,\N,\N,original,\N,1
+tt0000424,2,Les braconniers,FR,\N,imdbDisplay,\N,0
+tt0000425,1,Buffalo Bill's Parade,\N,\N,original,\N,1
+tt0000425,2,Showing Indians and Band Mounted,US,\N,alternative,\N,0
+tt0000425,3,Buffalo Bill's Parade,US,\N,imdbDisplay,\N,0
+tt0000426,1,Buffalo Bill's Street Parade,US,\N,imdbDisplay,\N,0
+tt0000426,2,Buffalo Bill's Street Parade,\N,\N,original,\N,1
+tt0000427,1,Cake-walk de la pendule,\N,\N,original,\N,1
+tt0000427,2,Cake-walk de la pendule,FR,\N,imdbDisplay,\N,0
+tt0000428,1,Carreras de bicicletas en el parque,\N,\N,original,\N,1
+tt0000428,2,Carreras de bicicletas en el parque,ES,\N,imdbDisplay,\N,0
+tt0000429,1,La chasse au cambrioleur,\N,\N,original,\N,1
+tt0000429,2,La chasse au cambrioleur,FR,\N,imdbDisplay,\N,0
+tt0000430,1,Шахматные дебаты,RU,\N,imdbDisplay,\N,0
+tt0000430,2,A Chess Dispute,GB,\N,imdbDisplay,\N,0
+tt0000430,3,A Chess Dispute,\N,\N,original,\N,1
+tt0000431,1,Comme on fait son lit on se couche,FR,\N,imdbDisplay,\N,0
+tt0000431,2,Comme on fait son lit on se couche,\N,\N,original,\N,1
+tt0000432,1,How Monsieur Takes His Bath,XWW,en,\N,\N,0
+tt0000432,2,Comment monsieur prend son bain,FR,\N,imdbDisplay,\N,0
+tt0000432,3,Comment monsieur prend son bain,\N,\N,original,\N,1
+tt0000433,1,Compagnons de voyage encombrants,FR,\N,imdbDisplay,\N,0
+tt0000433,2,Compagnons de voyage encombrants,\N,\N,original,\N,1
+tt0000434,1,Dorothy's Dream,\N,\N,original,\N,1
+tt0000434,2,Dorothy's Dream,GB,\N,imdbDisplay,\N,0
+tt0000435,1,Enlèvement en automobile et mariage précipité,\N,\N,original,\N,1
+tt0000435,2,Enlèvement en automobile et mariage précipité,FR,\N,imdbDisplay,\N,0
+tt0000436,1,Экстраординарное дорожное происшествие,RU,\N,imdbDisplay,\N,0
+tt0000436,2,An Extraordinary Cab Accident,GB,\N,imdbDisplay,\N,0
+tt0000436,3,An Extraordinary Cab Accident,\N,\N,original,\N,1
+tt0000437,1,Faust et Méphistophélès,FR,\N,imdbDisplay,\N,0
+tt0000437,2,Фауст и Мефистофель,RU,\N,imdbDisplay,\N,0
+tt0000437,3,Faust et Méphistophélès,\N,\N,original,\N,1
+tt0000438,1,Le fiancé ensorcelé,\N,\N,original,\N,1
+tt0000438,2,Le fiancé ensorcelé,FR,\N,imdbDisplay,\N,0
+tt0000439,10,大列車強盗（1903）,JP,ja,imdbDisplay,\N,0
+tt0000439,11,Велике пограбування потягу,UA,\N,imdbDisplay,\N,0
+tt0000439,12,Le vol du grand rapide,CA,fr,\N,\N,0
+tt0000439,13,Le vol du grand rapide,FR,\N,\N,\N,0
+tt0000439,14,The Great Train Robbery,US,\N,imdbDisplay,\N,0
+tt0000439,15,El gran robo al tren,CO,\N,imdbDisplay,\N,0
+tt0000439,16,Den stora tågplundringen,SE,\N,imdbDisplay,\N,0
+tt0000439,17,Assalto al treno,IT,\N,\N,informal title,0
+tt0000439,18,The Great Train Robbery,\N,\N,original,\N,1
+tt0000439,19,Большое ограбление поезда,RU,\N,imdbDisplay,\N,0
+tt0000439,1,A nagy vonatrablás,HU,\N,imdbDisplay,\N,0
+tt0000439,20,Suuri junaryöstö,FI,\N,\N,\N,0
+tt0000439,21,Le vol du rapide,FR,\N,\N,\N,0
+tt0000439,22,Velká zeleznicní loupez,CZ,\N,imdbDisplay,\N,0
+tt0000439,23,Marele jaf al trenului,RO,\N,imdbDisplay,\N,0
+tt0000439,24,Велика пљачка воза,RS,\N,imdbDisplay,\N,0
+tt0000439,25,Det store togrøveriet,NO,\N,imdbDisplay,\N,0
+tt0000439,26,Det store togrøveri,DK,\N,\N,\N,0
+tt0000439,27,Der große Eisenbahnraub,DE,\N,imdbDisplay,\N,0
+tt0000439,28,Η Μεγάλη Ληστεία του Τρένου,GR,\N,imdbDisplay,\N,0
+tt0000439,2,O Grande Roubo do Trem,BR,\N,\N,\N,0
+tt0000439,3,Asalto y robo al tren,ES,\N,\N,\N,0
+tt0000439,4,The Great Train Robbery,GB,\N,imdbDisplay,\N,0
+tt0000439,5,Der grosse Eisenbahnüberfall,DE,\N,tv,\N,0
+tt0000439,6,Napad na ekspres,PL,\N,\N,\N,0
+tt0000439,7,Dai Ressha Gôtô,JP,\N,imdbDisplay,\N,0
+tt0000439,8,L'attaque du Grand Rapide,FR,\N,alternative,\N,0
+tt0000439,9,Serghate Bozorge Ghatar,IR,fa,imdbDisplay,\N,0
+tt0000440,1,Чудесная гирлянда,RU,\N,imdbDisplay,\N,0
+tt0000440,2,A csodálatos virágfüzér,HU,\N,imdbDisplay,\N,0
+tt0000440,3,The Marvelous Wreath,US,\N,\N,literal English title,0
+tt0000440,4,La guirlande merveilleuse,\N,\N,original,\N,1
+tt0000440,5,La guirlande merveilleuse,FR,\N,imdbDisplay,\N,0
+tt0000440,6,Marvellous Wreath,\N,\N,\N,\N,0
+tt0000441,1,Gulliver in the Land of Giants,GB,\N,imdbDisplay,\N,0
+tt0000441,2,Gulliver en el país de los gigantes,\N,\N,original,\N,1
+tt0000441,3,Gulliver en el país de los gigantes,ES,\N,imdbDisplay,\N,0
+tt0000442,1,Henrettelsen,\N,\N,original,\N,1
+tt0000442,2,Capital Execution,US,\N,\N,\N,0
+tt0000442,3,Henrettelsen,DK,\N,imdbDisplay,\N,0
+tt0000443,1,Hiawatha,DK,\N,imdbDisplay,\N,0
+tt0000443,2,Hiawatha, the Indian Messiah,GB,\N,alternative,\N,0
+tt0000443,3,Hiawatha,US,\N,imdbDisplay,\N,0
+tt0000443,4,Hiawatha, the Messiah of the Ojibway,\N,\N,original,\N,1
+tt0000443,5,Hiawatha, the Messiah of the Ojibway,GB,\N,imdbDisplay,\N,0
+tt0000443,6,The Passion Play of America,GB,\N,\N,subtitle,0
+tt0000444,1,Illusionniste renversant,FR,\N,imdbDisplay,\N,0
+tt0000444,2,Illusionniste renversant,\N,\N,original,\N,1
+tt0000445,1,Jocko musicien,\N,\N,original,\N,1
+tt0000445,2,Jocko musicien,FR,\N,imdbDisplay,\N,0
+tt0000446,1,Kit Carson,\N,\N,original,\N,1
+tt0000446,2,Kit Carson,US,\N,imdbDisplay,\N,0
+tt0000447,10,Живот америчког ватрогасца,RS,\N,imdbDisplay,\N,0
+tt0000447,1,Vida de um Bombeiro Americano,BR,\N,imdbDisplay,\N,0
+tt0000447,2,アメリカ消防士の生活,JP,ja,imdbDisplay,\N,0
+tt0000447,3,Life of an American Fireman,US,\N,imdbDisplay,\N,0
+tt0000447,4,Egy amerikai tűzoltó élete,HU,\N,imdbDisplay,\N,0
+tt0000447,5,A Vida de Um Bombeiro Americano,PT,\N,\N,literal title,0
+tt0000447,6,The Life of an American Fireman,US,\N,alternative,\N,0
+tt0000447,7,Life of an American Fireman,\N,\N,original,\N,1
+tt0000447,8,Жизнь американского пожарного,RU,\N,imdbDisplay,\N,0
+tt0000447,9,Животът на един американски пожарникар,BG,bg,imdbDisplay,\N,0
+tt0000448,1,Le liqueur du couvent,\N,\N,original,\N,1
+tt0000448,2,Le liqueur du couvent,FR,\N,imdbDisplay,\N,0
+tt0000449,1,Lutteurs américains,\N,\N,original,\N,1
+tt0000449,2,Lutteurs américains,FR,\N,imdbDisplay,\N,0
+tt0000450,1,La main du professeur Hamilton ou le roi des dollars,\N,\N,original,\N,1
+tt0000450,2,La main du professeur Hamilton ou le roi des dollars,FR,\N,imdbDisplay,\N,0
+tt0000451,1,メリー・ジェーンの災難,JP,ja,imdbDisplay,\N,0
+tt0000451,2,Το Ατύχημα της Μαίρη Τζέιν,GR,\N,imdbDisplay,\N,0
+tt0000451,3,O Acidente de Mary Jane,BR,\N,imdbDisplay,\N,0
+tt0000451,4,Η Κακοτυχία της Μαίρη Τζέιν,GR,\N,imdbDisplay,\N,0
+tt0000451,5,Mary Jane's Mishap; or, Don't Fool with the Paraffin,GB,\N,alternative,\N,0
+tt0000451,6,Mary Jane malőrje,HU,\N,imdbDisplay,\N,0
+tt0000451,7,Mary Jane's Mishap,\N,\N,original,\N,1
+tt0000451,8,Злоключения Мэри Джейн,RU,\N,imdbDisplay,\N,0
+tt0000451,9,Mary Jane's Mishap,GB,\N,imdbDisplay,\N,0
+tt0000452,1,The Messenger Boy's Mistake,\N,\N,original,\N,1
+tt0000452,2,The Messenger Boy's Mistake,US,\N,imdbDisplay,\N,0
+tt0000453,1,Modelage express,\N,\N,original,\N,1
+tt0000453,2,Modelage express,FR,\N,imdbDisplay,\N,0
+tt0000454,1,La mouche,FR,\N,imdbDisplay,\N,0
+tt0000454,2,La mouche,\N,\N,original,\N,1
+tt0000455,10,Ο Μελομανής,GR,\N,imdbDisplay,\N,0
+tt0000455,11,Meloman,PL,\N,imdbDisplay,\N,0
+tt0000455,12,The Music Lover,GB,\N,imdbDisplay,\N,0
+tt0000455,1,O Melomanis,GR,\N,\N,transliterated title,0
+tt0000455,2,Le mélomane,\N,\N,original,\N,1
+tt0000455,3,O Melômano,BR,\N,imdbDisplay,\N,0
+tt0000455,4,A zenebolond,HU,\N,imdbDisplay,\N,0
+tt0000455,5,Меломан,RU,\N,imdbDisplay,\N,0
+tt0000455,6,The Melomaniac,\N,\N,\N,\N,0
+tt0000455,7,The Music Lover,US,\N,\N,\N,0
+tt0000455,8,Le mélomane,FR,\N,imdbDisplay,\N,0
+tt0000455,9,El melómano,ES,\N,imdbDisplay,\N,0
+tt0000456,1,N.Y. Fire Department Returning,\N,\N,original,\N,1
+tt0000456,2,New York City Fire Department,US,\N,alternative,\N,0
+tt0000456,3,N.Y. Fire Department Returning,US,\N,imdbDisplay,\N,0
+tt0000457,1,Ne bougeons plus,\N,\N,original,\N,1
+tt0000457,2,Ne bougeons plus,FR,\N,imdbDisplay,\N,0
+tt0000458,1,Nos bons étudiants,\N,\N,original,\N,1
+tt0000458,2,Nos bons étudiants,FR,\N,imdbDisplay,\N,0
+tt0000459,1,Panorama of Riker's Island, N.Y.,US,\N,imdbDisplay,\N,0
+tt0000459,2,Panorama of Riker's Island, N.Y.,\N,\N,original,\N,1
+tt0000460,1,The Pioneers,US,\N,imdbDisplay,\N,0
+tt0000460,2,The Pioneers,\N,\N,original,\N,1
+tt0000461,1,Potage indigeste,\N,\N,original,\N,1
+tt0000461,2,Potage indigeste,FR,\N,imdbDisplay,\N,0
+tt0000462,1,La poule fantaisiste,\N,\N,original,\N,1
+tt0000462,2,La poule fantaisiste,FR,\N,imdbDisplay,\N,0
+tt0000463,1,Puerto de Barcelona,ES,\N,imdbDisplay,\N,0
+tt0000463,2,Puerto de Barcelona,\N,\N,original,\N,1
+tt0000463,3,Barcelona Harbour,GB,\N,imdbDisplay,\N,0
+tt0000464,1,Rip Van Winkle,\N,\N,original,\N,1
+tt0000464,2,Рип Ван Винкль,RU,\N,imdbDisplay,\N,0
+tt0000464,3,Rip Van Winkle,US,\N,imdbDisplay,\N,0
+tt0000465,10,The Kingdom of the Fairies,XWW,en,imdbDisplay,\N,0
+tt0000465,11,The Kingdom of the Fairies,GB,\N,imdbDisplay,\N,0
+tt0000465,12,В царстве фей,RU,\N,imdbDisplay,\N,0
+tt0000465,13,Kingdom of the Fairies,\N,\N,\N,\N,0
+tt0000465,14,Le royaume des fées,\N,\N,original,\N,1
+tt0000465,15,The Kingdom of the Fairies,US,\N,imdbDisplay,\N,0
+tt0000465,16,To Vasilio ton Neraidon,GR,\N,\N,transliterated title,0
+tt0000465,17,Fairyland; or, the Kingdom of the Fairies,US,\N,\N,\N,0
+tt0000465,1,Das Königreich der Feen,DE,\N,alternative,\N,0
+tt0000465,2,O Reino das Fadas,BR,\N,imdbDisplay,\N,0
+tt0000465,3,Fairyland: A Kingdom of Fairies,US,\N,\N,\N,0
+tt0000465,4,Το Βασίλειο των Νεράιδων,GR,\N,imdbDisplay,\N,0
+tt0000465,5,Au royaume des fées,FR,\N,\N,\N,0
+tt0000465,6,The Fairyland,US,\N,\N,\N,0
+tt0000465,7,A tündérkirályság,HU,\N,imdbDisplay,\N,0
+tt0000465,8,Paa Havsens Bund,DK,\N,imdbDisplay,\N,0
+tt0000465,9,Feernes Kongerige,DK,\N,alternative,\N,0
+tt0000466,1,Répétition dans un cirque,\N,\N,original,\N,1
+tt0000466,2,Répétition dans un cirque,FR,\N,imdbDisplay,\N,0
+tt0000467,1,Secours aux naufragés,\N,\N,original,\N,1
+tt0000467,2,Secours aux naufragés,FR,\N,imdbDisplay,\N,0
+tt0000468,1,Service précipité,FR,\N,imdbDisplay,\N,0
+tt0000468,2,Service précipité,\N,\N,original,\N,1
+tt0000469,1,The Sick Kitten,GB,\N,imdbDisplay,\N,0
+tt0000469,2,The Sick Kitten,\N,\N,original,\N,1
+tt0000469,3,The Little Doctor and the Sick Kitten,\N,\N,\N,\N,0
+tt0000469,4,O Gatinho Doente,BR,\N,imdbDisplay,\N,0
+tt0000469,5,The Sick Kitten,DE,\N,imdbDisplay,\N,0
+tt0000469,6,Больной котёнок,RU,\N,imdbDisplay,\N,0
+tt0000469,7,A beteg kiscicus,HU,\N,imdbDisplay,\N,0
+tt0000470,1,Les surprises de l'affichage,\N,\N,original,\N,1
+tt0000470,2,Les surprises de l'affichage,FR,\N,imdbDisplay,\N,0
+tt0000471,1,I kaliva tou mparmpa Thoma,GR,\N,imdbDisplay,\N,0
+tt0000471,2,Uncle Tom's Cabin; or, Slavery Days,US,\N,\N,long title,0
+tt0000471,3,Uncle Tom's Cabin,\N,\N,original,\N,1
+tt0000471,4,Uncle Tom's Cabin,US,\N,imdbDisplay,\N,0
+tt0000471,5,Хижина дяди Тома,RU,\N,imdbDisplay,\N,0
+tt0000471,6,La cabaña del tío Tom,VE,\N,\N,\N,0
+tt0000471,7,Tamás bátya kunyhója,HU,\N,imdbDisplay,\N,0
+tt0000471,8,A Cabana do Pai Tomás,BR,\N,imdbDisplay,\N,0
+tt0000472,1,Uncle Tom's Cabin,\N,\N,original,\N,1
+tt0000472,2,Uncle Tom's Cabin,US,\N,imdbDisplay,\N,0
+tt0000472,3,La cabaña del tío Tom,VE,\N,\N,\N,0
+tt0000473,1,La valise enchantée,\N,\N,original,\N,1
+tt0000473,2,La valise enchantée,FR,\N,imdbDisplay,\N,0
+tt0000473,3,Rejsekufferten,DK,\N,imdbDisplay,\N,0
+tt0000474,1,Le voleur sacrilège,FR,\N,imdbDisplay,\N,0
+tt0000474,2,Le voleur sacrilège,\N,\N,original,\N,1
+tt0000475,1,Voyage of the 'Arctic',US,\N,imdbDisplay,\N,0
+tt0000475,2,The Adventurous Voyage of 'The Arctic',\N,\N,original,\N,1
+tt0000475,3,Voyage of the 'Arctic', or How Captain Kettle Discovered the North Pole,US,\N,\N,\N,0
+tt0000475,4,Wyprawa na biegun,PL,\N,\N,\N,0
+tt0000475,5,The Adventurous Voyage of 'the Arctic',GB,\N,imdbDisplay,\N,0
+tt0000476,1,Après la fête,FR,\N,imdbDisplay,\N,0
+tt0000476,2,Après la fête,\N,\N,original,\N,1
+tt0000477,1,L'assassinat du courrier de Lyon,\N,\N,original,\N,1
+tt0000477,2,L'assassinat du courrier de Lyon,FR,\N,imdbDisplay,\N,0
+tt0000478,1,Behind the Scenes,GB,\N,imdbDisplay,\N,0
+tt0000478,2,Behind the Scenes,\N,\N,original,\N,1
+tt0000478,3,Algie's Mishap,\N,\N,\N,\N,0
+tt0000479,1,Vedd meg a cseresznyéd!,HU,\N,imdbDisplay,\N,0
+tt0000479,2,Rum vs. Cherries,US,\N,imdbDisplay,\N,0
+tt0000479,3,Сам покупай себе черешню,RU,\N,imdbDisplay,\N,0
+tt0000479,4,Buy Your Own Cherries,GB,\N,imdbDisplay,\N,0
+tt0000479,5,Buy Your Own Cherries,\N,\N,original,\N,1
+tt0000480,1,Le coffre enchanté,\N,\N,original,\N,1
+tt0000480,2,Заколдованный сундук,RU,\N,imdbDisplay,\N,0
+tt0000480,3,Le coffre enchanté,FR,\N,imdbDisplay,\N,0
+tt0000480,4,The Bewitched Trunk,\N,\N,\N,\N,0
+tt0000480,5,The Enchanted Trunk,GB,\N,\N,\N,0
+tt0000481,1,A Collier's Life,\N,\N,original,\N,1
+tt0000481,2,A Collier's Life,GB,\N,imdbDisplay,\N,0
+tt0000481,3,A Miner's Daily Life,GB,\N,alternative,\N,0
+tt0000482,1,Comment on disperse les foules,\N,\N,original,\N,1
+tt0000482,2,Comment on disperse les foules,FR,\N,imdbDisplay,\N,0
+tt0000483,1,Les deux rivaux,FR,\N,imdbDisplay,\N,0
+tt0000483,2,Les deux rivaux,\N,\N,original,\N,1
+tt0000484,1,Les enfants du miracle,\N,\N,original,\N,1
+tt0000484,2,Les enfants du miracle,FR,\N,imdbDisplay,\N,0
+tt0000485,1,La gavotte de la reine,FR,\N,imdbDisplay,\N,0
+tt0000485,2,La gavotte de la reine,\N,\N,original,\N,1
+tt0000486,1,The Great Sword Combat on the Stairs,US,\N,alternative,\N,0
+tt0000486,2,A Gentleman of France,\N,\N,original,\N,1
+tt0000486,3,A Gentleman of France,US,\N,imdbDisplay,\N,0
+tt0000486,4,Monsieur Beaucaire: The Adventures of a Gentleman of France,US,\N,\N,copyright title,0
+tt0000487,1,The Great Train Robbery,US,\N,imdbDisplay,\N,0
+tt0000487,2,Велика пљачка воза,RS,\N,imdbDisplay,\N,0
+tt0000487,3,The Great Train Robbery,\N,\N,original,\N,1
+tt0000487,4,Большое ограбление поезда,RU,\N,imdbDisplay,\N,0
+tt0000487,5,Büyük Tren Soygunu,TR,tr,imdbDisplay,\N,0
+tt0000488,1,Страна по ту сторону заката,RU,\N,imdbDisplay,\N,0
+tt0000488,2,A Terra Além do Pôr-do-Sol,BR,\N,imdbDisplay,\N,0
+tt0000488,3,The Land Beyond the Sunset,US,\N,imdbDisplay,\N,0
+tt0000488,4,The Land Beyond the Sunset,\N,\N,original,\N,1
+tt0000489,1,La leçon de pipeau,\N,\N,original,\N,1
+tt0000489,2,La leçon de pipeau,FR,\N,imdbDisplay,\N,0
+tt0000490,1,L'oiseau envolé,\N,\N,original,\N,1
+tt0000490,2,L'oiseau envolé,FR,\N,imdbDisplay,\N,0
+tt0000491,1,Opening the Williamsburg Bridge,\N,\N,original,\N,1
+tt0000491,2,The Opening of the Williamsburg Bridge,US,\N,alternative,\N,0
+tt0000491,3,Opening the Williamsburg Bridge,US,\N,imdbDisplay,\N,0
+tt0000492,1,Anúncio Pessoal,BR,\N,imdbDisplay,\N,0
+tt0000492,2,Rendez-vous par annonce,FR,\N,imdbDisplay,\N,0
+tt0000492,3,Házassági hirdetés,HU,\N,imdbDisplay,\N,0
+tt0000492,4,Personal,US,\N,imdbDisplay,\N,0
+tt0000492,5,Personal,\N,\N,original,\N,1
+tt0000493,1,Pierrot assassin,FR,\N,imdbDisplay,\N,0
+tt0000493,2,Pierrot assassin,\N,\N,original,\N,1
+tt0000493,3,Pierrot, Murderer,US,\N,\N,\N,0
+tt0000494,1,Le pompon malencontreux,\N,\N,original,\N,1
+tt0000494,2,Le pompon malencontreux,FR,\N,imdbDisplay,\N,0
+tt0000495,1,Le pêcheur de perles,FR,\N,imdbDisplay,\N,0
+tt0000495,2,Le pêcheur de perles,\N,\N,original,\N,1
+tt0000495,3,The Pearl Fisherman,XWW,en,\N,literal title,0
+tt0000495,4,The Pearl Fisher,US,\N,\N,\N,0
+tt0000495,5,Down in the Deep,XWW,en,\N,\N,0
+tt0000496,1,Railroad Smashup,US,\N,imdbDisplay,\N,0
+tt0000496,2,Railroad Smashup,\N,\N,original,\N,1
+tt0000497,1,A Railway Tragedy,GB,\N,imdbDisplay,\N,0
+tt0000497,2,A Railway Tragedy,\N,\N,original,\N,1
+tt0000498,1,Rescued by Rover,GB,\N,imdbDisplay,\N,0
+tt0000498,2,Rescued by Rover,\N,\N,original,\N,1
+tt0000498,3,Спасена Ровером,RU,\N,imdbDisplay,\N,0
+tt0000498,4,O Resgate de Rover,BR,\N,imdbDisplay,\N,0
+tt0000498,5,Rover, a kutya,HU,\N,imdbDisplay,\N,0
+tt0000499,10,Το Απίστευτο Ταξίδι,GR,\N,imdbDisplay,\N,0
+tt0000499,11,Podróż do krainy niemożliwości,PL,\N,imdbDisplay,\N,0
+tt0000499,12,Путешествие сквозь невозможное,RU,\N,imdbDisplay,\N,0
+tt0000499,13,The Voyage Across the Impossible,GB,\N,imdbDisplay,\N,0
+tt0000499,14,Viagem Através do Impossível,BR,\N,imdbDisplay,\N,0
+tt0000499,15,Cesta do nemozna,CZ,\N,imdbDisplay,\N,0
+tt0000499,16,Rejsen gennem Firmamentet,DK,\N,imdbDisplay,\N,0
+tt0000499,17,不可能を通る旅,JP,ja,imdbDisplay,\N,0
+tt0000499,18,Die Reise durch das Unmögliche,DE,\N,alternative,\N,0
+tt0000499,1,Le voyage à travers l'impossible,\N,\N,original,\N,1
+tt0000499,2,Le voyage à travers l'impossible,FR,\N,imdbDisplay,\N,0
+tt0000499,3,The Voyage Through the Impossible,XWW,en,\N,informal literal title,0
+tt0000499,4,Il viaggio attraverso l'impossibile,IT,\N,imdbDisplay,\N,0
+tt0000499,5,Voyage à travers l'impossible,FR,\N,\N,short title,0
+tt0000499,6,The Impossible Voyage,XWW,en,\N,\N,0
+tt0000499,7,Utazás a lehetetlenbe,HU,\N,imdbDisplay,\N,0
+tt0000499,8,Nemoguće putovanje,RS,\N,imdbDisplay,\N,0
+tt0000499,9,An Impossible Voyage,XWW,en,\N,\N,0
+tt0000500,1,The Abductors,\N,\N,original,\N,1
+tt0000500,2,The Abductors,US,\N,imdbDisplay,\N,0
+tt0000501,1,Adventures of Sherlock Holmes; or, Held for a Ransom,US,\N,alternative,\N,0
+tt0000501,2,Sherlock Holmes sidste Bedrift,DK,\N,imdbDisplay,\N,0
+tt0000501,3,Adventures of Sherlock Holmes,US,\N,imdbDisplay,\N,0
+tt0000501,4,Adventures of Sherlock Holmes,\N,\N,original,\N,1
+tt0000502,1,Bohemios,\N,\N,original,\N,1
+tt0000502,2,Bohemios,ES,\N,imdbDisplay,\N,0
+tt0000503,1,Corrida de beneficencia en Zaragoza, por Quinito y Montes,\N,\N,original,\N,1
+tt0000503,2,Corrida de beneficencia en Zaragoza, por Quinito y Montes,ES,\N,imdbDisplay,\N,0
+tt0000504,1,Coso y Paseo de Santa Engracia (Calles y plazas de Zaragoza),ES,\N,imdbDisplay,\N,0
+tt0000504,2,Coso y Paseo de Santa Engracia (Calles y plazas de Zaragoza),\N,\N,original,\N,1
+tt0000504,3,Escenas callejeras,ES,\N,alternative,\N,0
+tt0000505,1,En perukhistoria,FI,sv,imdbDisplay,\N,0
+tt0000505,2,La course à la perruque,\N,\N,original,\N,1
+tt0000505,3,Peruukista johtuneet seikkailut,FI,\N,imdbDisplay,\N,0
+tt0000505,4,La course à la perruque,FR,\N,imdbDisplay,\N,0
+tt0000505,5,La caza de la peluca,ES,\N,\N,\N,0
+tt0000505,6,The Wig Chase,US,\N,\N,\N,0
+tt0000505,7,Jagten paa Parykken,DK,\N,imdbDisplay,\N,0
+tt0000506,1,The Effects of Too Much Scotch,XWW,en,\N,\N,0
+tt0000506,2,D.T.'s, or the Effect of Drink,GB,\N,imdbDisplay,\N,0
+tt0000506,3,D.T.'s, or the Effect of Drink,\N,\N,original,\N,1
+tt0000507,1,Departure of Peary and the Roosevelt from New York,US,\N,imdbDisplay,\N,0
+tt0000507,2,Departure of Peary and the Roosevelt from New York,\N,\N,original,\N,1
+tt0000507,3,Departure of Peary for the North Pole,US,\N,alternative,\N,0
+tt0000508,1,Desde el coso a la calle Cerdán (Calles y plazas de Zaragoza),\N,\N,original,\N,1
+tt0000508,2,Desde el coso a la calle Cerdán (Calles y plazas de Zaragoza),ES,\N,imdbDisplay,\N,0
+tt0000509,1,Chauffeur als Anfänger,DE,\N,\N,\N,0
+tt0000509,2,The Inexperienced Chauffeur,US,\N,\N,\N,0
+tt0000509,3,Les débuts d'un chauffeur,\N,\N,original,\N,1
+tt0000509,4,Les débuts d'un chauffeur,FR,\N,imdbDisplay,\N,0
+tt0000510,1,El dúo de la Africana,ES,\N,imdbDisplay,\N,0
+tt0000510,2,The Duet from 'L'Africaine',XWW,en,\N,literal English title,0
+tt0000510,3,El dúo de la Africana,\N,\N,original,\N,1
+tt0000511,1,La esméralda,FR,\N,\N,\N,0
+tt0000511,2,Esmeralda,DK,\N,imdbDisplay,\N,0
+tt0000511,3,Esmeralda,\N,\N,original,\N,1
+tt0000512,1,Funeral of Hiram Cronk,\N,\N,original,\N,1
+tt0000512,2,Funeral of Hiram Cronk,US,\N,imdbDisplay,\N,0
+tt0000513,1,Gigantes y cabezudos por la calle de Alfonso,ES,\N,alternative,\N,0
+tt0000513,2,Gigantes y cabezudos,ES,\N,imdbDisplay,\N,0
+tt0000513,3,Gigantes y cabezudos,\N,\N,original,\N,1
+tt0000514,1,Los guapos de la Vaquería del Parque,ES,\N,imdbDisplay,\N,0
+tt0000514,2,Los guapos de la Vaquería del Parque,\N,\N,original,\N,1
+tt0000515,1,L'hereu de ca'n Pruna,ES,ca,\N,\N,0
+tt0000515,2,El heredero de casa Pruna,ES,\N,dvd,\N,0
+tt0000515,3,The Gallants of the Park,XWW,en,\N,literal English title,0
+tt0000515,4,Los guapos del parque,\N,\N,original,\N,1
+tt0000516,10,Az elektromos szálloda,HU,\N,imdbDisplay,\N,0
+tt0000516,1,The Electric Hotel,US,\N,\N,\N,0
+tt0000516,2,Το Ηλεκτρικό Ξενοδοχείο,GR,\N,imdbDisplay,\N,0
+tt0000516,3,To Ilektriko Xenodochio,GR,\N,\N,transliterated title,0
+tt0000516,4,Hôtel électrique,FR,\N,\N,\N,0
+tt0000516,5,El hotel eléctrico,\N,\N,original,\N,1
+tt0000516,6,Электрический отель,RU,\N,imdbDisplay,\N,0
+tt0000516,7,Det elektriske Hotel,DK,\N,imdbDisplay,\N,0
+tt0000516,8,El hotel eléctrico,ES,\N,imdbDisplay,\N,0
+tt0000516,9,Hotel elettrico,IT,\N,\N,\N,0
+tt0000517,1,Hussar of the Guard,XWW,en,\N,literal English title,0
+tt0000517,2,El húsar de la guardia,\N,\N,original,\N,1
+tt0000517,3,El húsar de la guardia,ES,\N,imdbDisplay,\N,0
+tt0000518,1,Juanito el forzudo,ES,\N,imdbDisplay,\N,0
+tt0000518,2,Juanito el forzudo,\N,\N,original,\N,1
+tt0000519,1,Клептоманка,RU,\N,imdbDisplay,\N,0
+tt0000519,2,The Kleptomaniac,US,\N,imdbDisplay,\N,0
+tt0000519,3,A Cleptomaníaca,BR,\N,imdbDisplay,\N,0
+tt0000519,4,The Kleptomaniac,\N,\N,original,\N,1
+tt0000520,1,The Life of Charles Peace,\N,\N,original,\N,1
+tt0000520,2,The Life of Charles Peace,GB,\N,imdbDisplay,\N,0
+tt0000521,1,The Little Train Robbery,\N,\N,original,\N,1
+tt0000521,2,The Little Train Robbery,US,\N,imdbDisplay,\N,0
+tt0000521,3,Маленькое ограбление поезда,RU,\N,imdbDisplay,\N,0
+tt0000522,1,The Moonshiners,\N,\N,original,\N,1
+tt0000522,2,Moonshiners,US,\N,alternative,\N,0
+tt0000522,3,The Moonshiners,US,\N,imdbDisplay,\N,0
+tt0000523,1,Moose Hunting in Newfoundland,US,\N,imdbDisplay,\N,0
+tt0000523,2,Moose Hunting in Newfoundland,\N,\N,original,\N,1
+tt0000524,1,Нью-Йоркское метро,RU,\N,imdbDisplay,\N,0
+tt0000524,2,In the N.Y. Subway,US,\N,alternative,\N,0
+tt0000524,3,The Interboro Subway,US,\N,alternative,\N,0
+tt0000524,4,A new york-i metró,HU,\N,imdbDisplay,\N,0
+tt0000524,5,Interior N.Y. Subway, 14th St. to 42nd St.,\N,\N,\N,\N,0
+tt0000524,6,New York Subway,\N,\N,original,\N,1
+tt0000524,7,New York Subway,US,\N,imdbDisplay,\N,0
+tt0000525,1,Pendaison à Jefferson City,\N,\N,original,\N,1
+tt0000525,2,Pendaison à Jefferson City,FR,\N,imdbDisplay,\N,0
+tt0000525,3,Hanging at Jefferson City,XWW,en,\N,\N,0
+tt0000526,1,Pennsylvania Tunnel Excavation,US,\N,imdbDisplay,\N,0
+tt0000526,2,Pennsylvania Tunnel Excavation,\N,\N,original,\N,1
+tt0000527,1,Plaza de la Magdalena (Calles y plazas de Zaragoza),\N,\N,original,\N,1
+tt0000527,2,Plaza de la Magdalena (Calles y plazas de Zaragoza),ES,\N,imdbDisplay,\N,0
+tt0000528,1,Raffles, the Amateur Cracksman,US,\N,imdbDisplay,\N,0
+tt0000528,2,Raffles,\N,\N,\N,\N,0
+tt0000528,3,The Adventures of Raffles, the Amateur Cracksman,US,\N,alternative,\N,0
+tt0000528,4,Raffles, the Amateur Cracksman,ES,\N,imdbDisplay,\N,0
+tt0000528,5,Raffles, the Amateur Cracksman,\N,\N,original,\N,1
+tt0000529,1,Reuben in the Opium Joint,\N,\N,original,\N,1
+tt0000529,2,Reuben in the Opium Joint,US,\N,imdbDisplay,\N,0
+tt0000530,1,Se da de comer,\N,\N,original,\N,1
+tt0000530,2,Donem de menjar,ES,ca,\N,\N,0
+tt0000531,1,The Siege of Chile,XWW,en,\N,literal English title,0
+tt0000531,2,Los sitios de Chile,ES,\N,imdbDisplay,\N,0
+tt0000531,3,Los sitios de Chile,\N,\N,original,\N,1
+tt0000532,1,Torrero y la ribera (Calles y plazas de Zaragoza),\N,\N,original,\N,1
+tt0000532,2,Torrero y la ribera (Calles y plazas de Zaragoza),ES,\N,imdbDisplay,\N,0
+tt0000533,1,The Wooing and Wedding of a Coon,\N,\N,original,\N,1
+tt0000533,2,The Wooing and Wedding of a Coon,US,\N,imdbDisplay,\N,0
+tt0000534,1,A sofőr,HU,\N,imdbDisplay,\N,0
+tt0000534,2,The ? Motorist,GB,\N,\N,alternative spelling,0
+tt0000534,3,Сумасшедший автомобилист,RU,\N,imdbDisplay,\N,0
+tt0000534,4,The Mad Motorist,GB,\N,\N,informal title,0
+tt0000534,5,The '?' Motorist,\N,\N,original,\N,1
+tt0000534,6,Questionmark Motorist,GB,\N,\N,informal title,0
+tt0000534,7,The '?' Motorist,MX,\N,imdbDisplay,\N,0
+tt0000534,8,The '?' Motorist,GB,\N,imdbDisplay,\N,0
+tt0000535,1,Anarkistens svigermor,\N,\N,original,\N,1
+tt0000535,2,The Anarchist's Mother-in-Law,US,\N,imdbDisplay,\N,0
+tt0000535,3,Anarkistens svigermor,DK,\N,imdbDisplay,\N,0
+tt0000536,1,Apachentanz,\N,\N,original,\N,1
+tt0000536,2,Apachentanz,DE,\N,imdbDisplay,\N,0
+tt0000537,1,Italian Immigrants at Ellis Island,US,\N,alternative,\N,0
+tt0000537,2,Arrival of Immigrants, Ellis Island,US,\N,imdbDisplay,\N,0
+tt0000537,3,Arrival of Emigrants, Ellis Island,\N,\N,\N,\N,0
+tt0000537,4,Arrival of Immigrants, Ellis Island,\N,\N,original,\N,1
+tt0000538,1,Bilbao, Portugalete y los Altos Hornos,\N,\N,original,\N,1
+tt0000538,2,Bilbao, Portugalete y los Altos Hornos,ES,\N,imdbDisplay,\N,0
+tt0000539,1,Bonden i København,DK,\N,imdbDisplay,\N,0
+tt0000539,2,Bonden i København,\N,\N,original,\N,1
+tt0000539,3,Lars' Hovedstadsrejse,\N,\N,\N,\N,0
+tt0000540,1,Branden i Frihavnen,DK,\N,imdbDisplay,\N,0
+tt0000540,2,Lødag den 12, ds. Engen Opagelse,DK,\N,alternative,\N,0
+tt0000540,3,Branden i Frihavnen,\N,\N,original,\N,1
+tt0000541,1,Bobs Tod,DE,\N,alternative,\N,0
+tt0000541,2,Bob's Death,XWW,en,\N,literal English title,0
+tt0000541,3,Caros død,\N,\N,original,\N,1
+tt0000541,4,Caros død,DK,\N,imdbDisplay,\N,0
+tt0000542,1,Cerveza gratis,ES,\N,imdbDisplay,\N,0
+tt0000542,2,Free Beer,XWW,en,\N,literal English title,0
+tt0000542,3,Cerveza gratis,\N,\N,original,\N,1
+tt0000543,1,Chr. IXs bisættelse,DK,\N,\N,alternative spelling,0
+tt0000543,2,The Funeral of King Christian IX,XWW,en,\N,literal English title,0
+tt0000543,3,Kong Christian IX's Bisættelse,DK,\N,\N,\N,0
+tt0000543,4,Christian IXS bisættelse,\N,\N,original,\N,1
+tt0000544,1,The Dancer's Dream,\N,\N,original,\N,1
+tt0000544,2,The Dancer's Dream,GB,\N,imdbDisplay,\N,0
+tt0000545,1,Dream of a Racetrack Fiend,\N,\N,original,\N,1
+tt0000545,2,Dream of a Racetrack Fiend,US,\N,imdbDisplay,\N,0
+tt0000545,3,Dream of the Race Track Fiend,US,\N,working,\N,0
+tt0000546,1,Egy ínyenc álma,HU,\N,imdbDisplay,\N,0
+tt0000546,2,Dream of a Rarebit Fiend,US,\N,imdbDisplay,\N,0
+tt0000546,3,Dream of a Rarebit Fiend,\N,\N,original,\N,1
+tt0000546,4,Сон любителя гренок с сыром,RU,\N,imdbDisplay,\N,0
+tt0000546,5,Ædedolkens Drøm,DK,\N,imdbDisplay,\N,0
+tt0000547,1,Ferias en San Sebastián y Cabalgata en la Ría,ES,\N,imdbDisplay,\N,0
+tt0000547,2,Ferias en San Sebastián y Cabalgata en la Ría,\N,\N,original,\N,1
+tt0000548,1,Fiskareliv i Nordon,SE,\N,alternative,\N,0
+tt0000548,2,En Fiskers farefulde Færd,DK,\N,alternative,\N,0
+tt0000548,3,Des Fischers gefährlicher Beruf,DE,\N,alternative,\N,0
+tt0000548,4,Fiskerliv i Norden,DK,\N,imdbDisplay,\N,0
+tt0000548,5,Fiskernes Liv i Norden,\N,\N,\N,\N,0
+tt0000548,6,Fiskerliv i Norden,\N,\N,original,\N,1
+tt0000548,7,Kalastajia Pohjolassa,FI,\N,\N,\N,0
+tt0000549,1,En foræring til min Kone,DK,\N,imdbDisplay,\N,0
+tt0000549,2,Den fulde Mand,\N,\N,\N,\N,0
+tt0000549,3,En foræring til min Kone,\N,\N,original,\N,1
+tt0000549,4,Den fulde Mand,DK,\N,alternative,\N,0
+tt0000549,5,en gåva till min hustru,SE,\N,alternative,\N,0
+tt0000549,6,Ein Geschenk für meine Frau,DE,\N,\N,\N,0
+tt0000550,1,Frederik VIIIs kroning,DK,\N,\N,\N,0
+tt0000550,2,Frederik den 8.s proklamation,DK,\N,\N,\N,0
+tt0000550,3,Proklamationen af Kong Frederik d. VIII,\N,\N,original,\N,1
+tt0000551,1,Slaget i September,\N,\N,\N,\N,0
+tt0000551,2,Fæstningskrigen,DK,\N,imdbDisplay,\N,0
+tt0000551,3,Fæstningskrigen,\N,\N,original,\N,1
+tt0000552,1,The Hand of the Artist,\N,\N,original,\N,1
+tt0000552,2,The Hand of the Artist,GB,\N,imdbDisplay,\N,0
+tt0000553,1,The Haunted Hotel,\N,\N,original,\N,1
+tt0000553,2,L'hôtel hanté,FR,\N,\N,\N,0
+tt0000553,3,The Haunted Hotel,US,\N,imdbDisplay,\N,0
+tt0000553,4,Kísértett szálloda,HU,\N,imdbDisplay,\N,0
+tt0000553,5,The Haunted Hotel; or, The Strange Adventures of a Traveler,US,\N,alternative,\N,0
+tt0000553,6,Das Spukhotel,DE,\N,\N,\N,0
+tt0000553,7,Гостиница с привидениями,RU,\N,imdbDisplay,\N,0
+tt0000554,1,Комические фазы смешных лиц,RU,\N,imdbDisplay,\N,0
+tt0000554,2,Vicces arcok vicces fázisai,HU,\N,imdbDisplay,\N,0
+tt0000554,3,Humorous Phases of Funny Faces,US,\N,imdbDisplay,\N,0
+tt0000554,4,Humorous Phases of Funny Faces,\N,\N,original,\N,1
+tt0000554,5,Χιουμοριστικές Φάσεις από Αστεία Πρόσωπα,GR,\N,imdbDisplay,\N,0
+tt0000554,6,愉快な百面相,JP,ja,imdbDisplay,\N,0
+tt0000555,1,Valkoinen orja,FI,\N,\N,\N,0
+tt0000555,2,Den hvide slavinde,DK,\N,imdbDisplay,\N,0
+tt0000555,3,L'Esclave Blanche,FR,\N,alternative,\N,0
+tt0000555,4,A escrava branca,PT,\N,imdbDisplay,\N,0
+tt0000555,5,Den hvide slavinde,\N,\N,original,\N,1
+tt0000556,1,Hævnet,DK,\N,imdbDisplay,\N,0
+tt0000556,2,Hævnet,\N,\N,original,\N,1
+tt0000557,1,Kathleen Mavourneen,\N,\N,original,\N,1
+tt0000557,2,Kathleen Mavourneen,US,\N,imdbDisplay,\N,0
+tt0000557,3,Kathleen,DK,\N,imdbDisplay,\N,0
+tt0000558,1,Los kikos,\N,\N,original,\N,1
+tt0000558,2,Clowns,XWW,en,\N,literal English title,0
+tt0000558,3,Los kikos,ES,\N,imdbDisplay,\N,0
+tt0000559,1,Konfirmanden el,DK,\N,alternative,\N,0
+tt0000559,2,Konfirmanden,\N,\N,original,\N,1
+tt0000559,3,Konfirmander på Alleenberg,\N,\N,\N,\N,0
+tt0000559,4,Konfirmanden,DK,\N,imdbDisplay,\N,0
+tt0000559,5,Konfirmander på Frederiksberg,\N,\N,\N,\N,0
+tt0000560,1,Ladrones burlados,ES,\N,imdbDisplay,\N,0
+tt0000560,2,Ladrones burlados,\N,\N,original,\N,1
+tt0000561,1,Vild Vesten,DK,\N,imdbDisplay,\N,0
+tt0000561,2,The Life of a Cowboy,\N,\N,original,\N,1
+tt0000561,3,The Life of a Cowboy,US,\N,imdbDisplay,\N,0
+tt0000562,1,Os Lusíadas,PT,\N,imdbDisplay,\N,0
+tt0000562,2,Os Lusíadas,\N,\N,original,\N,1
+tt0000563,1,Mellem Aber og Bjørne,\N,\N,original,\N,1
+tt0000563,2,Mellem Aber og Bjørne,DK,\N,imdbDisplay,\N,0
+tt0000563,3,Zoologisk Have,\N,\N,\N,\N,0
+tt0000564,1,A Modern Oliver Twist; or, The Life of a Pickpocket,US,\N,alternative,\N,0
+tt0000564,2,A Modern Oliver Twist,US,\N,imdbDisplay,\N,0
+tt0000564,3,A Modern Oliver Twist,\N,\N,original,\N,1
+tt0000565,1,The Night Before Christmas,\N,\N,original,\N,1
+tt0000565,2,The Night Before Christmas,US,\N,imdbDisplay,\N,0
+tt0000565,3,I nykta prin apo ta Hristougenna,GR,\N,tv,\N,0
+tt0000565,4,Hanging Stockings on a Christmas Eve,US,\N,alternative,\N,0
+tt0000565,5,Szenteste,HU,\N,imdbDisplay,\N,0
+tt0000566,1,Professorens Morgenavis,\N,\N,original,\N,1
+tt0000566,2,Professorens Morgenavis,DK,\N,imdbDisplay,\N,0
+tt0000566,3,Professorns morgontidning,SE,\N,alternative,\N,0
+tt0000567,10,Les quatre cents farces du diable,\N,\N,original,\N,1
+tt0000567,11,The Merry Frolics of Satan,US,\N,\N,\N,0
+tt0000567,12,Czterysta żartów diabelskich,PL,\N,imdbDisplay,\N,0
+tt0000567,13,The 400 Tricks of the Devil,US,\N,\N,\N,0
+tt0000567,1,As Quatrocentas Farsas do Diabo,BR,\N,imdbDisplay,\N,0
+tt0000567,2,Les 400 farces du diable,FR,\N,\N,\N,0
+tt0000567,3,Gli allegri inganni di Satana,IT,\N,\N,\N,0
+tt0000567,4,Ta 400 htypimata tou diavolou,GR,\N,imdbDisplay,\N,0
+tt0000567,5,Les quat' cents farces du diable,FR,\N,\N,alternative spelling,0
+tt0000567,6,Die 400 Streiche des Teufels,DE,\N,imdbDisplay,\N,0
+tt0000567,7,Az ördög 400 csapása,HU,\N,imdbDisplay,\N,0
+tt0000567,8,Четыреста проделок дьявола,RU,\N,imdbDisplay,\N,0
+tt0000567,9,Les quatre cents coups du diable,FR,\N,\N,\N,0
+tt0000568,1,Rosenborg Have,\N,\N,original,\N,1
+tt0000568,2,Rosenborg Have,DK,\N,imdbDisplay,\N,0
+tt0000569,1,Røverhøvdingen,\N,\N,\N,\N,0
+tt0000569,2,Røverhøvdingens Flugt og Død,\N,\N,original,\N,1
+tt0000569,3,Røverhøvdingens Flugt og Død,DK,\N,imdbDisplay,\N,0
+tt0000570,1,San Francisco Disaster,US,\N,imdbDisplay,\N,0
+tt0000570,2,San Francisco Disaster,\N,\N,original,\N,1
+tt0000571,1,The San Francisco Earthquake,\N,\N,original,\N,1
+tt0000571,2,The San Francisco Earthquake,US,\N,imdbDisplay,\N,0
+tt0000572,1,Secreto de confesión,ES,\N,imdbDisplay,\N,0
+tt0000572,2,Secreto de confesión,\N,\N,original,\N,1
+tt0000573,1,Die schwarze Maske,DK,\N,alternative,\N,0
+tt0000573,2,Den sorte maske,DK,\N,imdbDisplay,\N,0
+tt0000573,3,Den sorte maske,\N,\N,original,\N,1
+tt0000573,4,The Black Mask,XWW,en,\N,literal English title,0
+tt0000573,5,Den sarta masken,SE,\N,alternative,\N,0
+tt0000574,1,Kelly bandájának története,HU,\N,imdbDisplay,\N,0
+tt0000574,2,Ned Kelly and His Gang,AU,\N,imdbDisplay,\N,0
+tt0000574,3,Priča o Kelijevoj bandi,RS,\N,imdbDisplay,\N,0
+tt0000574,4,The Story of the Kelly Gang,GB,\N,imdbDisplay,\N,0
+tt0000574,5,The Story of the Kelly Gang,\N,\N,original,\N,1
+tt0000574,6,The Story of the Kelly Gang,US,\N,imdbDisplay,\N,0
+tt0000574,7,Ned Kelly and His Gang,\N,\N,\N,\N,0
+tt0000574,8,Die Geschichte der Kelly Bande,DE,\N,\N,\N,0
+tt0000574,9,The Story of the Kelly Gang,AU,\N,imdbDisplay,\N,0
+tt0000575,10,Le cauchemar d'un pêcheur,FR,\N,\N,\N,0
+tt0000575,1,Amid the Workings of the Deep,GB,\N,\N,\N,0
+tt0000575,2,20,000 Leagues Under the Sea,US,\N,\N,\N,0
+tt0000575,3,20.000 Léguas Submarinas,BR,\N,imdbDisplay,\N,0
+tt0000575,4,20000 lieues sous les mers,\N,\N,original,\N,1
+tt0000575,5,Deux cent mille lieues sous les mers,FR,\N,\N,\N,0
+tt0000575,6,20000 лье под водой,RU,\N,imdbDisplay,\N,0
+tt0000575,7,20.000 milja pod morem,RS,\N,imdbDisplay,\N,0
+tt0000575,8,海底2万マイル,JP,ja,imdbDisplay,\N,0
+tt0000575,9,Under the Seas,GB,\N,\N,\N,0
+tt0000576,1,Ali Baba et les quarante voleurs,\N,\N,original,\N,1
+tt0000576,2,Ali Babá e os Quarenta Ladrões,BR,\N,imdbDisplay,\N,0
+tt0000576,3,Ali Baba et les quarante voleurs,FR,\N,imdbDisplay,\N,0
+tt0000576,4,Ali Baba and the Forty Thieves,US,\N,\N,\N,0
+tt0000576,5,Ali Baba og de 40 Røvere,DK,\N,imdbDisplay,\N,0
+tt0000576,6,Али-Баба и сорок разбойников,RU,\N,imdbDisplay,\N,0
+tt0000577,1,Angelo, Tyran fra Padua,\N,\N,original,\N,1
+tt0000577,2,Angelo, Tyran fra Padua,DK,\N,imdbDisplay,\N,0
+tt0000577,3,Angelo, Tyrant of Padua,US,\N,imdbDisplay,\N,0
+tt0000578,1,An Awful Skate; or, the Hobo on Rollers,US,\N,imdbDisplay,\N,0
+tt0000578,2,An Awful Skate; or, The Hobo on Rollers,\N,\N,original,\N,1
+tt0000579,1,The Bandit Makes Good,\N,\N,original,\N,1
+tt0000579,2,The Bandit Makes Good,US,\N,imdbDisplay,\N,0
+tt0000580,1,A Batalha das Flores no Campo Grande,\N,\N,original,\N,1
+tt0000580,2,A Batalha das Flores no Campo Grande,PT,\N,imdbDisplay,\N,0
+tt0000581,1,Bauernhaus und Grafenschloß,\N,\N,original,\N,1
+tt0000581,2,Bauernhaus und Grafenschloß,DE,\N,imdbDisplay,\N,0
+tt0000582,1,ベン・ハー,JP,ja,imdbDisplay,\N,0
+tt0000582,2,Ben Hur,US,\N,imdbDisplay,\N,0
+tt0000582,3,Ben Hur,HU,\N,imdbDisplay,\N,0
+tt0000582,4,Бен-Гур,RU,\N,imdbDisplay,\N,0
+tt0000582,5,Ben Hur,\N,\N,original,\N,1
+tt0000583,1,Camille,\N,\N,\N,\N,0
+tt0000583,2,The Lady with the Camellias,US,\N,imdbDisplay,\N,0
+tt0000583,3,Kameliadamen,\N,\N,original,\N,1
+tt0000583,4,La dama de las camelias,AR,\N,\N,\N,0
+tt0000583,5,Kameliadamen,DK,\N,imdbDisplay,\N,0
+tt0000583,6,Kamelianainen,FI,\N,\N,\N,0
+tt0000583,7,La dama de las camelias,VE,\N,\N,\N,0
+tt0000584,1,El ciego de la aldea,ES,\N,imdbDisplay,\N,0
+tt0000584,2,El ciego de la aldea,\N,\N,original,\N,1
+tt0000585,1,Concurso de sardanas en el parque Guell,\N,\N,original,\N,1
+tt0000585,2,Concurso de sardanas en el parque Guell,ES,\N,imdbDisplay,\N,0
+tt0000586,1,A Curious Dream,US,\N,imdbDisplay,\N,0
+tt0000586,2,A Curious Dream,\N,\N,original,\N,1
+tt0000587,1,La dea del mare,IT,\N,imdbDisplay,\N,0
+tt0000587,2,La dea del mare,\N,\N,original,\N,1
+tt0000588,1,Der var engang,\N,\N,original,\N,1
+tt0000588,2,König Drosselbart,DE,\N,imdbDisplay,\N,0
+tt0000588,3,Der var engang,DK,\N,imdbDisplay,\N,0
+tt0000589,1,Descoberta da América por Cristovão Colombo,\N,\N,original,\N,1
+tt0000589,2,Descoberta da América por Cristovão Colombo,PT,\N,imdbDisplay,\N,0
+tt0000590,1,Dr. Skinum,US,\N,imdbDisplay,\N,0
+tt0000590,2,Dr. Skinum,\N,\N,original,\N,1
+tt0000590,3,Il dottor Skinum,IT,\N,\N,\N,0
+tt0000591,1,L'enfant prodigue,FR,\N,imdbDisplay,\N,0
+tt0000591,2,L'enfant prodigue,\N,\N,original,\N,1
+tt0000591,3,The Prodigal Son,US,\N,\N,\N,0
+tt0000592,1,Eureka Stockade,AU,\N,imdbDisplay,\N,0
+tt0000592,2,Eureka Stockade,\N,\N,original,\N,1
+tt0000593,1,Els tres tombs,ES,ca,alternative,\N,0
+tt0000593,2,Fiestas de San Antonio,\N,\N,original,\N,1
+tt0000593,3,Fiestas de San Antonio,ES,\N,imdbDisplay,\N,0
+tt0000594,1,Flugten fra seraillet,\N,\N,original,\N,1
+tt0000594,2,The Flight from the Seraglio,US,\N,imdbDisplay,\N,0
+tt0000594,3,Flugten fra seraillet,DK,\N,imdbDisplay,\N,0
+tt0000594,4,Pako seraljista,FI,\N,\N,\N,0
+tt0000595,1,Rosen,\N,\N,original,\N,1
+tt0000595,2,From the Rococo Times,US,\N,imdbDisplay,\N,0
+tt0000595,3,Rosen,DK,\N,imdbDisplay,\N,0
+tt0000596,1,Fyrtøjet,\N,\N,original,\N,1
+tt0000596,2,Fyrtøjet,DK,\N,imdbDisplay,\N,0
+tt0000597,1,Wonderful Mirrors,US,\N,imdbDisplay,\N,0
+tt0000597,2,The Magic Mirror,\N,\N,\N,\N,0
+tt0000597,3,The Magic Mirror,US,\N,imdbDisplay,\N,0
+tt0000597,4,Les glaces merveilleuses,FR,\N,imdbDisplay,\N,0
+tt0000597,5,Les glaces merveilleuses,\N,\N,original,\N,1
+tt0000598,1,Hamlet,\N,\N,original,\N,1
+tt0000598,2,Hamlet, Prins af Danmark,DK,\N,imdbDisplay,\N,0
+tt0000598,3,Hamlet, Prince of Denmark,US,\N,imdbDisplay,\N,0
+tt0000598,4,Hamlet,HU,\N,imdbDisplay,\N,0
+tt0000598,5,Hamlet,FR,\N,imdbDisplay,\N,0
+tt0000599,1,Isbjørnejagten,\N,\N,original,\N,1
+tt0000599,2,En isbjørnejagt,DK,\N,\N,\N,0
+tt0000601,1,Lohengrin,DE,\N,imdbDisplay,\N,0
+tt0000601,2,Lohengrin,\N,\N,original,\N,1
+tt0000601,3,Den forlegne Lohengrin,DK,\N,imdbDisplay,\N,0
+tt0000602,1,Leijonanmetsästys,FI,\N,\N,\N,0
+tt0000602,2,Löwenjagd,DE,\N,imdbDisplay,\N,0
+tt0000602,3,Løvejagten,\N,\N,original,\N,1
+tt0000602,4,Løvejagten paa Elleore,DK,\N,alternative,\N,0
+tt0000602,5,La Chasse au Lion,FR,\N,alternative,\N,0
+tt0000602,6,Lion Hunting,US,\N,imdbDisplay,\N,0
+tt0000602,7,Løvejagten,DK,\N,imdbDisplay,\N,0
+tt0000602,8,Охота на львов,RU,\N,imdbDisplay,\N,0
+tt0000603,1,The Magic Fountain Pen,\N,\N,original,\N,1
+tt0000603,2,The Magic Fountain Pen,US,\N,imdbDisplay,\N,0
+tt0000604,1,Mesalliancen,DK,\N,imdbDisplay,\N,0
+tt0000604,2,Mesalliancen,\N,\N,original,\N,1
+tt0000604,3,A Misalliance,US,\N,imdbDisplay,\N,0
+tt0000604,4,Eine Mesalliance,DE,\N,alternative,\N,0
+tt0000605,1,Mordet paa Fyn,DK,\N,imdbDisplay,\N,0
+tt0000605,2,Mordet paa Fyn,\N,\N,original,\N,1
+tt0000606,1,Mr. Gay and Mrs.,US,\N,imdbDisplay,\N,0
+tt0000606,2,Mr. Gay and Mrs.,\N,\N,original,\N,1
+tt0000607,1,La muerte del tirano,\N,\N,original,\N,1
+tt0000607,2,La muerte del tirano,ES,\N,imdbDisplay,\N,0
+tt0000608,1,En ny hat til Madammen,DK,\N,imdbDisplay,\N,0
+tt0000608,2,En ny hat til Madammen,\N,\N,original,\N,1
+tt0000608,3,Ein Hut nach neuester Mode,DE,\N,\N,\N,0
+tt0000608,4,Ein neuer Hut,DE,\N,\N,\N,0
+tt0000609,1,Othello,US,\N,\N,\N,0
+tt0000609,2,Othello,GB,\N,\N,\N,0
+tt0000609,3,Отело,BG,bg,imdbDisplay,\N,0
+tt0000609,4,Othello,DK,\N,imdbDisplay,\N,0
+tt0000609,5,Otello von Venedig,DE,\N,\N,\N,0
+tt0000609,6,Otello,IT,\N,imdbDisplay,\N,0
+tt0000609,7,Otello,\N,\N,original,\N,1
+tt0000609,8,Otello,FR,\N,\N,\N,0
+tt0000609,9,悲劇オセロー,JP,ja,imdbDisplay,\N,0
+tt0000610,1,Othello indstuderes,DK,\N,imdbDisplay,\N,0
+tt0000610,2,Отело,BG,bg,imdbDisplay,\N,0
+tt0000610,3,Othello,\N,\N,original,\N,1
+tt0000610,4,Othello,DE,\N,imdbDisplay,\N,0
+tt0000611,1,The Power of the Sultan,\N,\N,\N,\N,0
+tt0000611,2,The Sultan's Power,\N,\N,\N,\N,0
+tt0000611,3,In the Sultan's Power,\N,\N,original,\N,1
+tt0000611,4,In the Sultan's Power,US,\N,imdbDisplay,\N,0
+tt0000612,1,Procesión marítima en Santa Cristina,ES,\N,imdbDisplay,\N,0
+tt0000612,2,Procesión marítima en Santa Cristina,\N,\N,original,\N,1
+tt0000613,1,O Rapto de Uma Actriz,PT,\N,imdbDisplay,\N,0
+tt0000613,2,O Rapto de Uma Actriz,\N,\N,original,\N,1
+tt0000614,10,To Kokkino Fasma,GR,\N,\N,transliterated title,0
+tt0000614,1,Красное привидение,RU,\N,imdbDisplay,\N,0
+tt0000614,2,The Red Spectre,US,\N,\N,\N,0
+tt0000614,3,Satanas se divierte,ES,\N,\N,\N,0
+tt0000614,4,Satan at Play,US,\N,\N,\N,0
+tt0000614,5,Το Κόκκινο Φάσμα,GR,\N,imdbDisplay,\N,0
+tt0000614,6,Satan s'amuse,\N,\N,\N,\N,0
+tt0000614,7,Le spectre rouge,\N,\N,original,\N,1
+tt0000614,8,A Diversão de Satã,BR,\N,imdbDisplay,\N,0
+tt0000614,9,Le spectre rouge,FR,\N,imdbDisplay,\N,0

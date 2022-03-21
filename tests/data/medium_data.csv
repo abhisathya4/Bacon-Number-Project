@@ -1,0 +1,14 @@
+Node1,Node2,Edge1-2,7.1
+Node2,Node3,Edge2-3,6.3
+Node3,Node4,Edge3-4,9.2
+Node4,Node6,Edge4-6,6.7
+Node6,Node7,Edge6-7,6.3
+Node2,Node5,Edge2-5,5.9
+Node5,Node6,Edge5-6,9.3
+Node2,Node8,Edge2-8,4.2
+Node8,Node12,Edge8-12,5.7
+Node5,Node11,Edge5-11,7.7
+Node11,Node7,Edge7-11,8.5
+Node1,Node9,Edge1-9,7.8
+Node9,Node10,Edge9-10,8.3
+Node10,Node11,Edge10-11,8.7

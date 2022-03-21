@@ -1,0 +1,7 @@
+NodeA,NodeB,EdgeAB,8.3
+NodeA,NodeC,EdgeAC,7.4
+NodeB,NodeC,EdgeBC,6.8
+NodeC,NodeD,EdgeCD,9.2
+NodeD,NodeE,EdgeDE,8.0
+NodeD,NodeF,EdgeDF,6.6
+NodeE,NodeF,EdgeEF,8.5
